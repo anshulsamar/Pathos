@@ -5,6 +5,12 @@
 
 function[trainMatrix] = createFeatureMatrix(trainHeadlines, lexicon)
 
+mapWordToIndex = containers.Map();
+for i = 1:size(lexicon,2)
+mapWordToIndex(char(lexicon(i))) = i;
+end
+
+keys(mapWordToIndex)
 
 %Get the sizes of the trainHeadlines matrix
 [numHeadlines,n] = size(trainHeadlines); %m = # of headlines, n = 1
@@ -25,12 +31,10 @@ for i = 1:numHeadlines
     end
     [featureRows, featureCols] = size(features);
     for j = 1:featureRows
-        for k = 1:numFeatures
-            X = strcmp(features(j,1),lexicon(1,k));
-            if X == 1
-                trainMatrix(i,k) = trainMatrix(i,k) + 1;
-            end
-        end
+	    if (mapWordToIndex.isKey(char(features(j,1))))
+	       k = mapWordToIndex(char(features(j,1)));
+               trainMatrix(i,k) = trainMatrix(i,k) + 1;
+	    end
     end
-    disp(i);
+disp(i);
 end
