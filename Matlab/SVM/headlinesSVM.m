@@ -6,7 +6,7 @@
 % training testing data sets have already been collected.
 
 
-function[] = headlinesSVM()
+function[predicted_label] = headlinesSVM()
 
 addpath('../Parse/');
 addpath('../Lib/liblinear-1.93');
@@ -39,13 +39,12 @@ if fid == -1
   [trainMatrix] = createFeatureMatrix(trainHeadlines, lexicon);
 
   disp('Saving to file: trainingData.dat for faster load next time');
-
   save('trainingData','trainMatrix','lexicon', 'trainLabels');
 
 else
 
   disp('Loading trainMatrix and lexicon from file trainingData.mat');
-  load('trainingData');
+  load('trainingData','trainMatrix','lexicon','trainLabels');
 
 end
 
@@ -62,10 +61,22 @@ avgAccuracy = 0;
 avgPrecision = 0;
 avgRecall = 0;
 
-
 disp('Running SVM');
 
-[model] = svm_train(trainMatrix, trainLabels);
+fid = fopen('model.mat');
+
+if fid == -1
+
+  [model] = svm_train(trainMatrix, trainLabels);
+  save('model','model');
+
+else
+
+  disp('Loading model from file model.mat');
+  load('model');
+
+end
+
 [predicted_label, accuracy, decision] = svm_test(testLabels(:,1), testMatrix, model);
 
 disp('Determining precision and recall.');
@@ -74,8 +85,18 @@ precisionNumerator = 0;
 precisionDenominator = 0;
 recallNumerator = 0;
 recallDenominator = 0;
+accuracyNumerator = 0;
+accuracyDenominator = 0;
 
 for i=1:size(testLabels(:,1),1)
+
+  if (testLabels(i,1) == 1 && predicted_label(i) == 1)
+     accuracyNumerator = accuracyNumerator + 1;
+     accuracyDenominator = accuracyDenominator + 1;
+  else
+    accuracyDenominator = accuracyDenominator + 1;
+    end
+
   if (testLabels(i,1) == 1)
     recallDenominator = recallDenominator + 1;
     if (predicted_label(i) == 1)
@@ -93,6 +114,7 @@ end
 
 precision = precisionNumerator/precisionDenominator
 recall = recallNumerator/recallDenominator
+accuracy = accuracyNumerator/accuracyDenominator
 
 disp('Finished.');
 

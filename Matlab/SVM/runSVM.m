@@ -1,4 +1,3 @@
-addpath('../Headers/');
 disp('Loading constants')
 loadconstants;
-headlinesSVM()
+[predicted_labels] = headlinesSVM()

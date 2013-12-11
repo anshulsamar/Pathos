@@ -15,6 +15,8 @@ for i = 1:m
     for csv = csvs
        map(csv{1}) = 1;
     end
+    if (mod(i,100) == 0)
+       disp(i + '...');
 end
 
 lexicon = keys(map);

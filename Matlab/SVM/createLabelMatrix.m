@@ -6,12 +6,14 @@
 
 function[labelMatrix] = createLabelMatrix(labels)
 
+global threshold
+
 [labelsRows, labelsCols] = size(labels);
 labelMatrix = labels;
 
 for i=1:labelsRows
 for j=1:labelsCols
-if (labelMatrix(i, j) <= 50) labelMatrix(i,j) = -1;
+if (labelMatrix(i, j) <= threshold) labelMatrix(i,j) = -1;
 else labelMatrix(i,j) = 1;
 end
 end
