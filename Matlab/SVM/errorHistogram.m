@@ -1,3 +1,5 @@
+status = system('rm *.mat');
+
 addpath('../Parse/');
 addpath('../Lib/liblinear-1.93');
 
