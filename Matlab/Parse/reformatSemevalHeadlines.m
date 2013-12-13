@@ -6,7 +6,7 @@ function[] = reformatSemevalHeadlines()
 
 disp('Parsing Semeval XML into txt file');
 [headlines] = extractSemevalHeadlines();
-fid = fopen('../../Evaluation/testHeadlines.txt', 'wt');
+fid = fopen('../../Matlab/Training/temp.txt', 'wt');
 for i=1:size(headlines,1)
 for j=1:size(headlines(i),2)
 fprintf(fid, '%c', char(headlines(i,j)));
@@ -14,7 +14,7 @@ end
 fprintf(fid, '%s\n', '');
 end
 fclose(fid);
-disp('Finished. testHeadlines.txt can be found in Pathos/Evaluation/');
+disp('Finished. txt can be found in  Matlab/Training/temp.txt');
 
 
 end

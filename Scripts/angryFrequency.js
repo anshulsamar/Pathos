@@ -1,3 +1,9 @@
+/* Script: angryFrequency.js
+------------------------------
+For each line in the input file, queries NYTimes for the number of pages in the API call that include that word and 'angry.' For example the NYTimes might return 10 pages of headlines for 'angry' and 'Montana' and 8 pages for 'angry' and 'lives.' The corresponding line in the output file contains the sum of page counts for each word in the line of the input file.
+*/
+
+
 var request = require('request');
 var fs = require('fs');
 
@@ -5,6 +11,7 @@ var fs = require('fs');
 function callAPI(page, count, outputFile, word, headline, all){
     
      if (headline.length == 0 && word == null){
+     console.log(count);
          fs.appendFile(outputFile, count);
         if (all.length){
             var nextHeadline = all.shift();
@@ -64,7 +71,7 @@ if (process.argv.length !== 4){
 var inputFile = process.argv[2];
 var outputFile = process.argv[3];
 
-var punctuation = [',','\'','\"','!','.','#'];
+var punctuation = [',','\'','\"','!','.','#', '\''];
 
 fs.readFile(inputFile, 'utf8', function(error, data){
     

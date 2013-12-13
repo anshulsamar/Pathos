@@ -1,34 +1,25 @@
-/* Script: nytimes.js
---------------------
-Description: Calls the NY Times api for headlines that match words in input file. Only gets articles before December 2013. Calls 40 pages for anger.
-Command line: node nytimes.js inputFile.txt outputFile.txt numPage. Note: maximum value numPage can take is a 100.
-*/
-
 var request = require('request');
 var fs = require('fs');
 
 //Recursive function to ensure sequential request to avoid QPS limit
 
-function callAPI(i, outputFile, word, API, pages){
+function callAPI(i, outputFile, year, API, pages){
       
     if (i >= pages){
         if (API.length){
-            var nextWord = API.shift();
-            if (nextWord == 'anger' || nextWord == 'angry')
-                callAPI(0,outputFile,nextWord,API,20);
-            else
-                callAPI(0,outputFile,nextWord,API,pages);
+            var nextYear = API.shift();
+            callAPI(0,outputFile,nextYear,API,pages);
             return;
         } else        
             return;
     }
 
-    console.log('API call ' + (i+1) + ' for: ' + word);
+    console.log('API call ' + (i+1) + ' for: ' + year);
     
     var oldHeadline = '';
     
     
-        request('http://api.nytimes.com/svc/search/v2/articlesearch.json?fq=headline:(\"' + word + '\")&page=' + encodeURIComponent(i) + '&fl=headline,lead_paragraph&end_date=20131130&api-key=fe1412f1ee8ed3c6f6e3f7a2d90c066c:8:67781992', function (error, response, body) {
+        request('http://api.nytimes.com/svc/search/v2/articlesearch.json?fq=pub_year:(\"' + year + '\")&page=' + encodeURIComponent(i) + '&fl=headline,lead_paragraph&api-key=fe1412f1ee8ed3c6f6e3f7a2d90c066c:8:67781992', function (error, response, body) {
                          
                 if (!error && response.statusCode == 200) {
                     obj = JSON.parse(body);
@@ -39,8 +30,7 @@ function callAPI(i, outputFile, word, API, pages){
                         
                         var newHeadline = obj.response.docs[j].headline.main;
                         
-                        if (oldHeadline !== newHeadline){
-	                        newHeadline = newHeadline.toLowerCase().replace(word, '');
+                        if (oldHeadline !== newHeadline){               
                             fs.appendFile(outputFile, newHeadline + '\n');
                             oldHeadline = newHeadline;
                         }
@@ -49,7 +39,7 @@ function callAPI(i, outputFile, word, API, pages){
                 }
             
                 setTimeout(function(){
-                    callAPI(i+1, outputFile, word, API, pages);
+                    callAPI(i+1, outputFile, year, API, pages);
                 },200);
             
             });
