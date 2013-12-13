@@ -1,4 +1,4 @@
-function[percentError] = nb_test(trainMatrix, labelMatrix, testMatrix, testLabelMatrix)
+function[output] = nb_run(trainMatrix, labelMatrix, testMatrix, testLabelMatrix)
 
 for i=1:size(labelMatrix,1)
 if (labelMatrix(i) == -1)
@@ -44,41 +44,41 @@ end
 
 
 % Compute the error on the test set
-correct=0;
-for i=1:numTestDocs
-  if (testLabelMatrix(i) == output(i))
-    correct=correct+1;
-  end
-end
+%correct=0;
+%for i=1:numTestDocs
+%  if (testLabelMatrix(i) == output(i))
+%    correct=correct+1;
+%  end
+%end
 
 %Print out the classification error on the test set
-accuracy = correct/numTestDocs
+%accuracy = correct/numTestDocs
 
-recallDenominator = 0;
-recallNumerator = 0;
-precisionDenominator = 0;
-precisionNumerator = 0;
+%recallDenominator = 0;
+%recallNumerator = 0;
+%precisionDenominator = 0;
+%precisionNumerator = 0;
 
-for i=1:size(testLabelMatrix,1)
-  if (testLabelMatrix(i) == 1)
-    recallDenominator = recallDenominator + 1;
-    if (output(i) == 1)
-      recallNumerator = recallNumerator + 1;
-    end
-  end
+%for i=1:size(testLabelMatrix,1)
+%  if (testLabelMatrix(i) == 1)
+%    recallDenominator = recallDenominator + 1;
+%    if (output(i) == 1)
+%      recallNumerator = recallNumerator + 1;
+%    end
+%  end
 
-  if (output(i) == 1)
-    precisionDenominator = precisionDenominator + 1;
-    if (testLabelMatrix(i) == 1)
-      precisionNumerator = precisionNumerator + 1;
-    end
-  end
-end
+ % if (output(i) == 1)
+  %  precisionDenominator = precisionDenominator + 1;
+   % if (testLabelMatrix(i) == 1)
+    %  precisionNumerator = precisionNumerator + 1;
+   % end
+  %end
+%end
 %precisionNumerator
 %precisionDenominator
 %recallNumerator
 %recallDenominator
-precision = precisionNumerator/precisionDenominator
-recall = recallNumerator/recallDenominator
+%precision = precisionNumerator/precisionDenominator
+%recall = recallNumerator/recallDenominator
 
 end

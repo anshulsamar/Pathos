@@ -1,0 +1,177 @@
+more,dysfunct,washington,blame,geographi,US-LOCATION#more dysfunct,dysfunct washington,washington blame,blame geographi
+china,is,tie,spi,european,diplomat,NON-US-LOCATION#china is,is tie,tie spi,spi european,european diplomat
+delay,foreseen,remov,syrian,chemic#delay foreseen,foreseen remov,remov syrian,syrian chemic
+snowi,owl,be,trap,instead,shot,new,york,area,airport,NON-US-LOCATION,NON-US-LOCATION#snowi owl,owl be,be trap,trap instead,instead shot,shot new,new york,york area,area airport
+mayor,oust,colombia,claim,bungl,NON-US-LOCATION#mayor oust,oust colombia,colombia claim,claim bungl
+ukrainian,protest,struggl,keep,polic,and,cold,bay#ukrainian protest,protest struggl,struggl keep,keep polic,polic and,and cold,cold bay
+hous,squeez#hous squeez
+season,sale,tax#season sale,sale tax
+what,washington,gives,new,york,ad,strain,social,safeti,net,US-LOCATION,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#what washington,washington gives,gives new,new york,york ad,ad strain,strain social,social safeti,safeti net
+breakthrough,agreement,risk#breakthrough agreement,agreement risk
+new,york,state,hospit,data,expos,big,markup,and,odd,bargain#new york,york state,state hospit,hospit data,data expos,expos big,big markup,markup and,and odd,odd bargain
+battl,and,protest,chain#battl and,and protest,protest chain
+argentina,loot,spread,polic,offic,stage,strike#argentina loot,loot spread,spread polic,polic offic,offic stage,stage strike
+cia,and,mandela,arrest#cia and,and mandela,mandela arrest
+state,found,shift,fund,antismok,effort#state found,found shift,shift fund,fund antismok,antismok effort
+india,rape,problem,and,how,men,see,it,NON-US-LOCATION#india rape,rape problem,problem and,and how,how men,men see,see it
+rental,demand,soar,poor,are,feel,squeez#rental demand,demand soar,soar poor,poor are,are feel,feel squeez
+progress,bank,stalem,europe,NON-US-LOCATION#progress bank,bank stalem,stalem europe
+ex,mayor,sentenc,harass,case#ex mayor,mayor sentenc,sentenc harass,harass case
+iraq,forc,clash,gunmen,syria,border,area,NON-US-LOCATION,NON-US-LOCATION#iraq forc,forc clash,clash gunmen,gunmen syria,syria border,border area
+notic,putin,dissolv,news,agenc#notic putin,putin dissolv,dissolv news,news agenc
+industri,product,slow,germany,NON-US-LOCATION#industri product,product slow,slow germany
+spi,infiltr,fantasi,realm,onlin,game#spi infiltr,infiltr fantasi,fantasi realm,realm onlin,onlin game
+greece,dismal,demograph,NON-US-LOCATION#greece dismal,dismal demograph
+protest,continu,thailand,elect,is,set,NON-US-LOCATION#protest continu,continu thailand,thailand elect,elect is,is set
+protest,continu,downtown,kiev,NON-US-LOCATION#protest continu,continu downtown,downtown kiev
+rutger,fire,NUM,coach#rutger fire,fire NUM,NUM coach
+health,exchang,premium,may,be,low,but,other,cost,can,be,high#health exchang,exchang premium,premium may,may be,be low,low but,but other,other cost,cost can,can be,be high
+north,korea,releas,list,accus,purg,offici,NON-US-LOCATION,NON-US-LOCATION#north korea,korea releas,releas list,list accus,accus purg,purg offici
+row,tin,shack,luxuri,hotel,rise#row tin,tin shack,shack luxuri,luxuri hotel,hotel rise
+NUM,senat,tri,hold,off,gop,south#NUM senat,senat tri,tri hold,hold off,off gop,gop south
+where,freedom,press,is,muffl#where freedom,freedom press,press is,is muffl
+advoc,struggl,reach,immigr,elig,defer,action#advoc struggl,struggl reach,reach immigr,immigr elig,elig defer,defer action
+venezuelan,mayor,vote,show,big,power,shift#venezuelan mayor,mayor vote,vote show,show big,big power,power shift
+tension,rise,indiana,school,chief,and,governor,clash,new,agenc#tension rise,rise indiana,indiana school,school chief,chief and,and governor,governor clash,clash new,new agenc
+crowd,battl,polic,singapore,district,NON-US-LOCATION,NON-US-LOCATION#crowd battl,battl polic,polic singapore,singapore district
+bomb,most,shiit,district,baghdad,kill,dozen,NON-US-LOCATION#bomb most,most shiit,shiit district,district baghdad,baghdad kill,kill dozen
+afghan,effort,get,justic,women,seem,stall#afghan effort,effort get,get justic,justic women,women seem,seem stall
+protest,kiev,toppl,lenin,statu,ralli,grow,NON-US-LOCATION#protest kiev,kiev toppl,toppl lenin,lenin statu,statu ralli,ralli grow
+florida,state,overwhelm,duke,and,set,sight,bigger,test#florida state,state overwhelm,overwhelm duke,duke and,and set,set sight,sight bigger,bigger test
+ioc,may,expel,india,NON-US-LOCATION#ioc may,may expel,expel india
+auburn,run,missouri,finish,u,turn,sec,titl#auburn run,run missouri,missouri finish,finish u,u turn,turn sec,sec titl
+nation,remad,mandela,social,equal,remain,elus#nation remad,remad mandela,mandela social,social equal,equal remain,remain elus
+isra,plan,bedouin,see,threat,their,way,life#isra plan,plan bedouin,bedouin see,see threat,threat their,their way,way life
+delta,flight,divert,teenag,die,onboard#delta flight,flight divert,divert teenag,teenag die,die onboard
+insur,chang,rais,concern,hiv,patient#insur chang,chang rais,rais concern,concern hiv,hiv patient
+explos,golan,heights,appear,target,isra,troop,NON-US-LOCATION,NON-US-LOCATION#explos golan,golan heights,heights appear,appear target,target isra,isra troop
+shame,profil,mental,ill#shame profil,profil mental,mental ill
+caution,read,can,be,hazard#caution read,read can,can be,be hazard
+houston,armor,car,are,do,opposit,dissuad,robber,NON-US-LOCATION#houston armor,armor car,car are,are do,do opposit,opposit dissuad,dissuad robber
+jet,have,fail,find,magic,solut,offens#jet have,have fail,fail find,find magic,magic solut,solut offens
+american,veteran,seiz,north,korea,tour,return,home,NON-US-LOCATION,NON-US-LOCATION#american veteran,veteran seiz,seiz north,north korea,korea tour,tour return,return home
+dead,factori,fire,bare,racial,tension,italy,NON-US-LOCATION#dead factori,factori fire,fire bare,bare racial,racial tension,tension italy
+cost,mistak,and,voter,suppress#cost mistak,mistak and,and voter,voter suppress
+bedouin,fight,keep,their,famili,land#bedouin fight,fight keep,keep their,their famili,famili land
+texa,inquiri,cancer,agenc,end,NUM,indict#texa inquiri,inquiri cancer,cancer agenc,agenc end,end NUM,NUM indict
+northern,illinoi,fall,bowl,green#northern illinoi,illinoi fall,fall bowl,bowl green
+britain,royal,marin,sentenc,kill,afghan,insurg#britain royal,royal marin,marin sentenc,sentenc kill,kill afghan,afghan insurg
+italy,egyptian,cleric,convict,NON-US-LOCATION#italy egyptian,egyptian cleric,cleric convict
+long,island,village,intent,discrimin,minor,judg,say,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#long island,island village,village intent,intent discrimin,discrimin minor,minor judg,judg say
+disappoint,successor,nelson,mandela,rever,father,nation#disappoint successor,successor nelson,nelson mandela,mandela rever,rever father,father nation
+flee,next,town,boss,may,find,minimum,wage,is,rise,there,too#flee next,next town,town boss,boss may,may find,find minimum,minimum wage,wage is,is rise,rise there,there too
+marrow,transplant,fail,cure,NUM,hiv,patient#marrow transplant,transplant fail,fail cure,cure NUM,NUM hiv,hiv patient
+NUM,arrest,theft,truck,radioact,wast#NUM arrest,arrest theft,theft truck,truck radioact,radioact wast
+11th,loss,row,texan,fire,kubiak#11th loss,loss row,row texan,texan fire,fire kubiak
+syria,spread,bloodsh,NON-US-LOCATION#syria spread,spread bloodsh
+genet,tester,stop,provid,data,health,risk#genet tester,tester stop,stop provid,provid data,data health,health risk
+video,alleg,sex,assault,is,investig,seton,hall#video alleg,alleg sex,sex assault,assault is,is investig,investig seton,seton hall
+minnesota,archdioces,releas,name,priest,suspect,abus#minnesota archdioces,archdioces releas,releas name,name priest,priest suspect,suspect abus
+somalia,suicid,bomber,attack,convoy,north,NON-US-LOCATION#somalia suicid,suicid bomber,bomber attack,attack convoy,convoy north
+strand,pilot,whale,die,florida,everglades,US-LOCATION,NON-US-LOCATION#strand pilot,pilot whale,whale die,die florida,florida everglades
+NUM,guantanamo,detaine,are,involuntarili,repatri,algeria,NON-US-LOCATION#NUM guantanamo,guantanamo detaine,detaine are,are involuntarili,involuntarili repatri,repatri algeria
+rememb,compos,lost,aid#rememb compos,compos lost,lost aid
+coal,your,stock,how,murder,your,bb#coal your,your stock,stock how,how murder,murder your,your bb
+pursuit,new,flight,and,reach,soft,land#pursuit new,new flight,flight and,and reach,reach soft,soft land
+good,samaritan,ensnar,web,exit#good samaritan,samaritan ensnar,ensnar web,web exit
+are,you,experienc,polit,pleas,leav#are you,you experienc,experienc polit,polit pleas,pleas leav
+afghan,policewoman,is,kill,fourth,last,NUM,month#afghan policewoman,policewoman is,is kill,kill fourth,fourth last,last NUM,NUM month
+german,offici,assail,unrepent,bank,execut#german offici,offici assail,assail unrepent,unrepent bank,bank execut
+arrest,satir,video,lay,bare,emirati,sensit#arrest satir,satir video,video lay,lay bare,bare emirati,emirati sensit
+pope,set,up,commiss,sexual,abus,children,priest#pope set,set up,up commiss,commiss sexual,sexual abus,abus children,children priest
+prosecutor,draw,fire,sentenc,call,harsh#prosecutor draw,draw fire,fire sentenc,sentenc call,call harsh
+us,say,diplomat,defraud,medicaid,NON-US-LOCATION#us say,say diplomat,diplomat defraud,defraud medicaid
+us,teacher,gun,down,benghazi,offici,say,NON-US-LOCATION,NON-US-LOCATION#us teacher,teacher gun,gun down,down benghazi,benghazi offici,offici say
+wall,st,digest,econom,news,wari,eye,fed#wall st,st digest,digest econom,econom news,news wari,wari eye,eye fed
+assault,yemeni,defens,ministri,compound,kill,NUM#assault yemeni,yemeni defens,defens ministri,ministri compound,compound kill,kill NUM
+sudanes,detaine,be,sent,home,guantanamo#sudanes detaine,detaine be,be sent,sent home,home guantanamo
+milit,attack,iraqi,polic,then,take,hostag#milit attack,attack iraqi,iraqi polic,polic then,then take,take hostag
+poor,black,and,hispan,men,are,face,hiv#poor black,black and,and hispan,hispan men,men are,are face,face hiv
+texas,paramed,get,jail,term,pipe,bomb,case,US-LOCATION#texas paramed,paramed get,get jail,jail term,term pipe,pipe bomb,bomb case
+wisconsin,medicaid,delay,bill,advanc,US-LOCATION#wisconsin medicaid,medicaid delay,delay bill,bill advanc
+ohio,suicid,rule,prison,death,abductor,US-LOCATION#ohio suicid,suicid rule,rule prison,prison death,death abductor
+document,say,phone,us,are,track,NON-US-LOCATION#document say,say phone,phone us,us are,are track
+paul,aussaress,NUM,who,tortur,algerian,die#paul aussaress,aussaress NUM,NUM who,who tortur,tortur algerian,algerian die
+bank,fail,compli,part,mortgag,settlement,report,say#bank fail,fail compli,compli part,part mortgag,mortgag settlement,settlement report,report say
+democrat,latest,campaign,health,care,law,begin#democrat latest,latest campaign,campaign health,health care,care law,law begin
+gang,member,said,consid,blackmail,toronto,mayor,NON-US-LOCATION#gang member,member said,said consid,consid blackmail,blackmail toronto,toronto mayor
+chicago,pursu,deal,chang,pension,fund,NON-US-LOCATION#chicago pursu,pursu deal,deal chang,chang pension,pension fund
+un,offici,detail,plan,remov,syria,chemic,arm,NON-US-LOCATION#un offici,offici detail,detail plan,plan remov,remov syria,syria chemic,chemic arm
+unarm,man,is,charg,wound,bystand,shot,polic,time,squar#unarm man,man is,is charg,charg wound,wound bystand,bystand shot,shot polic,polic time,time squar
+detroit,rule,threat,promis,and,assumpt,NON-US-LOCATION#detroit rule,rule threat,threat promis,promis and,and assumpt
+vapor,and,emot,rise,hear,e,cigarett#vapor and,and emot,emot rise,rise hear,hear e,e cigarett
+arizona,agenc,is,fault,death,firefight#arizona agenc,agenc is,is fault,fault death,death firefight
+NUM,leader,enmiti,stoke,concern,vote,fragil,democraci#NUM leader,leader enmiti,enmiti stoke,stoke concern,concern vote,vote fragil,fragil democraci
+lawson,celebr,chef,admit,cocain,use,but,deni,ex,husband,claim#lawson celebr,celebr chef,chef admit,admit cocain,cocain use,use but,but deni,deni ex,ex husband,husband claim
+i,can,hear,you,i,have,artist,my,ear#i can,can hear,hear you,you i,i have,have artist,artist my,my ear
+call,newtown,911,they,still,shoot,NON-US-LOCATION#call newtown,newtown 911,911 they,they still,still shoot
+student,debt,and,class,NUM#student debt,debt and,and class,class NUM
+train,had,warn,system,just,not,oper,cab#train had,had warn,warn system,system just,just not,not oper,oper cab
+ukrainian,presid,china,monitor,unrest,back,home,NON-US-LOCATION#ukrainian presid,presid china,china monitor,monitor unrest,unrest back,back home
+obama,press,case,health,law,and,wage,increas#obama press,press case,case health,health law,law and,and wage,wage increas
+major,hezbollah,figur,tie,syrian,war,is,assassin,beirut,NON-US-LOCATION#major hezbollah,hezbollah figur,figur tie,tie syrian,syrian war,war is,is assassin,assassin beirut
+mommi,drone,here#mommi drone,drone here
+bar,exam,pass,immigr,still,can,practic,law#bar exam,exam pass,pass immigr,immigr still,still can,can practic,practic law
+jihadist,group,gain,turmoil,middle,east,NON-US-LOCATION,NON-US-LOCATION#jihadist group,group gain,gain turmoil,turmoil middle,middle east
+corrupt,panel,report,offer,look,payback,cultur,albany,NON-US-LOCATION#corrupt panel,panel report,report offer,offer look,look payback,payback cultur,cultur albany
+central,african,republ,attack,kill,NUM,civilian#central african,african republ,republ attack,attack kill,kill NUM,NUM civilian
+germani,ban,sought,polit,parti#germani ban,ban sought,sought polit,polit parti
+cribb,is,put,injur,reserv#cribb is,is put,put injur,injur reserv
+sri,lanka,french,aid,group,accus,secur,forc,NUM,massacr,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#sri lanka,lanka french,french aid,aid group,group accus,accus secur,secur forc,forc NUM,NUM massacr
+massachusett,obama,uncl,avoid,deport#massachusett obama,obama uncl,uncl avoid,avoid deport
+panel,say,global,warm,carri,risk,deep,chang#panel say,say global,global warm,warm carri,carri risk,risk deep,deep chang
+super,pac,rais,money,liz,cheney,senat,bid#super pac,pac rais,rais money,money liz,liz cheney,cheney senat,senat bid
+hous,vote,extend,gun,law,new,provis,NUM,NUM,print,firearm#hous vote,vote extend,extend gun,gun law,law new,new provis,provis NUM,NUM NUM,NUM print,print firearm
+intern,crimin,court,wrestl,appli,law,or,bend#intern crimin,crimin court,court wrestl,wrestl appli,appli law,law or,or bend
+court,is,accus,unfair,target,contin,leader#court is,is accus,accus unfair,unfair target,target contin,contin leader
+syria,crisi,is,worsen,un,relief,offici,say,NON-US-LOCATION#syria crisi,crisi is,is worsen,worsen un,un relief,relief offici,offici say
+ukraine,protest,persist,bid,oust,govern,fail,NON-US-LOCATION#ukraine protest,protest persist,persist bid,bid oust,oust govern,govern fail
+detroit,brace,bankruptci,rule#detroit brace,brace bankruptci,bankruptci rule
+thai,polic,retreat,restor,calm,capit#thai polic,polic retreat,retreat restor,restor calm,calm capit
+investig,corrupt,albany,NON-US-LOCATION#investig corrupt,corrupt albany
+should,student,conceal,her,lesbian,ident,colleg,applic,essay#should student,student conceal,conceal her,her lesbian,lesbian ident,ident colleg,colleg applic,applic essay
+ukraine,reject,eu,accord,NON-US-LOCATION#ukraine reject,reject eu,eu accord
+american,NUM,year,old,lag,main,math,intern,standard,test#american NUM,NUM year,year old,old lag,lag main,main math,math intern,intern standard,standard test
+game,outcom,is,tie,kill#game outcom,outcom is,is tie,tie kill
+famili,home,and,work,feel,loss#famili home,home and,and work,work feel,feel loss
+sexual,assault#sexual assault
+spi,and,constitut#spi and,and constitut
+healthcaregov,flaw,and,fix#healthcaregov flaw,flaw and,and fix
+new,wave,challeng,health,law#new wave,wave challeng,challeng health,health law
+kurd,oil,deal,turkey,rais,fear,fissur,iraq,NON-US-LOCATION,NON-US-LOCATION#kurd oil,oil deal,deal turkey,turkey rais,rais fear,fear fissur,fissur iraq
+settl,new,york,but,still,chernobyl,reach,NON-US-LOCATION,NON-US-LOCATION#settl new,new york,york but,but still,still chernobyl,chernobyl reach
+asbesto,scam#asbesto scam
+gay,communiti,find,accept,is,even,more,difficult,street#gay communiti,communiti find,find accept,accept is,is even,even more,more difficult,difficult street
+drone,surveil,begin,congo,NON-US-LOCATION#drone surveil,surveil begin,begin congo
+afghanistan,suicid,bomb,kill,NUM#afghanistan suicid,suicid bomb,bomb kill,kill NUM
+panel,appoint,cuomo,say,corrupt,is,commonplac,albany,NON-US-LOCATION#panel appoint,appoint cuomo,cuomo say,say corrupt,corrupt is,is commonplac,commonplac albany
+medic,technician,is,sentenc,hepat,c,outbreak#medic technician,technician is,is sentenc,sentenc hepat,hepat c,c outbreak
+bishop,su,anti,abort,polici,cathol,hospit#bishop su,su anti,anti abort,abort polici,polici cathol,cathol hospit
+treasuri,bill,auction,is,delay#treasuri bill,bill auction,auction is,is delay
+gunmen,attack,offic,pakistani,media,group,karachi,NON-US-LOCATION#gunmen attack,attack offic,offic pakistani,pakistani media,media group,group karachi
+top,un,right,offici,link,assad,crime,syria,NON-US-LOCATION#top un,un right,right offici,offici link,link assad,assad crime,crime syria
+alloc,liabil,child,pornographi,full,or,fraction,share#alloc liabil,liabil child,child pornographi,pornographi full,full or,or fraction,fraction share
+NUM,year,caught,murder,case,NUM,web#NUM year,year caught,caught murder,murder case,case NUM,NUM web
+island,feel,weight,veteran,injuri#island feel,feel weight,weight veteran,veteran injuri
+comet,thought,dead,but,found,aliv,is,now,fade,away,astronom,say#comet thought,thought dead,dead but,but found,found aliv,aliv is,is now,now fade,fade away,away astronom,astronom say
+montana,appeal,sentenc,rape,NUM,year,old,girl#montana appeal,appeal sentenc,sentenc rape,rape NUM,NUM year,year old,old girl
+flaw,investig,florida,shoot,US-LOCATION#flaw investig,investig florida,florida shoot
+blast,kill,least,NUM,mourner,funer,iraq,sunni,leader,NON-US-LOCATION#blast kill,kill least,least NUM,NUM mourner,mourner funer,funer iraq,iraq sunni,sunni leader
+thousand,demand,resign,ukraine,leader,NON-US-LOCATION#thousand demand,demand resign,resign ukraine,ukraine leader
+thai,protest,turn,volatil,least,NUM,are,shot,dead#thai protest,protest turn,turn volatil,volatil least,least NUM,NUM are,are shot,shot dead
+verg,end,slump,island,let,victori,slip,away,again#verg end,end slump,slump island,island let,let victori,victori slip,slip away,away again
+spur,lose,first,home,rocket,hold,off,ralli#spur lose,lose first,first home,home rocket,rocket hold,hold off,off ralli
+traffic,agent,is,fatal,struck,manhattan,NON-US-LOCATION#traffic agent,agent is,is fatal,fatal struck,struck manhattan
+hurrican,sandi,wreak,havoc,chang,perspect#hurrican sandi,sandi wreak,wreak havoc,havoc chang,chang perspect
+text,apolog,attribut,american,detain,north,korea,NON-US-LOCATION,NON-US-LOCATION#text apolog,apolog attribut,attribut american,american detain,detain north,north korea
+text,north,korean,statement,detain,american#text north,north korean,korean statement,statement detain,detain american
+limit,access,stir,tension,white,hous,photograph,and,press,corp#limit access,access stir,stir tension,tension white,white hous,hous photograph,photograph and,and press,press corp
+oil,flood,plain,town,crime,pour,in#oil flood,flood plain,plain town,town crime,crime pour,pour in
+bedouin,israel,protest,plan,regul,settlement,NON-US-LOCATION#bedouin israel,israel protest,protest plan,plan regul,regul settlement
+year,mourn,loss,mumbai,NON-US-LOCATION#year mourn,mourn loss,loss mumbai
+dog,may,go,heaven,day,go,hospic#dog may,may go,go heaven,heaven day,day go,go hospic
+indian,editor,is,arrest,assault,employe#indian editor,editor is,is arrest,arrest assault,assault employe
+north,korea,releas,video,us,veteran,confess,hostil,act,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#north korea,korea releas,releas video,video us,us veteran,veteran confess,confess hostil,hostil act
+pilot,and,NUM,passeng,kill,plane,crash,alaska,US-LOCATION#pilot and,and NUM,NUM passeng,passeng kill,kill plane,plane crash,crash alaska
+cold,war,tension,reheat#cold war,war tension,tension reheat
+fifti,year,later,whi,doe,eichmann,jerusalem,remain,contenti,NON-US-LOCATION#fifti year,year later,later whi,whi doe,doe eichmann,eichmann jerusalem,jerusalem remain,remain contenti

@@ -1,0 +1,1479 @@
+murderfist
+state,gun,law,enact,year,newtown,NON-US-LOCATION#state gun,gun law,law enact,enact year,year newtown
+honor,mandela#honor mandela
+new,context,ear,heart,and,brain#new context,context ear,ear heart,heart and,and brain
+paul,walker,crash,site,memori,draw,thousand#paul walker,walker crash,crash site,site memori,memori draw,draw thousand
+even,superwoman,can,have,back,problem#even superwoman,superwoman can,can have,have back,back problem
+mandela
+mccown,hot,cold,night,and,bear,thump,cowboy#mccown hot,hot cold,cold night,night and,and bear,bear thump,thump cowboy
+respit,miller,custodi,case#respit miller,miller custodi,custodi case
+us,qualifi,team,figur,skate,event,NON-US-LOCATION#us qualifi,qualifi team,team figur,figur skate,skate event
+NUM,are,heisman,finalist#NUM are,are heisman,heisman finalist
+chang,formula,NUM#chang formula,formula NUM
+arizona,is,new,poll#arizona is,is new,new poll
+rich,williamson,white,hous,aid,die,NUM#rich williamson,williamson white,white hous,hous aid,aid die,die NUM
+cost,vs,charg,neonat,care#cost vs,vs charg,charg neonat,neonat care
+stan,tracey,die,NUM,help,british,jazz,emerg,american,shadow#stan tracey,tracey die,die NUM,NUM help,help british,british jazz,jazz emerg,emerg american,american shadow
+outfield,full,yank,seek,pitch,and,infield,help#outfield full,full yank,yank seek,seek pitch,pitch and,and infield,infield help
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+joseph,napolitan,pioneer,campaign,consult,die,NUM#joseph napolitan,napolitan pioneer,pioneer campaign,campaign consult,consult die,die NUM
+newtown,massacr,prompt,more,vigil,school,and,elsewher,NON-US-LOCATION#newtown massacr,massacr prompt,prompt more,more vigil,vigil school,school and,and elsewher
+buse,and,train,are,foundat,plan,get,ticket,holder,super,bowl#buse and,and train,train are,are foundat,foundat plan,plan get,get ticket,ticket holder,holder super,super bowl
+jet,need,consist,and,help,move,on#jet need,need consist,consist and,and help,help move,move on
+quotat,day,tuesday,decemb,NUM,2013#quotat day,day tuesday,tuesday decemb,decemb NUM,NUM 2013
+play,now,or,futur,giant,face,complic#play now,now or,or futur,futur giant,giant face,face complic
+new,york,city,subpoena,secret,tape,polic,offic,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#new york,york city,city subpoena,subpoena secret,secret tape,tape polic,polic offic
+real,basketbal,mom,kentucky,US-LOCATION#real basketbal,basketbal mom,mom kentucky
+berkeley,model,NON-US-LOCATION#berkeley model
+smart,and,feel,vy,attent#smart and,and feel,feel vy,vy attent
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+ex,clinton,aid,expect,join,obama#ex clinton,clinton aid,aid expect,expect join,join obama
+child,foster,care,struggl,defeat,odd#child foster,foster care,care struggl,struggl defeat,defeat odd
+stop,bloodsh,central,african,republ,ghost,genocid#stop bloodsh,bloodsh central,central african,african republ,republ ghost,ghost genocid
+fairer,polic,suffolk,county,NON-US-LOCATION,NON-US-LOCATION#fairer polic,polic suffolk,suffolk county
+health,care,exchang,is,vast,improv,user,say#health care,care exchang,exchang is,is vast,vast improv,improv user,user say
+miller,is,kept,out,his,fame,onli,grow#miller is,is kept,kept out,out his,his fame,fame onli,onli grow
+player,caus,but,team#player caus,caus but,but team
+think,futur#think futur
+scholarship,and,polit,case,noam,chomski#scholarship and,and polit,polit case,case noam,noam chomski
+nuclear,team,visit,libya,NON-US-LOCATION#nuclear team,team visit,visit libya
+bill,porter,except,salesman,who,inspir,film,die,NUM#bill porter,porter except,except salesman,salesman who,who inspir,inspir film,film die,die NUM
+nebraska,democrat,drop,challeng,hous,seat#nebraska democrat,democrat drop,drop challeng,challeng hous,hous seat
+william,is,set,return,and,chandler,is,prepar#william is,is set,set return,return and,and chandler,chandler is,is prepar
+print,and,digit,book#print and,and digit,digit book
+california,ex,captiv,recant,his,confess,US-LOCATION#california ex,ex captiv,captiv recant,recant his,his confess
+nebraska,candid,quit,congression,race,US-LOCATION#nebraska candid,candid quit,quit congression,congression race
+utah,mormon,address,exclus,black,priest#utah mormon,mormon address,address exclus,exclus black,black priest
+dasani,futur,rest,fragil,foundat#dasani futur,futur rest,rest fragil,fragil foundat
+stori,is,viral,truth,may,be,take,beat#stori is,is viral,viral truth,truth may,may be,be take,take beat
+mandela,a,test,poll,his,parti#mandela a,a test,test poll,poll his,his parti
+delay,train,skeptic,boss,mta,will,give,passeng,late,note#delay train,train skeptic,skeptic boss,boss mta,mta will,will give,give passeng,passeng late,late note
+joel,and,cuomo,piano,man,and,friend#joel and,and cuomo,cuomo piano,piano man,man and,and friend
+senat,boxer,filibust#senat boxer,boxer filibust
+inspir,student,math,and,scienc#inspir student,student math,math and,and scienc
+support,and,smile,same,sex,marriag#support and,and smile,smile same,same sex,sex marriag
+sweet,caress,cyberspac#sweet caress,caress cyberspac
+accid,road,not,taken#accid road,road not,not taken
+clot,tie,heart,pump,open,debat,risk,patient,face,trial#clot tie,tie heart,heart pump,pump open,open debat,debat risk,risk patient,patient face,face trial
+memoir,stroke,petal,fall,and,word,fail#memoir stroke,stroke petal,petal fall,fall and,and word,word fail
+life,interrupt,viewer#life interrupt,interrupt viewer
+consid,human,nonhuman#consid human,human nonhuman
+us,household,net,worth,rose,NUM,3rd,quarter#us household,household net,net worth,worth rose,rose NUM,NUM 3rd,3rd quarter
+nbc,say,it,will,put,show,again#nbc say,say it,it will,will put,put show,show again
+plato,philosophi,manipul#plato philosophi,philosophi manipul
+negoti,reach,compromis,defens,bill#negoti reach,reach compromis,compromis defens,defens bill
+new,album,r,kelli,and,parmale#new album,album r,r kelli,kelli and,and parmale
+torr,tip,cap,way,hall#torr tip,tip cap,cap way,way hall
+german,coalit,hang,vote,NUM,parti#german coalit,coalit hang,hang vote,vote NUM,NUM parti
+palliat,care,shortag,NUM,letter#palliat care,care shortag,shortag NUM,NUM letter
+more,help,fatti,acid,found,organ,milk#more help,help fatti,fatti acid,acid found,found organ,organ milk
+scienc,bookshelf#scienc bookshelf
+showi,beetl,befriend,ant#showi beetl,beetl befriend,befriend ant
+unlik,pair,can,lead,surpris#unlik pair,pair can,can lead,lead surpris
+magic,wand,fluid,slide,genr#magic wand,wand fluid,fluid slide,slide genr
+compos,redeem,oblivion#compos redeem,redeem oblivion
+evolutionari,twist,and,new,role,drone#evolutionari twist,twist and,and new,new role,role drone
+montreal,protocol,littl,treati,that,could#montreal protocol,protocol littl,littl treati,treati that,that could
+new,hurdl,prematur,babi#new hurdl,hurdl prematur,prematur babi
+inexpens,way,print,out,metal,part#inexpens way,way print,print out,out metal,metal part
+tale,long,and,loss,all,their,rhythmic,intens#tale long,long and,and loss,loss all,all their,their rhythmic,rhythmic intens
+enjoy,fellow,travel,even,they,have,flipper#enjoy fellow,fellow travel,travel even,even they,they have,have flipper
+berlin,philharmon,plan,major,concert,new,york,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#berlin philharmon,philharmon plan,plan major,major concert,concert new,new york
+israel,allow,build,materi,gaza,NON-US-LOCATION,NON-US-LOCATION#israel allow,allow build,build materi,materi gaza
+airlines8217,credit,card,perk,take,it,chin#airlines8217 credit,credit card,card perk,perk take,take it,it chin
+intellectu,mission#intellectu mission
+navi,secretari,expand,review,suppli,contract#navi secretari,secretari expand,expand review,review suppli,suppli contract
+hoop,hotel,upgrad#hoop hotel,hotel upgrad
+rare,middl,east,agreement,water#rare middl,middl east,east agreement,agreement water
+michael,french,who,battl,rare,dementia,die,NUM#michael french,french who,who battl,battl rare,rare dementia,dementia die,die NUM
+when,lightn,strike,your,car#when lightn,lightn strike,strike your,your car
+wpp,chief,temper,buoyant,NUM,ad,forecast#wpp chief,chief temper,temper buoyant,buoyant NUM,NUM ad,ad forecast
+smoki,beef,and,veget,petit,packag#smoki beef,beef and,and veget,veget petit,petit packag
+cite,back,problem,halladay,retir,NUM,year,and,NUM,win#cite back,back problem,problem halladay,halladay retir,retir NUM,NUM year,year and,and NUM,NUM win
+hear,san,francisco,crash,set,explor,broader,problem,NON-US-LOCATION,NON-US-LOCATION#hear san,san francisco,francisco crash,crash set,set explor,explor broader,broader problem
+doormen,holiday,bring,tip,and,colleagues8217,curios#doormen holiday,holiday bring,bring tip,tip and,and colleagues8217,colleagues8217 curios
+chrysler,recal,NUM,vehicl,nhtsa,investig,hyundai#chrysler recal,recal NUM,NUM vehicl,vehicl nhtsa,nhtsa investig,investig hyundai
+ancient,martian,lake,may,have,support,life#ancient martian,martian lake,lake may,may have,have support,support life
+monday,motorsport,johnson,honor,sixth,nascar,titl#monday motorsport,motorsport johnson,johnson honor,honor sixth,sixth nascar,nascar titl
+torr,la,russa,and,cox,elect,hall,fame#torr la,la russa,russa and,and cox,cox elect,elect hall,hall fame
+slight,gain,market,optim,persist#slight gain,gain market,market optim,optim persist
+parent,airbus,cut,NUM,job,europe8217,militari,budget,shrink#parent airbus,airbus cut,cut NUM,NUM job,job europe8217,europe8217 militari,militari budget,budget shrink
+public,ouster,north,korea,unsettles,china,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#public ouster,ouster north,north korea,korea unsettles,unsettles china
+reign,cartier,jewel,royalti#reign cartier,cartier jewel,jewel royalti
+score,leader,head,south,africa,servic,NON-US-LOCATION,NON-US-LOCATION#score leader,leader head,head south,south africa,africa servic
+beast,india,midst,NON-US-LOCATION#beast india,india midst
+goodby,lenin#goodby lenin
+infiltr,virtual,game,world#infiltr virtual,virtual game,game world
+whi,machiavelli,still,matter#whi machiavelli,machiavelli still,still matter
+japanes,cuisin,goe,global#japanes cuisin,cuisin goe,goe global
+earthquak,or,consensus,eu#earthquak or,or consensus,consensus eu
+philippines,and,muslim,rebel,move,closer,final,peac,deal,NON-US-LOCATION#philippines and,and muslim,muslim rebel,rebel move,move closer,closer final,final peac,peac deal
+visit,pakistan,hagel,seek,shore,up,allianc#visit pakistan,pakistan hagel,hagel seek,seek shore,shore up,up allianc
+face,off,kiev,NON-US-LOCATION#face off,off kiev
+paul,walker,memori,draw,thousand#paul walker,walker memori,memori draw,draw thousand
+plant,mysteri,and,clue#plant mysteri,mysteri and,and clue
+deciph,volcker,rule#deciph volcker,volcker rule
+ad,use,famous,figur,put,face,problem#ad use,use famous,famous figur,figur put,put face,face problem
+q,and,stuart,elliott#q and,and stuart,stuart elliott
+account,and,peopl,note,advertis,industri#account and,and peopl,peopl note,note advertis,advertis industri
+overcom,avers,loss#overcom avers,avers loss
+mix,grain,risotto,kale,walnut,and,black,quinoa#mix grain,grain risotto,risotto kale,kale walnut,walnut and,and black,black quinoa
+user,data,request,receiv,cellphon,carrier#user data,data request,request receiv,receiv cellphon,cellphon carrier
+lesson,exxon,valdez,oil,spill#lesson exxon,exxon valdez,valdez oil,oil spill
+reviv,retro,hair,jewel#reviv retro,retro hair,hair jewel
+sculpt,jewelri,piec,art#sculpt jewelri,jewelri piec,piec art
+disciplin,contrarian,who,decor,bodi#disciplin contrarian,contrarian who,who decor,decor bodi
+luxuri,phone,design,women#luxuri phone,phone design,design women
+quotat,day,monday,decemb,NUM,2013#quotat day,day monday,monday decemb,decemb NUM,NUM 2013
+week,NUM,nfl,quick,hit,review,call,pass,interfer#week NUM,NUM nfl,nfl quick,quick hit,hit review,review call,call pass,pass interfer
+summari,report,and,sourc,note#summari report,report and,and sourc,sourc note
+bring,peopl,who,are,better,you#bring peopl,peopl who,who are,are better,better you
+photo,replay,dec,NUM,NUM#photo replay,replay dec,dec NUM,NUM NUM
+swiss,win,super,g,again,and,vonn,is,fifth#swiss win,win super,super g,g again,again and,and vonn,vonn is,is fifth
+johnson,beat,wood,world,challeng,playoff#johnson beat,beat wood,wood world,world challeng,challeng playoff
+ucla,women,win,titl#ucla women,women win,win titl
+popular,demand#popular demand
+thunder,trounc,pacer#thunder trounc,trounc pacer
+paris,lead,wild,victori#paris lead,lead wild,wild victori
+eastern,state,press,midwest,improv,air#eastern state,state press,press midwest,midwest improv,improv air
+tech,giant,issu,call,limit,govern,surveil,user#tech giant,giant issu,issu call,call limit,limit govern,govern surveil,surveil user
+NUM,oregon,surviv,stubborn,ole,miss,overtim#NUM oregon,oregon surviv,surviv stubborn,stubborn ole,ole miss,miss overtim
+union,posit,defend,indefens#union posit,posit defend,defend indefens
+young,jet,safeti,emul,veteran,teammat,pivot,play#young jet,jet safeti,safeti emul,emul veteran,veteran teammat,teammat pivot,pivot play
+so,far,so,good,john,kerri#so far,far so,so good,good john,john kerri
+fire,offici,told,watch,bias,rooki,report#fire offici,offici told,told watch,watch bias,bias rooki,rooki report
+global,dine,empir,lose,outpost#global dine,dine empir,empir lose,lose outpost
+rebuild,meet,fall,apart#rebuild meet,meet fall,fall apart
+start,scratch,second,time#start scratch,scratch second,second time
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+uproar,health,law,voic,quiet,optim,and,relief#uproar health,health law,law voic,voic quiet,quiet optim,optim and,and relief
+san,francisco,demonstr,it,has,home,field,advantag,too,NON-US-LOCATION,NON-US-LOCATION#san francisco,francisco demonstr,demonstr it,it has,has home,home field,field advantag,advantag too
+tragic,cours,deliri,blaze#tragic cours,cours deliri,deliri blaze
+when,bishop,direct,medic,care#when bishop,bishop direct,direct medic,medic care
+eagl,ralli,keep,it,simpl,snow#eagl ralli,ralli keep,keep it,it simpl,simpl snow
+case,toler,e,cigarett#case toler,toler e,e cigarett
+iran,enemi,alli#iran enemi,enemi alli
+mistak,fill,year,giant,are,elimin,playoff,race,fit,fashion#mistak fill,fill year,year giant,giant are,are elimin,elimin playoff,playoff race,race fit,fit fashion
+eye,iran,navi,gulf,stay,readi#eye iran,iran navi,navi gulf,gulf stay,stay readi
+sake,argument,vanish,sensibl,bcs,final#sake argument,argument vanish,vanish sensibl,sensibl bcs,bcs final
+news,advertis,industri#news advertis,advertis industri
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+brooklyn,district,attorney,elect,choos,top,assist#brooklyn district,district attorney,attorney elect,elect choos,choos top,top assist
+save,fed,itself#save fed,fed itself
+signal,upgrad,curv,track,where,metro,north,crash,occur#signal upgrad,upgrad curv,curv track,track where,where metro,metro north,north crash,crash occur
+punish,cure#punish cure
+capit,salut,NUM,star,kennedi,center,honor#capit salut,salut NUM,NUM star,star kennedi,kennedi center,center honor
+bring,back,artist,beauti,19th,centuri,church#bring back,back artist,artist beauti,beauti 19th,19th centuri,centuri church
+ligeti,domin,and,miller,surpris,NUM,NUM,us,finish,NON-US-LOCATION#ligeti domin,domin and,and miller,miller surpris,surpris NUM,NUM NUM,NUM us,us finish
+fred,f,scherer,die,NUM,diorama,painter,master,even,illus,air#fred f,f scherer,scherer die,die NUM,NUM diorama,diorama painter,painter master,master even,even illus,illus air
+minimum,wage,studi#minimum wage,wage studi
+candor,dead#candor dead
+good,old,book,paper#good old,old book,book paper
+travel,snarl,east,coast,blast,snow,and,sleet,NON-US-LOCATION,NON-US-LOCATION#travel snarl,snarl east,east coast,coast blast,blast snow,snow and,and sleet
+more,medicaid,patient,but,not,enough,doctor#more medicaid,medicaid patient,patient but,but not,not enough,enough doctor
+new,formula,offici,help,unmask,face,poverti,new,york,NON-US-LOCATION,NON-US-LOCATION#new formula,formula offici,offici help,help unmask,unmask face,face poverti,poverti new,new york
+afghan,leader,agre,talk,closer,iran,tie#afghan leader,leader agre,agre talk,talk closer,closer iran,iran tie
+econom,report,week,dec,NUM#econom report,report week,week dec,dec NUM
+treasuri,auction,set,week,dec,NUM#treasuri auction,auction set,set week,week dec,dec NUM
+td,ameritrad,commerci,link,olymp,and,invest#td ameritrad,ameritrad commerci,commerci link,link olymp,olymp and,and invest
+mandela,self,declar,yanke,get,plaqu,monument,park#mandela self,self declar,declar yanke,yanke get,get plaqu,plaqu monument,monument park
+crisi,insan,clown,poss,get,saner#crisi insan,insan clown,clown poss,poss get,get saner
+we,interrupt,tv,show,music#we interrupt,interrupt tv,tv show,show music
+flea,theater,get,place,call,home#flea theater,theater get,get place,place call,call home
+north,korean,fallout#north korean,korean fallout
+italian,film,win,honor,europe,NON-US-LOCATION#italian film,film win,win honor,honor europe
+who,own,sky#who own,own sky
+rush,arctic,rich#rush arctic,arctic rich
+holiday,tradit,perform,mandela,mind#holiday tradit,tradit perform,perform mandela,mandela mind
+seesaw,finish,north,american,championship#seesaw finish,finish north,north american,american championship
+celebr,lawyer,still,has,skill#celebr lawyer,lawyer still,still has,has skill
+summon,fantast,long,opium,trip,has,lost,it,novelti#summon fantast,fantast long,long opium,opium trip,trip has,has lost,lost it,it novelti
+scholar,is,back,home,and,defiant,hungary,NON-US-LOCATION#scholar is,is back,back home,home and,and defiant,defiant hungary
+oecd,warn,west,educ,gap#oecd warn,warn west,west educ,educ gap
+public,work,boom,japan,has,echo,lost,decad,NON-US-LOCATION#public work,work boom,boom japan,japan has,has echo,echo lost,lost decad
+jet,tri,out,new,look,compet#jet tri,tri out,out new,new look,look compet
+hybrid,form,blossom,where,middl,eastern,instrument,meet,jazz#hybrid form,form blossom,blossom where,where middl,middl eastern,eastern instrument,instrument meet,meet jazz
+haze,bare,chest,thigh,slap,and,squall,vertic,flight#haze bare,bare chest,chest thigh,thigh slap,slap and,and squall,squall vertic,vertic flight
+nba,game,week,eastern,showdown#nba game,game week,week eastern,eastern showdown
+sea,subtleti,thunder,strike#sea subtleti,subtleti thunder,thunder strike
+set,or,prop,but,song,propel,imagin#set or,or prop,prop but,but song,song propel,propel imagin
+season,fill,low,knick,outdo,themselv#season fill,fill low,low knick,knick outdo,outdo themselv
+thai,premier,call,elect,opposit,quit#thai premier,premier call,call elect,elect opposit,opposit quit
+bosqu,and,spain,championship,phase,begin,NON-US-LOCATION#bosqu and,and spain,spain championship,championship phase,phase begin
+south,korea,announc,expans,it,air,defens,zone,NON-US-LOCATION,NON-US-LOCATION#south korea,korea announc,announc expans,expans it,it air,air defens,defens zone
+track,volcker,rule#track volcker,volcker rule
+soweto,and,mandela,still,serv,beacon,hope,NON-US-LOCATION#soweto and,and mandela,mandela still,still serv,serv beacon,beacon hope
+congress,parti,defeat,indian,state,elect#congress parti,parti defeat,defeat indian,indian state,state elect
+export,surg,set,up,big,surplus,china,NON-US-LOCATION#export surg,surg set,set up,up big,big surplus,surplus china
+outsiz,rapscallion,let,loos,postwar,england,NON-US-LOCATION#outsiz rapscallion,rapscallion let,let loos,loos postwar,postwar england
+robert,wach,scene,forc,comedi,die,NUM#robert wach,wach scene,scene forc,forc comedi,comedi die,die NUM
+in,lebanon,fear,perman,refuge,NON-US-LOCATION#in lebanon,lebanon fear,fear perman,perman refuge
+jet,replay,week,NUM#jet replay,replay week,week NUM
+row,tin,shack,luxuri,hotel,rise#row tin,tin shack,shack luxuri,luxuri hotel,hotel rise
+malignaggi,domin,judah,claim,battl,brooklyn#malignaggi domin,domin judah,judah claim,claim battl,battl brooklyn
+correct,decemb,NUM,NUM#correct decemb,decemb NUM,NUM NUM
+spartan,squash,buckey,and,debat,bcs,titl,game#spartan squash,squash buckey,buckey and,and debat,debat bcs,bcs titl,titl game
+battl,lowli,net,come,out,top#battl lowli,lowli net,net come,come out,out top
+union,mutual,admir#union mutual,mutual admir
+ideal,candid,romanc#ideal candid,candid romanc
+zing,bai,and,issac,chao#zing bai,bai and,and issac,issac chao
+david,adam,robert,schwartz#david adam,adam robert,robert schwartz
+kat,mccullough,and,michael,braun#kat mccullough,mccullough and,and michael,michael braun
+emili,felderman,jason,raxenberg#emili felderman,felderman jason,jason raxenberg
+steven,harri,and,lucien,ree,robert#steven harri,harri and,and lucien,lucien ree,ree robert
+katherin,gabel,eunic,shatz#katherin gabel,gabel eunic,eunic shatz
+gabriell,demattei,john,keller#gabriell demattei,demattei john,john keller
+salli,elbaum,and,mark,friedman#salli elbaum,elbaum and,and mark,mark friedman
+alyssa,hart,matthew,ross#alyssa hart,hart matthew,matthew ross
+natalia,berri,eric,twerdahl,jr#natalia berri,berri eric,eric twerdahl,twerdahl jr
+franc,black,matthew,strauss#franc black,black matthew,matthew strauss
+deborah,leiderman,theodor,geiger#deborah leiderman,leiderman theodor,theodor geiger
+laura,silver,and,michael,bisberg#laura silver,silver and,and michael,michael bisberg
+erin,hesp,and,troy,cudworth#erin hesp,hesp and,and troy,troy cudworth
+oriol,sign,peguero,free,agent,outfield#oriol sign,sign peguero,peguero free,free agent,agent outfield
+wilson,remain,dodger#wilson remain,remain dodger
+tiger,wood,keep,lead#tiger wood,wood keep,keep lead
+wade,and,insid,game,return,miami,in,win,minnesota,NON-US-LOCATION,US-LOCATION#wade and,and insid,insid game,game return,return miami,miami in,in win,win minnesota
+bottom,nfl,draft,ponder#bottom nfl,nfl draft,draft ponder
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+colorado,beat,buzzer,gain,first,win,vs,kansas,NUM,year,US-LOCATION#colorado beat,beat buzzer,buzzer gain,gain first,first win,win vs,vs kansas,kansas NUM,NUM year
+parliament,approv,NUM,budget,greece,NON-US-LOCATION#parliament approv,approv NUM,NUM budget,budget greece
+madoff,victim,NUM,year,wiser#madoff victim,victim NUM,NUM year,year wiser
+who,say,math,has,be,bore#who say,say math,math has,has be,be bore
+delbert,tibb,who,left,death,row,and,fought,it,die,NUM#delbert tibb,tibb who,who left,left death,death row,row and,and fought,fought it,it die,die NUM
+holiday,gift,guid,librari,book,local,connect#holiday gift,gift guid,guid librari,librari book,book local,local connect
+setback,ban,doubl,NUM,could,gain,traction#setback ban,ban doubl,doubl NUM,NUM could,could gain,gain traction
+french,troop,welcom,central,african,republic,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#french troop,troop welcom,welcom central,central african,african republic
+tabu,ley,rochereau,die,spread,sound,soukous#tabu ley,ley rochereau,rochereau die,die spread,spread sound,sound soukous
+egypt,releas,NUM,femal,protest,NON-US-LOCATION#egypt releas,releas NUM,NUM femal,femal protest
+so,easi,sign,up,and,so,hard,cancel#so easi,easi sign,sign up,up and,and so,so hard,hard cancel
+promis,scienc,and,technolog,work#promis scienc,scienc and,and technolog,technolog work
+share,name,may,be,hurdl,keep,texa,post#share name,name may,may be,be hurdl,hurdl keep,keep texa,texa post
+sooner,dash,bcs,hope,rival#sooner dash,dash bcs,bcs hope,hope rival
+buy,american#buy american
+hard,say,goodby#hard say,say goodby
+i,switch,phone,where,did,text,messag,go#i switch,switch phone,phone where,where did,did text,text messag,messag go
+whisker,unlimit,not,wall,st#whisker unlimit,unlimit not,not wall,wall st
+cano,but,spree,sign,yanke#cano but,but spree,spree sign,sign yanke
+listen,skill,reappli#listen skill,skill reappli
+obama,say,he,can,envis,nuclear,deal,iran,NON-US-LOCATION#obama say,say he,he can,can envis,envis nuclear,nuclear deal,deal iran
+long,data#long data
+scoreboard,word,cultur,guid#scoreboard word,word cultur,cultur guid
+second,and,later,chanc,await,altern,door,basebal,hall,fame#second and,and later,later chanc,chanc await,await altern,altern door,door basebal,basebal hall,hall fame
+mass,attack,new,advic,let,medic,rush,in#mass attack,attack new,new advic,advic let,let medic,medic rush,rush in
+cricket,onc,genteel,sport,reveal,darker,side#cricket onc,onc genteel,genteel sport,sport reveal,reveal darker,darker side
+world,travel,humbl,root#world travel,travel humbl,humbl root
+chatter,sunday,dec,NUM#chatter sunday,sunday dec,dec NUM
+pga,tournament,shape,word,and,shoot,high,score#pga tournament,tournament shape,shape word,word and,and shoot,shoot high,high score
+beat,market,reachabl,goal#beat market,market reachabl,reachabl goal
+winter,storm,grip,us,knock,out,power,and,ground,flight#winter storm,storm grip,grip us,us knock,knock out,out power,power and,and ground,ground flight
+christi,alli,resign,port,author#christi alli,alli resign,resign port,port author
+play,pension,game#play pension,pension game
+sunday,dialogu,partisanship,media#sunday dialogu,dialogu partisanship,partisanship media
+anna,holm#anna holm
+case,filth#case filth
+bibl,bludgeon#bibl bludgeon
+can,foreign,aid,help,girl#can foreign,foreign aid,aid help,help girl
+borderlin,insan,fenc,nogales,NON-US-LOCATION#borderlin insan,insan fenc,fenc nogales
+obamacar,turn,corner#obamacar turn,turn corner
+thorni,challeng,cover,china,NON-US-LOCATION#thorni challeng,challeng cover,cover china
+woodrow,wilson,stud,muffin#woodrow wilson,wilson stud,stud muffin
+quarterback,rise,and,collis,cours#quarterback rise,rise and,and collis,collis cours
+truck,deliv,outdoor,hockey#truck deliv,deliv outdoor,outdoor hockey
+wto,reach,first,global,trade,deal#wto reach,reach first,first global,global trade,trade deal
+how,mani,american,men,are,gay#how mani,mani american,american men,men are,are gay
+where,closet,is,still,common#where closet,closet is,is still,still common
+wall,street,mother,stay,home,father#wall street,street mother,mother stay,stay home,home father
+purg,north,korean,is,cut,film#purg north,north korean,korean is,is cut,cut film
+dara,richardson,heron,ywca,persist#dara richardson,richardson heron,heron ywca,ywca persist
+nelson,mandela,communist#nelson mandela,mandela communist
+turn,tabl#turn tabl
+giant,NUM,NUM,charger,NUM,NUM#giant NUM,NUM NUM,NUM charger,charger NUM,NUM NUM
+raider,NUM,NUM,jet,NUM,NUM#raider NUM,NUM NUM,NUM jet,jet NUM,NUM NUM
+sport,kc,captur,mls,titl,penalti#sport kc,kc captur,captur mls,mls titl,titl penalti
+knick,fan,take,blog,commiser#knick fan,fan take,take blog,blog commiser
+letter,editor,say,no,footbal,safeti,youth#letter editor,editor say,say no,no footbal,footbal safeti,safeti youth
+cano,renew,rivalri,great,divid#cano renew,renew rivalri,rivalri great,great divid
+fantasi,footbal,rooki,report,part,NUM#fantasi footbal,footbal rooki,rooki report,report part,part NUM
+tale,tailspin#tale tailspin
+afghanistan,hagel,press,pact,secur,but,is,not,meet,karzai,NON-US-LOCATION#afghanistan hagel,hagel press,press pact,pact secur,secur but,but is,is not,not meet,meet karzai
+t,holiday#t holiday
+south,african,prepar,day,mourn,and,commemor#south african,african prepar,prepar day,day mourn,mourn and,and commemor
+biden,look,north,korea,border#biden look,look north,north korea,korea border
+hong,kong,report,second,case,dead,bird,flu,NON-US-LOCATION,NON-US-LOCATION#hong kong,kong report,report second,second case,case dead,dead bird,bird flu
+q,anthoni,p,carneval#q anthoni,anthoni p,p carneval
+but,who,am,i,now#but who,who am,am i,i now
+cancer,survivor,celebr,their,cancerversari#cancer survivor,survivor celebr,celebr their,their cancerversari
+biglittl,get,togeth,cater,compani,eye,food,and,fashion#biglittl get,get togeth,togeth cater,cater compani,compani eye,eye food,food and,and fashion
+enterpris,busi,student,turn,fashion#enterpris busi,busi student,student turn,turn fashion
+residenti,sale,region#residenti sale,sale region
+greta,gerwig,dress,award,season,red,carpet#greta gerwig,gerwig dress,dress award,award season,season red,red carpet
+greta,gerwig,independ,spirit,find,her,look#greta gerwig,gerwig independ,independ spirit,spirit find,find her,her look
+modo,new,version,bikram,hot,yoga,is,grow,popular#modo new,new version,version bikram,bikram hot,hot yoga,yoga is,is grow,grow popular
+vintag,show,devot,and,tribut#vintag show,show devot,devot and,and tribut
+big,bit,egypt,central,park,NON-US-LOCATION#big bit,bit egypt,egypt central,central park
+footwork,furi#footwork furi
+new,home,festiv#new home,home festiv
+even,cowgirl,get,show#even cowgirl,cowgirl get,get show
+commemor,and,celebr#commemor and,and celebr
+singer,is,part,big,pictur#singer is,is part,part big,big pictur
+read,enthusiast,level#read enthusiast,enthusiast level
+pick,up,gun,and,accent#pick up,up gun,gun and,and accent
+on,alert,red,light,camera#on alert,alert red,red light,light camera
+hyundai,revers,polici,settl,warranti,disput#hyundai revers,revers polici,polici settl,settl warranti,warranti disput
+someth,new,someth,old#someth new,new someth,someth old
+see,red,flag,hear,red,flag#see red,red flag,flag hear,hear red,red flag
+market,region#market region
+turn,retir,hiatus#turn retir,retir hiatus
+doe,dress,make,me,look,incred#doe dress,dress make,make me,me look,look incred
+tri,time,last,someth,celebr#tri time,time last,last someth,someth celebr
+water,hole,writer#water hole,hole writer
+tap,danc,act,minski,sister#tap danc,danc act,act minski,minski sister
+interior,design,dollhous#interior design,design dollhous
+furnish,small,castl,tini,doll,hous#furnish small,small castl,castl tini,tini doll,doll hous
+t,holiday#t holiday
+view,malta,NON-US-LOCATION#view malta
+enhanc,medic,care,annual,fee#enhanc medic,medic care,care annual,annual fee
+undaunt,giant#undaunt giant
+t,holiday#t holiday
+spoon,sugar,sourpuss#spoon sugar,sugar sourpuss
+fanboy,show,superhero,way#fanboy show,show superhero,superhero way
+hell,shoe,leather#hell shoe,shoe leather
+NUM,neglect,film,univers,yearn#NUM neglect,neglect film,film univers,univers yearn
+NUM,more,cookbook#NUM more,more cookbook
+peppi,speak,and,give,interview#peppi speak,speak and,and give,give interview
+market,new,york,city,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#market new,new york,york city
+time,equestrian,transform#time equestrian,equestrian transform
+app,find,holiday,light,display#app find,find holiday,holiday light,light display
+pre,fab,NUM#pre fab,fab NUM
+chelsea
+compos
+music,lesson#music lesson
+muppet,man#muppet man
+paris,london,NON-US-LOCATION,NON-US-LOCATION#paris london
+classic,potteri#classic potteri
+allur
+american,songbook#american songbook
+hard,knock#hard knock
+prequel
+sweet,soul,music#sweet soul,soul music
+aerosol,art#aerosol art
+cat,fanci#cat fanci
+splendid,splinter#splendid splinter
+razzl,dazzl#razzl dazzl
+public,paint#public paint
+releas,hound#releas hound
+NUM,anim#NUM anim
+tradit
+star,style#star style
+screen,gem#screen gem
+cover,waterfront,photograph#cover waterfront,waterfront photograph
+antarctica,NON-US-LOCATION
+garden,today#garden today
+photographi
+interior
+NUM,yesterday#NUM yesterday
+travel
+speakeasi,experi#speakeasi experi
+cook
+paperback,row#paperback row
+new,york,view,NON-US-LOCATION,NON-US-LOCATION#new york,york view
+guilti,pleasur#guilti pleasur
+comic
+somm
+pictur,world,war,i#pictur world,world war,war i
+bebop
+big,band#big band
+is,what,it,look,center,america,US-LOCATION#is what,what it,it look,look center,center america
+pour,port,hold,stodgi,NON-US-LOCATION,NON-US-LOCATION#pour port,port hold,hold stodgi
+who,made,that,energi,drink#who made,made that,that energi,energi drink
+NUM,issu#NUM issu
+life,100th,meridian#life 100th,100th meridian
+dutch,elm,diseas,creativ,mind#dutch elm,elm diseas,diseas creativ,creativ mind
+NUM,or,more,spin,feast#NUM or,or more,more spin,spin feast
+event,connecticut,US-LOCATION#event connecticut
+event,new,jersey,NON-US-LOCATION,NON-US-LOCATION#event new,new jersey
+event,long,island,NON-US-LOCATION,NON-US-LOCATION#event long,long island
+event,westchester,NON-US-LOCATION#event westchester
+east,river,view,boat,park,bar,premis,NON-US-LOCATION,NON-US-LOCATION#east river,river view,view boat,boat park,park bar,bar premis
+warrior,learn,differ,pose#warrior learn,learn differ,differ pose
+villag,troubadour,late,encor#villag troubadour,troubadour late,late encor
+maniac,fight,prove,murder,polic#maniac fight,fight prove,prove murder,murder polic
+42nd,floor,menu,worthi,view#42nd floor,floor menu,menu worthi,worthi view
+ambit,begin,amus,bouch#ambit begin,begin amus,amus bouch
+downsid,fha,loan#downsid fha,fha loan
+NUM,neighbor,problem#NUM neighbor,neighbor problem
+vaniti
+funni,ladi#funni ladi
+old,world,butcher,preserv,tradit,holiday#old world,world butcher,butcher preserv,preserv tradit,tradit holiday
+NUM,concert,hall,complement,and,compet#NUM concert,concert hall,hall complement,complement and,and compet
+tapa,and,more,brother,spain,NON-US-LOCATION#tapa and,and more,more brother,brother spain
+old,enough,heart#old enough,enough heart
+actress,differ,take,charg,role#actress differ,differ take,take charg,charg role
+t,holiday#t holiday
+long,laugh,and,poignant,moment#long laugh,laugh and,and poignant,poignant moment
+wed,q,and#wed q,q and
+fake,artifact,unknown,sold#fake artifact,artifact unknown,unknown sold
+NUM,hour,kauai,hawaii,NON-US-LOCATION,US-LOCATION#NUM hour,hour kauai,kauai hawaii
+paradox,art,trickster#paradox art,art trickster
+more,reviv,way,come#more reviv,reviv way,way come
+bryan,cranston,book#bryan cranston,cranston book
+t,holiday#t holiday
+pig,ant,karma,dog,love,and,loss#pig ant,ant karma,karma dog,dog love,love and,and loss
+app,smooth,your,journey#app smooth,smooth your,your journey
+crown,height,victori,sharp,elbow#crown height,height victori,victori sharp,sharp elbow
+not,just,breakfast,anymor#not just,just breakfast,breakfast anymor
+poetri,and,motion#poetri and,and motion
+princess,find,her,dark,side#princess find,find her,her dark,dark side
+what,price,love#what price,price love
+lost,boy,grow,up#lost boy,boy grow,grow up
+beyond,brisket,and,burrito,austin,tex,NON-US-LOCATION#beyond brisket,brisket and,and burrito,burrito austin,austin tex
+posit,fourth,street,again#posit fourth,fourth street,street again
+windsor,terrac,less,way,station,more,destin#windsor terrac,terrac less,less way,way station,station more,more destin
+cultiv,wine,region,india,NON-US-LOCATION#cultiv wine,wine region,region india
+love,letter,smelli,fruit#love letter,letter smelli,smelli fruit
+do,you,get,read,holiday#do you,you get,get read,read holiday
+t,holiday#t holiday
+wed,fix,is#wed fix,fix is
+t,holiday#t holiday
+prolif,and,patient#prolif and,and patient
+paul,mayer,82,ex,priest,and,peac,activist,die#paul mayer,mayer 82,82 ex,ex priest,priest and,and peac,peac activist,activist die
+insid,list#insid list
+t,holiday#t holiday
+NUM,notabl,book,NUM#NUM notabl,notabl book,book NUM
+t,holiday#t holiday
+who,own,arctic#who own,own arctic
+bedouin,villag,that,could,face,reloc#bedouin villag,villag that,that could,could face,face reloc
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+goodby,bronx,hello,queen#goodby bronx,bronx hello,hello queen
+central,african,republ,civilian,flock,french,troop,safeti#central african,african republ,republ civilian,civilian flock,flock french,french troop,troop safeti
+jordan,elect,secur,council#jordan elect,elect secur,secur council
+yanke,report,sign,beltran,NUM,year,NUM,NUM,deal#yanke report,report sign,sign beltran,beltran NUM,NUM year,year NUM,NUM NUM,NUM deal
+keep,faith,even,when,home,is,uncertain,place#keep faith,faith even,even when,when home,home is,is uncertain,uncertain place
+wheelchair,settlement,pose,test,cab,industri#wheelchair settlement,settlement pose,pose test,test cab,cab industri
+glanc,group,mix,reaction#glanc group,group mix,mix reaction
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+california,cold,is,blame,NUM,death,bay,area,US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#california cold,cold is,is blame,blame NUM,NUM death,death bay,bay area
+florida,reversal,cours,signal,whale,may,be,ill,US-LOCATION,NON-US-LOCATION#florida reversal,reversal cours,cours signal,signal whale,whale may,may be,be ill
+former,ohio,state,presid,return,west,virginia,NON-US-LOCATION,US-LOCATION#former ohio,ohio state,state presid,presid return,return west,west virginia
+michael,kammen,historian,us,psych,die,NUM,NON-US-LOCATION#michael kammen,kammen historian,historian us,us psych,psych die,die NUM
+pennsylvania,want,use,feder,fund,cover,poor,US-LOCATION#pennsylvania want,want use,use feder,feder fund,fund cover,cover poor
+templ,cut,NUM,varsiti,sport#templ cut,cut NUM,NUM varsiti,varsiti sport
+blood,clot,end,season#blood clot,clot end,end season
+macklemor,ryan,lewi,domin,grammi,nomin#macklemor ryan,ryan lewi,lewi domin,domin grammi,grammi nomin
+juventus,pad,it,seri,lead#juventus pad,pad it,it seri,seri lead
+connecticut,crush,main#connecticut crush,crush main
+red,wing,defeat,devil#red wing,wing defeat,defeat devil
+wood,card,NUM,lead,world,challeng#wood card,card NUM,NUM lead,lead world,world challeng
+korver,set,NUM,point,mark#korver set,set NUM,NUM point,point mark
+day,that,start,well,end,even,better,knick#day that,that start,start well,well end,end even,even better,better knick
+engin,metro,north,crash,is,call,dedic,and,kind#engin metro,metro north,north crash,crash is,is call,call dedic,dedic and,and kind
+lesson,die#lesson die
+full,year,taxi,driver,trade,anonym,full,display#full year,year taxi,taxi driver,driver trade,trade anonym,anonym full,full display
+NUM,cheer,e,cigarett#NUM cheer,cheer e,e cigarett
+net,hit,bottom,but,have,plenti,compani,east#net hit,hit bottom,bottom but,but have,have plenti,plenti compani,compani east
+how,govern,give#how govern,govern give
+find,quiet,space#find quiet,quiet space
+bad,decis,guantanamo,NON-US-LOCATION#bad decis,decis guantanamo
+fcc,delay,auction,airwav,NUM#fcc delay,delay auction,auction airwav,airwav NUM
+blasio,style,evid,effort,sway,critic,bratton#blasio style,style evid,evid effort,effort sway,sway critic,critic bratton
+vonn,finish,far,back,return,race#vonn finish,finish far,far back,back return,return race
+rise,tension,seen,north,korea,and,sea,border,NON-US-LOCATION,NON-US-LOCATION#rise tension,tension seen,seen north,north korea,korea and,and sea,sea border
+quarterback,missouri,requir,team,first,mental,US-LOCATION#quarterback missouri,missouri requir,requir team,team first,first mental
+work,and,reward#work and,and reward
+north,korea,say,it,has,releas,veteran,it,held,visit,NON-US-LOCATION,NON-US-LOCATION#north korea,korea say,say it,it has,has releas,releas veteran,veteran it,it held,held visit
+displac,hurrican,sandi,and,live,limbo#displac hurrican,hurrican sandi,sandi and,and live,live limbo
+fda,approv,pill,treat,hepat,c#fda approv,approv pill,pill treat,treat hepat,hepat c
+slowli,they,modern,feder,agenc,that,still,use,floppi,disk#slowli they,they modern,modern feder,feder agenc,agenc that,that still,still use,use floppi,floppi disk
+push,out,job,earli#push out,out job,job earli
+transpar,chariti#transpar chariti
+asbesto,and,cigarett#asbesto and,and cigarett
+drone,name#drone name
+what,is,futur,priest,celibaci#what is,is futur,futur priest,priest celibaci
+obama,recal,aid,guid,health,care,law#obama recal,recal aid,aid guid,guid health,health care,care law
+art,balm,storm#art balm,balm storm
+collector,bet,his,eye,and,his,gut#collector bet,bet his,his eye,eye and,and his,his gut
+word,courtship,classic,and,ad,lib#word courtship,courtship classic,classic and,and ad,ad lib
+music,chair,met#music chair,chair met
+inject,treat,embarrass,ailment,win,us,approv,NON-US-LOCATION#inject treat,treat embarrass,embarrass ailment,ailment win,win us,us approv
+pictur,week,busi#pictur week,week busi
+sound,is,same,but,music,has,awaken,world#sound is,is same,same but,but music,music has,has awaken,awaken world
+make,differ,season,give#make differ,differ season,season give
+long,journey,mother,and,child#long journey,journey mother,mother and,and child
+spectral,lure,magic,that,fade#spectral lure,lure magic,magic that,that fade
+seren,baton,scottish,reveri#seren baton,baton scottish,scottish reveri
+kaplan,blue,ribbon,pair,match#kaplan blue,blue ribbon,ribbon pair,pair match
+send,camera,sondheim,tv#send camera,camera sondheim,sondheim tv
+enrol,error,put,medic,coverag,risk#enrol error,error put,put medic,medic coverag,coverag risk
+grandchildren,gift,financi,awar#grandchildren gift,gift financi,financi awar
+8216win8217,return,towson8217,vocabulari#8216win8217 return,return towson8217,towson8217 vocabulari
+yank,tri,new,tactic,restraint#yank tri,tri new,new tactic,tactic restraint
+wheeli,shanghai,fog,edit,NON-US-LOCATION#wheeli shanghai,shanghai fog,fog edit
+nun,miss,syria,resurfac,video,NON-US-LOCATION#nun miss,miss syria,syria resurfac,resurfac video
+emerg,order,metro,north#emerg order,order metro,metro north
+record,price,mask,tepid,market,fine,art#record price,price mask,mask tepid,tepid market,market fine,fine art
+ici,weather,ground,flight,us,NON-US-LOCATION#ici weather,weather ground,ground flight,flight us
+us,order,chang,metro,north,derail,NON-US-LOCATION#us order,order chang,chang metro,metro north,north derail
+mobil,bank,gain,popular,young,consum#mobil bank,bank gain,gain popular,popular young,young consum
+art,market,doldrum#art market,market doldrum
+bloomberg,say,critic,his,spanish,need,8216get,life8217#bloomberg say,say critic,critic his,his spanish,spanish need,need 8216get,8216get life8217
+health,care,law,provid,relief,and,frustrat#health care,care law,law provid,provid relief,relief and,and frustrat
+NUM,lexus,lx,570,behemoth,modern,age#NUM lexus,lexus lx,lx 570,570 behemoth,behemoth modern,modern age
+us,face,difficult,path,world,cup#us face,face difficult,difficult path,path world,world cup
+chines,polic,recommend,trial,right,advoc#chines polic,polic recommend,recommend trial,trial right,right advoc
+cano,said,leav,marin,beltran,report,head,yank#cano said,said leav,leav marin,marin beltran,beltran report,report head,head yank
+spend,again,met,lure,granderson#spend again,again met,met lure,lure granderson
+scholar,explor,christian,perspect,anim,right#scholar explor,explor christian,christian perspect,perspect anim,anim right
+paramount,sign,deal,rehir,bruckheim#paramount sign,sign deal,deal rehir,rehir bruckheim
+encor,8216smash8217,that,wasn8217t#encor 8216smash8217,8216smash8217 that,that wasn8217t
+hyundai,bmw,mclaren,dodg,and,merced,benz,issu,recal#hyundai bmw,bmw mclaren,mclaren dodg,dodg and,and merced,merced benz,benz issu,issu recal
+where,mandela,onc,box,new,set,struggl#where mandela,mandela onc,onc box,box new,new set,set struggl
+challeng,tea,parti,veteran,mississippi,senat,seek,7th,term#challeng tea,tea parti,parti veteran,veteran mississippi,mississippi senat,senat seek,seek 7th,7th term
+hagel,seek,assur,gulf,alli,us,commit,NON-US-LOCATION#hagel seek,seek assur,assur gulf,gulf alli,alli us,us commit
+wall,street,close,higher,releas,job,data#wall street,street close,close higher,higher releas,releas job,job data
+biden,find,polit,instinct,handi,asia,NON-US-LOCATION#biden find,find polit,polit instinct,instinct handi,handi asia
+kerri,invok,mandela,say,peac,mideast,is,possibl,NON-US-LOCATION#kerri invok,invok mandela,mandela say,say peac,peac mideast,mideast is,is possibl
+pro,govern,ukrainian,take,street,denounc,european,social,valu#pro govern,govern ukrainian,ukrainian take,take street,street denounc,denounc european,european social,social valu
+lowest,jobless,rate,NUM,year,rais,odd,fed,move#lowest jobless,jobless rate,rate NUM,NUM year,year rais,rais odd,odd fed,fed move
+mandela,rever,but,critic,too#mandela rever,rever but,but critic,critic too
+how,spind,yearl,becam,legend#how spind,spind yearl,yearl becam,becam legend
+world,travel,humbl,root#world travel,travel humbl,humbl root
+flight,divers#flight divers
+help,deliv,justic,kenyan#help deliv,deliv justic,justic kenyan
+kiev,high,stake,democraci,NON-US-LOCATION#kiev high,high stake,stake democraci
+scarlet,aim,overcom,home,strength,clermont#scarlet aim,aim overcom,overcom home,home strength,strength clermont
+dec,NUM,1941,remain,day#dec NUM,NUM 1941,1941 remain,remain day
+martin,sharp,71,artist,who,shape,imageri,rock,die#martin sharp,sharp 71,71 artist,artist who,who shape,shape imageri,imageri rock,rock die
+NUM,month,cabdriv#NUM month,month cabdriv
+truckload,hurrican,sandi,victim#truckload hurrican,hurrican sandi,sandi victim
+chronicl,mandela,find,themselv#chronicl mandela,mandela find,find themselv
+music,tribut,nelson,mandela#music tribut,tribut nelson,nelson mandela
+week,pictur,dec,NUM#week pictur,pictur dec,dec NUM
+quirki,kikkerland,open,it,first,retail,store#quirki kikkerland,kikkerland open,open it,it first,first retail,retail store
+materi,speak,oh,christma,tree#materi speak,speak oh,oh christma,christma tree
+t,holiday#t holiday
+first,commune,then,church,but,alway,commit#first commune,commune then,then church,church but,but alway,alway commit
+fine,art#fine art
+classic,car,auction,valu,is,subject#classic car,car auction,auction valu,valu is,is subject
+week,NUM,nfl,matchup#week NUM,NUM nfl,nfl matchup
+special,deliveri#special deliveri
+long,day,when,knick,electrifi,citi#long day,day when,when knick,knick electrifi,electrifi citi
+olympian,has,new,outlook,life,but,flash,his,old,panach,slope#olympian has,has new,new outlook,outlook life,life but,but flash,flash his,his old,old panach,panach slope
+aggress,bargnani,get,best,garnett#aggress bargnani,bargnani get,get best,best garnett
+clipper,top,grizzli#clipper top,top grizzli
+royal,acquir,aoki,brewer#royal acquir,acquir aoki,aoki brewer
+NUM,louisvill,prevail,cincinnati#NUM louisvill,louisvill prevail,prevail cincinnati
+duke,and,uconn,win,easili#duke and,and uconn,uconn win,win easili
+rider,bar,life#rider bar,bar life
+ledecki,win,matchup,gold,medalist#ledecki win,win matchup,matchup gold,gold medalist
+mls,final,is,onli,latest,collis,kansas,city,and,salt,lake,US-LOCATION,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#mls final,final is,is onli,onli latest,latest collis,collis kansas,kansas city,city and,and salt,salt lake
+vonn,set,race,first,time,NUM,month#vonn set,set race,race first,first time,time NUM,NUM month
+citi,agre,access,taxi,disabl#citi agre,agre access,access taxi,taxi disabl
+lundqvist,solid,ranger,top,sabr#lundqvist solid,solid ranger,ranger top,top sabr
+memori,mandela#memori mandela
+like,classic,ballet,but,noth,it#like classic,classic ballet,ballet but,but noth,noth it
+net,make,rival,look,newli,potent#net make,make rival,rival look,look newli,newli potent
+william,j,bratton,issu#william j,j bratton,bratton issu
+big,storm,move,britain,and,contin,NON-US-LOCATION#big storm,storm move,move britain,britain and,and contin
+iraq,polic,raid,end,standoff,insurg,NON-US-LOCATION#iraq polic,polic raid,raid end,end standoff,standoff insurg
+griev,and,tire,australian,play,on#griev and,and tire,tire australian,australian play,play on
+new,emot,hope,sweep,iran,aftermath,temporari,nuclear,pact,NON-US-LOCATION#new emot,emot hope,hope sweep,sweep iran,iran aftermath,aftermath temporari,temporari nuclear,nuclear pact
+southwest,buy,takeoff,slot,guardia,NON-US-LOCATION#southwest buy,buy takeoff,takeoff slot,slot guardia
+grammi,go,live,NUM,real,time,show,promot#grammi go,go live,live NUM,NUM real,real time,time show,show promot
+rueful,romanc,strip,but,NUM#rueful romanc,romanc strip,strip but,but NUM
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+detroit,there,was,stockton#detroit there,there was,was stockton
+decis,winston,voter,must,make,call#decis winston,winston voter,voter must,must make,make call
+bronx,councilman,withdraw,support,armori,ice,center#bronx councilman,councilman withdraw,withdraw support,support armori,armori ice,ice center
+whitewash,queen,warehous,unlik,apostl,0f,graffiti,art#whitewash queen,queen warehous,warehous unlik,unlik apostl,apostl 0f,0f graffiti,graffiti art
+hous,and,senat,are,near,deal,speed,trade,pact#hous and,and senat,senat are,are near,near deal,deal speed,speed trade,trade pact
+new,york,city,increas,it,resist,feder,entreati,foreign,born,detaine,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#new york,york city,city increas,increas it,it resist,resist feder,feder entreati,entreati foreign,foreign born,born detaine
+pioneer,rap,music,crave,NUM,NUM,stabil#pioneer rap,rap music,music crave,crave NUM,NUM NUM,NUM stabil
+quotat,day,friday,decemb,NUM,2013#quotat day,day friday,friday decemb,decemb NUM,NUM 2013
+NUM,NUM,seattle8217,pursuit,cano,could,be,too,rich,yank#NUM NUM,NUM seattle8217,seattle8217 pursuit,pursuit cano,cano could,could be,be too,too rich,rich yank
+global,warm,and,tornado,intens#global warm,warm and,and tornado,tornado intens
+hous,bill,rais,bar,suit,patent#hous bill,bill rais,rais bar,bar suit,suit patent
+california,transit,board,refil,bond,request#california transit,transit board,board refil,refil bond,bond request
+alaska,pension,plan,would,tap,state,save#alaska pension,pension plan,plan would,would tap,tap state,state save
+south,bronx,church,pantri,scrambl,feed,grow,line,hungri,NON-US-LOCATION,NON-US-LOCATION#south bronx,bronx church,church pantri,pantri scrambl,scrambl feed,feed grow,grow line,line hungri
+de,blasio,team,take,shape#de blasio,blasio team,team take,take shape
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+money,fight,global,diseas#money fight,fight global,global diseas
+bratton,is,expect,reshap,polic,rebuild,relationship,public#bratton is,is expect,expect reshap,reshap polic,polic rebuild,rebuild relationship,relationship public
+famili,see,colorado,new,frontier,medic,marijuana#famili see,see colorado,colorado new,new frontier,frontier medic,medic marijuana
+say,farewel,mayor,deliv,rare,display,public,emot#say farewel,farewel mayor,mayor deliv,deliv rare,rare display,display public,public emot
+heroin,box,offic#heroin box,box offic
+ironi,despair#ironi despair
+christoph,evan,welch,NUM,stage,and,screen,actor,die#christoph evan,evan welch,welch NUM,NUM stage,stage and,and screen,screen actor,actor die
+obama,get,real#obama get,get real
+algeria,armi,kill,milit,leader,offici,say#algeria armi,armi kill,kill milit,milit leader,leader offici,offici say
+pictur,book,will,presid,bratton#pictur book,book will,will presid,presid bratton
+sister,mari,nerney,advoc,women,prison,die,NUM#sister mari,mari nerney,nerney advoc,advoc women,women prison,prison die,die NUM
+coalit,liber,strike,back,critic,centrist,democrat#coalit liber,liber strike,strike back,back critic,critic centrist,centrist democrat
+vow,slay,alreadi,subdu,stop,and,frisk,dragon#vow slay,slay alreadi,alreadi subdu,subdu stop,stop and,and frisk,frisk dragon
+spare,time,dec,NUM,NUM#spare time,time dec,dec NUM,NUM NUM
+doubl,miseri,er,and,bill#doubl miseri,miseri er,er and,and bill
+mandela,embrac,power,sport,resist,and,uniti#mandela embrac,embrac power,power sport,sport resist,resist and,and uniti
+spare,time,children,dec,NUM,NUM#spare time,time children,children dec,dec NUM,NUM NUM
+congress,near,modest,accord,budget#congress near,near modest,modest accord,accord budget
+dystopia,bay#dystopia bay
+bears8217,cutler,and,brigg,won8217t,face,cowboy#bears8217 cutler,cutler and,and brigg,brigg won8217t,won8217t face,face cowboy
+cellphon,plane#cellphon plane
+short,term,bank,loan#short term,term bank,bank loan
+how,much,govern#how much,much govern
+museum,and,galleri,list,dec,NUM,NUM#museum and,and galleri,galleri list,list dec,dec NUM,NUM NUM
+movi,list,dec,NUM,NUM#movi list,list dec,dec NUM,NUM NUM
+guyana,feel,stifl,needl,govern,song,NON-US-LOCATION#guyana feel,feel stifl,stifl needl,needl govern,govern song
+bill,allain,85,ex,governor,mississippi,die,US-LOCATION#bill allain,allain 85,85 ex,ex governor,governor mississippi,mississippi die
+pop,rock,music,list,dec,NUM,NUM#pop rock,rock music,music list,list dec,dec NUM,NUM NUM
+jazz,list,dec,NUM,NUM#jazz list,list dec,dec NUM,NUM NUM
+danc,list,dec,NUM,NUM#danc list,list dec,dec NUM,NUM NUM
+chines,guitarist,meld,tradit#chines guitarist,guitarist meld,meld tradit
+mening,outbreak,strike,NUM,univers#mening outbreak,outbreak strike,strike NUM,NUM univers
+zebra,differ,color,or,pattern#zebra differ,differ color,color or,or pattern
+opera,and,classic,music,list,dec,NUM,NUM#opera and,and classic,classic music,music list,list dec,dec NUM,NUM NUM
+settlement,fox,news,and,former,top,execut,perhap#settlement fox,fox news,news and,and former,former top,top execut,execut perhap
+great,loss,sexual,feel,come#great loss,loss sexual,sexual feel,feel come
+comedi,list,dec,NUM,NUM#comedi list,list dec,dec NUM,NUM NUM
+treat,allergi,pill,or,drop,instead,shot#treat allergi,allergi pill,pill or,or drop,drop instead,instead shot
+puzzl,past#puzzl past
+nba,prospect,chanc,is,gone#nba prospect,prospect chanc,chanc is,is gone
+part,water,exodus,stori#part water,water exodus,exodus stori
+ecolog,shift,spell,challeng,pecos,river,NON-US-LOCATION,NON-US-LOCATION#ecolog shift,shift spell,spell challeng,challeng pecos,pecos river
+continent,flair,aggress,edg#continent flair,flair aggress,aggress edg
+architectur,ground,oppos,forc#architectur ground,ground oppos,oppos forc
+wastewat,case,rais,concept,underground,trespass#wastewat case,case rais,rais concept,concept underground,underground trespass
+theater,list,dec,NUM,NUM#theater list,list dec,dec NUM,NUM NUM
+new,girl,proverbi,pursuit,popular#new girl,girl proverbi,proverbi pursuit,pursuit popular
+mls,cup,final,simul,sport,kc,win#mls cup,cup final,final simul,simul sport,sport kc,kc win
+look,how,excit,my,life,is#look how,how excit,excit my,my life,life is
+mar,mission,is,unev,undead,feel,unwel#mar mission,mission is,is unev,unev undead,undead feel,feel unwel
+minor,domin,class,graduat,new,york,fire,academi#minor domin,domin class,class graduat,graduat new,new york,york fire,fire academi
+nelson,mandela#nelson mandela
+war,emot,play,out,univers,torn,conflict#war emot,emot play,play out,out univers,univers torn,torn conflict
+desir,and,pruderi,wrestl,draw#desir and,and pruderi,pruderi wrestl,wrestl draw
+clear,opaqu,and,oh,so,delizioso#clear opaqu,opaqu and,and oh,oh so,so delizioso
+revers,white,hous,say,obama,did,meet,uncl#revers white,white hous,hous say,say obama,obama did,did meet,meet uncl
+contradict,mandela#contradict mandela
+mandela,taught,contin,forgiv#mandela taught,taught contin,contin forgiv
+just,sweet,pair,sociopath#just sweet,sweet pair,pair sociopath
+shell,opt,not,build,plant,gulf,coast,cite,cost#shell opt,opt not,not build,build plant,plant gulf,gulf coast,coast cite,cite cost
+poet,who,push,and,recycl,envelop#poet who,who push,push and,and recycl,recycl envelop
+where,babysit,is,truli,art#where babysit,babysit is,is truli,truli art
+antiqu,store,fall,onlin,offer#antiqu store,store fall,fall onlin,onlin offer
+warhol,is,said,be,bought,walton,NON-US-LOCATION#warhol is,is said,said be,be bought,bought walton
+gym,or,danc,floor,either,work#gym or,or danc,danc floor,floor either,either work
+see,new,jersey,state,inspir,NON-US-LOCATION,NON-US-LOCATION#see new,new jersey,jersey state,state inspir
+other,side,countri,lesson,chemistri#other side,side countri,countri lesson,lesson chemistri
+week,health,quiz#week health,health quiz
+nomine,eu,bank,regul,move,closer,post#nomine eu,eu bank,bank regul,regul move,move closer,closer post
+gm,pull,back,chevrolet,sale,europe,NON-US-LOCATION#gm pull,pull back,back chevrolet,chevrolet sale,sale europe
+ford,want,take,next,mustang,new,place#ford want,want take,take next,next mustang,mustang new,new place
+gaug,android,variant,cellphon,and,chang,NUM,NUM,default#gaug android,android variant,variant cellphon,cellphon and,and chang,chang NUM,NUM NUM,NUM default
+explain,drama,world,cup,draw#explain drama,drama world,world cup,cup draw
+wheeli,bargain,mitsubishi,ev,edit#wheeli bargain,bargain mitsubishi,mitsubishi ev,ev edit
+fantasi,footbal,week,NUM,matchup,breakdown#fantasi footbal,footbal week,week NUM,NUM matchup,matchup breakdown
+kerri,seek,nudg,along,peac,talk,offer,netanyahu,idea,secur#kerri seek,seek nudg,nudg along,along peac,peac talk,talk offer,offer netanyahu,netanyahu idea,idea secur
+buildup,brazil,stir,pot,will,leav,coach,shaken,NON-US-LOCATION#buildup brazil,brazil stir,stir pot,pot will,will leav,leav coach,coach shaken
+matur,muscular,literari,and,avail#matur muscular,muscular literari,literari and,and avail
+bratton,lead,new,york,polic,second,time#bratton lead,lead new,new york,york polic,polic second,second time
+de,blasio,name,bratton,new,york,polic,commission#de blasio,blasio name,name bratton,bratton new,new york,york polic,polic commission
+brian,halligan,chief,hubspot,valu,nap#brian halligan,halligan chief,chief hubspot,hubspot valu,valu nap
+faster,pace,growth,may,not,last,long#faster pace,pace growth,growth may,may not,not last,last long
+melancholi,odyssey,folk,scene#melancholi odyssey,odyssey folk,folk scene
+european,central,bank,see,reason,optim#european central,central bank,bank see,see reason,reason optim
+clash,erupt,capit,central,african,republic,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#clash erupt,erupt capit,capit central,central african,african republic
+svindal,look,stay,top,beaver,creek,NON-US-LOCATION,NON-US-LOCATION#svindal look,look stay,stay top,top beaver,beaver creek
+bank,england,keep,interest,rate,record,low,NON-US-LOCATION#bank england,england keep,keep interest,interest rate,rate record,record low
+winter,game,caucasian,miseri#winter game,game caucasian,caucasian miseri
+get,off,budget,treadmil#get off,off budget,budget treadmil
+is,rouhani,iranian,gorbachev#is rouhani,rouhani iranian,iranian gorbachev
+divis,NUM,and,england,NON-US-LOCATION#divis NUM,NUM and,and england
+dead,unrest,thailand,calm,king8217,birthday#dead unrest,unrest thailand,thailand calm,calm king8217,king8217 birthday
+china,pressur,us,journalist,prompt,warn,biden#china pressur,pressur us,us journalist,journalist prompt,prompt warn,warn biden
+life,record,is,worth,examin#life record,record is,is worth,worth examin
+tr,fehrenbach,historian,die,NUM,chronicl,larger,life,texas,US-LOCATION#tr fehrenbach,fehrenbach historian,historian die,die NUM,NUM chronicl,chronicl larger,larger life,life texas
+steam,clam,spici,tomato,sauc#steam clam,clam spici,spici tomato,tomato sauc
+judg,reject,bid,stop,deal,leas,public,hous,land#judg reject,reject bid,bid stop,stop deal,deal leas,leas public,public hous,hous land
+half,centuri,mustang#half centuri,centuri mustang
+memori,mandela#memori mandela
+cling,frail,presenc,live,symbol#cling frail,frail presenc,presenc live,live symbol
+racial,accept,reson#racial accept,accept reson
+power,man,speak,truth#power man,man speak,speak truth
+almost,meet,mandela#almost meet,meet mandela
+statesman,dandi,flirt#statesman dandi,dandi flirt
+hero,everywher,and,nowher#hero everywher,everywher and,and nowher
+voic,mandela#voic mandela
+make
+life,and,legaci,nelson,mandela,NUM,NUM#life and,and legaci,legaci nelson,nelson mandela,mandela NUM,NUM NUM
+mandela,dissid,liber,and,statesman#mandela dissid,dissid liber,liber and,and statesman
+too,late,book,holiday,getaway,not,necessarili#too late,late book,book holiday,holiday getaway,getaway not,not necessarili
+nba,postpon,game,mexico,citi,smoke,fill,arena,NON-US-LOCATION#nba postpon,postpon game,game mexico,mexico citi,citi smoke,smoke fill,fill arena
+week,NUM,nfl,game,probabl,vulner,chief#week NUM,NUM nfl,nfl game,game probabl,probabl vulner,vulner chief
+de,la,hoya,name,hall,fame#de la,la hoya,hoya name,name hall,hall fame
+red,sox,add,pierzynski#red sox,sox add,add pierzynski
+devil,lose,shootout#devil lose,lose shootout
+expand,reach,retail,take,aim,hispan,shopper#expand reach,reach retail,retail take,take aim,aim hispan,hispan shopper
+internet,firm,step,up,effort,stop,spi#internet firm,firm step,step up,up effort,effort stop,stop spi
+larg,compani,prepar,pay,price,carbon#larg compani,compani prepar,prepar pay,pay price,price carbon
+professor,deal,design,onlin,lesson,ap,class#professor deal,deal design,design onlin,onlin lesson,lesson ap,ap class
+nba,game,postpon,mexico,becaus,smoke,arena,NON-US-LOCATION#nba game,game postpon,postpon mexico,mexico becaus,becaus smoke,smoke arena
+quotat,day,thursday,decemb,NUM,2013#quotat day,day thursday,thursday decemb,decemb NUM,NUM 2013
+prosecutor,complet,investig,fsu,quarterback#prosecutor complet,complet investig,investig fsu,fsu quarterback
+vonn,tri,train,run#vonn tri,tri train,train run
+NUM,spartan,are,surpris,tar,heel#NUM spartan,spartan are,are surpris,surpris tar,tar heel
+how,yank,may,proceed,cano,or,cano#how yank,yank may,may proceed,proceed cano,cano or,or cano
+kidd,retic,demot,assist#kidd retic,retic demot,demot assist
+rediscov,form,mcilroy,also,find,perspect#rediscov form,form mcilroy,mcilroy also,also find,find perspect
+massachusetts,warren,rule,out,run,presid,US-LOCATION#massachusetts warren,warren rule,rule out,out run,run presid
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+race,top,owner,knick,and,net,see,bottom,fall,out#race top,top owner,owner knick,knick and,and net,net see,see bottom,bottom fall,fall out
+quick,and,easili,scan,and,store,document,go#quick and,and easili,easili scan,scan and,and store,store document,document go
+kerri,vow,help,moldova,hew,west#kerri vow,vow help,help moldova,moldova hew,hew west
+solarc,use,batteri,tesla,energi,storag#solarc use,use batteri,batteri tesla,tesla energi,energi storag
+yanke,take,big,bite,met,nibbl#yanke take,take big,big bite,bite met,met nibbl
+presid,inequ#presid inequ
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+amsterdam,has,deal,alcohol,work,paid,beer,NON-US-LOCATION#amsterdam has,has deal,deal alcohol,alcohol work,work paid,paid beer
+NUM,wage,fast,food,stir,debat,effect#NUM wage,wage fast,fast food,food stir,stir debat,debat effect
+NUM,ring,eras,sting,lose,ellsburi#NUM ring,ring eras,eras sting,sting lose,lose ellsburi
+NUM,squar,block,miami#NUM squar,squar block,block miami
+food,cart,los,angeles,come,out,shadow,NON-US-LOCATION,NON-US-LOCATION#food cart,cart los,los angeles,angeles come,come out,out shadow
+brown,defend,have,heart,procedur#brown defend,defend have,have heart,heart procedur
+iran,take,charm,offens,persian,gulf,NON-US-LOCATION,NON-US-LOCATION#iran take,take charm,charm offens,offens persian,persian gulf
+top,big,wave,surfer,unit,promot,safeti#top big,big wave,wave surfer,surfer unit,unit promot,promot safeti
+home,buyer,are,scarc,renter,take,their,place#home buyer,buyer are,are scarc,scarc renter,renter take,take their,their place
+cultur,war,game#cultur war,war game
+presid,pope,and,peopl#presid pope,pope and,and peopl
+vincent,marchiselli,ex,new,york,legisl,bronx,die,NUM#vincent marchiselli,marchiselli ex,ex new,new york,york legisl,legisl bronx,bronx die,die NUM
+let,red,carpet,roll#let red,red carpet,carpet roll
+chairman,barrick,gold,plan,step,down#chairman barrick,barrick gold,gold plan,plan step,step down
+when,life,goe,on,and,on#when life,life goe,goe on,on and,and on
+alan,wanzenberg,new,view,life#alan wanzenberg,wanzenberg new,new view,view life
+bob,newhart,might,have,live,here#bob newhart,newhart might,might have,have live,live here
+yarnel,hill,fire,report#yarnel hill,hill fire,fire report
+shop,event,start,NUM,NUM#shop event,event start,start NUM,NUM NUM
+reassess,uproar,architectur#reassess uproar,uproar architectur
+pope,and,poor#pope and,and poor
+eat,when,expect#eat when,when expect
+let,word,fade,away#let word,word fade,fade away
+plea,carri,out,principl,immigr,polici#plea carri,carri out,out principl,principl immigr,immigr polici
+classic,midcenturi,given,second,chanc#classic midcenturi,midcenturi given,given second,second chanc
+millenni,diy,er,digit,touch#millenni diy,diy er,er digit,digit touch
+pattern,stori,tell#pattern stori,stori tell
+miami,hous,come,visit,NON-US-LOCATION#miami hous,hous come,come visit
+tree,fall,den#tree fall,fall den
+solid,econom,outlook,swath,data#solid econom,econom outlook,outlook swath,swath data
+dress,festiv,holiday,parti#dress festiv,festiv holiday,holiday parti
+perfect,lip,shade,creat,you#perfect lip,lip shade,shade creat,creat you
+futurist,exercis#futurist exercis
+michael,uri,lesson,master,shopper#michael uri,uri lesson,lesson master,master shopper
+swiss,open,inquiri,collect,that,was,transfer,unicef#swiss open,open inquiri,inquiri collect,collect that,that was,was transfer,transfer unicef
+hagel,detail,NUM,cut,personnel,who,report,him#hagel detail,detail NUM,NUM cut,cut personnel,personnel who,who report,report him
+plus,size,falstaff,grow,his,outsiz,part#plus size,size falstaff,falstaff grow,grow his,his outsiz,outsiz part
+suspect,kill,los,angeles,airport,is,held,bail,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#suspect kill,kill los,los angeles,angeles airport,airport is,is held,held bail
+big,compos,campus,vocal,tribut,curriculum,mainstay,britten#big compos,compos campus,campus vocal,vocal tribut,tribut curriculum,curriculum mainstay,mainstay britten
+winner,crown,fall,north,american,championship#winner crown,crown fall,fall north,north american,american championship
+sundanc,lineup,lace,race,horror,and,famili,turmoil#sundanc lineup,lineup lace,lace race,race horror,horror and,and famili,famili turmoil
+news,media,most,cautious,approach,newtown,tape,NON-US-LOCATION#news media,media most,most cautious,cautious approach,approach newtown,newtown tape
+give,fan,hit,cours,but,includ,reflect#give fan,fan hit,hit cours,cours but,but includ,includ reflect
+elixir,new,gay,bar,queen#elixir new,new gay,gay bar,bar queen
+splendid,swing,and,yet,so,mani,error#splendid swing,swing and,and yet,yet so,so mani,mani error
+stop,draw,crowd#stop draw,draw crowd
+path,happi,employ,contact,contact,linkedin#path happi,happi employ,employ contact,contact contact,contact linkedin
+dismiss,free,speech,claim,justic,turn,plain,line,draw#dismiss free,free speech,speech claim,claim justic,justic turn,turn plain,plain line,line draw
+indian,voter,pois,weaken,govern,congress,parti#indian voter,voter pois,pois weaken,weaken govern,govern congress,congress parti
+video,snowboard,hike,night,descent#video snowboard,snowboard hike,hike night,night descent
+what,jetson,will,realli,be,wear#what jetson,jetson will,will realli,realli be,be wear
+keep,up,pace,raphael,saadiq#keep up,up pace,pace raphael,raphael saadiq
+nato,cite,urgenc,reach,pact,us,and,afghanistan,NON-US-LOCATION,NON-US-LOCATION#nato cite,cite urgenc,urgenc reach,reach pact,pact us,us and,and afghanistan
+martin,bashir,resign,msnbc,palin,comment#martin bashir,bashir resign,resign msnbc,msnbc palin,palin comment
+imag,chaser#imag chaser
+headi,day,hair,nfl#headi day,day hair,hair nfl
+more,word,can,say#more word,word can,can say
+what,you,get,NUM#what you,you get,get NUM
+home,NUM#home NUM
+shiplik,build,get,new,life#shiplik build,build get,get new,new life
+lawmak,france,move,discourag,sex,trade,NON-US-LOCATION#lawmak france,france move,move discourag,discourag sex,sex trade
+kiev,protest,see,potent,alli,spire,NON-US-LOCATION#kiev protest,protest see,see potent,potent alli,alli spire
+former,clinton,aid,join,news,corp,communic,chief#former clinton,clinton aid,aid join,join news,news corp,corp communic,communic chief
+onlin,ad,look,more,news,articl,ftc,warn,decept#onlin ad,ad look,look more,more news,news articl,articl ftc,ftc warn,warn decept
+nfl,have,hair,moment#nfl have,have hair,hair moment
+honda,unveil,world,tour,car,championship,civic#honda unveil,unveil world,world tour,tour car,car championship,championship civic
+hous,hunt,rio,de,janeiro,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#hous hunt,hunt rio,rio de,de janeiro
+home,rio,de,janeiro,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#home rio,rio de,de janeiro
+formula,NUM,race,new,jersey,is,delay,again,NON-US-LOCATION,NON-US-LOCATION#formula NUM,NUM race,race new,new jersey,jersey is,is delay,delay again
+microsoft,produc,winner,tablet#microsoft produc,produc winner,winner tablet
+baffl,NUM,year,old,clue,human,origin#baffl NUM,NUM year,year old,old clue,clue human,human origin
+phone,and,tablet,cover,countri,flair#phone and,and tablet,tablet cover,cover countri,countri flair
+classic,structur,bucharest,NON-US-LOCATION#classic structur,structur bucharest
+super,bowl,advertis,is,alreadi,sold,out,fox,execut,say#super bowl,bowl advertis,advertis is,is alreadi,alreadi sold,sold out,out fox,fox execut,execut say
+student,debt,load,found,vari,colleg,and,state#student debt,debt load,load found,found vari,vari colleg,colleg and,and state
+lundqvist8217,deal,ranger,is,8216from,heart8217#lundqvist8217 deal,deal ranger,ranger is,is 8216from,8216from heart8217
+NUM,rockwel,classic,bring,near,NUM,NUM#NUM rockwel,rockwel classic,classic bring,bring near,near NUM,NUM NUM
+ebb,uranium,enrich,us,rais,question,nuclear,polici,NON-US-LOCATION#ebb uranium,uranium enrich,enrich us,us rais,rais question,question nuclear,nuclear polici
+beat,music,stream,servic,say,it,will,begin,januari#beat music,music stream,stream servic,servic say,say it,it will,will begin,begin januari
+interfer,cost,coach,steeler,NUM#interfer cost,cost coach,coach steeler,steeler NUM
+think,er,is,expens,look,how,much,it,cost,get,there#think er,er is,is expens,expens look,look how,how much,much it,it cost,cost get,get there
+surviv,dark,side,affili,market#surviv dark,dark side,side affili,affili market
+top,deputi,blasio,pick,govern,veteran#top deputi,deputi blasio,blasio pick,pick govern,govern veteran
+us,step,up,role,will,present,west,bank,secur,propos,israel,NON-US-LOCATION#us step,step up,up role,role will,will present,present west,west bank,bank secur,secur propos,propos israel
+wheeli,fewer,fix,edit#wheeli fewer,fewer fix,fix edit
+brazuca,world,cup,ball#brazuca world,world cup,cup ball
+truck,radioact,load,is,recov,mexico,NON-US-LOCATION#truck radioact,radioact load,load is,is recov,recov mexico
+part,radioact,cargo,stolen,mexico,is,recov,NON-US-LOCATION#part radioact,radioact cargo,cargo stolen,stolen mexico,mexico is,is recov
+mix,close,market,upbeat,job,data#mix close,close market,market upbeat,upbeat job,job data
+opec,forese,glut,keep,oil,product,level,steadi#opec forese,forese glut,glut keep,keep oil,oil product,product level,level steadi
+art,basel,miami,beach,pump,up,volum,NON-US-LOCATION,NON-US-LOCATION#art basel,basel miami,miami beach,beach pump,pump up,up volum
+distil,abstract,landscap#distil abstract,abstract landscap
+put,bangladesh,art,map,NON-US-LOCATION#put bangladesh,bangladesh art,art map
+abstract,map,read,line#abstract map,map read,read line
+explor,ident,digit,era#explor ident,ident digit,digit era
+expand,market,rich,adventur#expand market,market rich,rich adventur
+sculpt,posit,global,cultur,map#sculpt posit,posit global,global cultur,cultur map
+work,artist,divid#work artist,artist divid
+privat,art,public,show,draw,scrutini,france,NON-US-LOCATION#privat art,art public,public show,show draw,draw scrutini,scrutini france
+evolut,collect,held,busi#evolut collect,collect held,held busi
+continent,divid,seen,india,NON-US-LOCATION#continent divid,divid seen,seen india
+a,number,rebel#a number,number rebel
+whi,dutch,love,black,pete#whi dutch,dutch love,love black,black pete
+eu,impos,NUM,NUM,euro,fine,rate,rig,scandal#eu impos,impos NUM,NUM NUM,NUM euro,euro fine,fine rate,rate rig,rig scandal
+let,them,burn,coal#let them,them burn,burn coal
+japanes,firm,focus,smart,kitchen,applianc#japanes firm,firm focus,focus smart,smart kitchen,kitchen applianc
+kenya,can,heal,itself,NON-US-LOCATION#kenya can,can heal,heal itself
+english,wicketkeep,struggl,break,long,slump#english wicketkeep,wicketkeep struggl,struggl break,break long,long slump
+biden,urg,restraint,china,airspac,disput,NON-US-LOCATION#biden urg,urg restraint,restraint china,china airspac,airspac disput
+dick,dodd,lead,singer,standel,die,NUM#dick dodd,dodd lead,lead singer,singer standel,standel die,die NUM
+app,age,come,longstand,tradit#app age,age come,come longstand,longstand tradit
+holiday,dress,answer,may,be,your,closet,now#holiday dress,dress answer,answer may,may be,be your,your closet,closet now
+game,headset,player,go#game headset,headset player,player go
+tradit,audio,compani,enter,wireless,realm#tradit audio,audio compani,compani enter,enter wireless,wireless realm
+extra,facetim,id,and,reorder,email#extra facetim,facetim id,id and,and reorder,reorder email
+cod,cevich#cod cevich
+arik,einstein,NUM,belov,isra,singer,die#arik einstein,einstein NUM,NUM belov,belov isra,isra singer,singer die
+jame,rensenbrink,NUM,die,found,aquarian,week#jame rensenbrink,rensenbrink NUM,NUM die,die found,found aquarian,aquarian week
+how,crime,declin,new,york,city,and,us,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#how crime,crime declin,declin new,new york,york city,city and,and us
+safeti,featur,metro,north,car#safeti featur,featur metro,metro north,north car
+take,NUM#take NUM
+googl,put,money,robot,use,man,android#googl put,put money,money robot,robot use,use man,man android
+shoot,moon,fill,robot#shoot moon,moon fill,fill robot
+new,zealand,sweep,rugbi,award,NON-US-LOCATION,NON-US-LOCATION#new zealand,zealand sweep,sweep rugbi,rugbi award
+red,wing,center,injur#red wing,wing center,center injur
+NUM,world,cup,stadium,miss,deadlin#NUM world,world cup,cup stadium,stadium miss,miss deadlin
+new,york,citi,fire,depart,more,divers,tension#new york,york citi,citi fire,fire depart,depart more,more divers,divers tension
+rise,divers#rise divers
+island,fall,overtim#island fall,fall overtim
+rich,fix,spirit,steinbrenn#rich fix,fix spirit,spirit steinbrenn
+stellar,backcourt,keep,orang,out,front#stellar backcourt,backcourt keep,keep orang,orang out,out front
+how,auto,industri,fare,novemb#how auto,auto industri,industri fare,fare novemb
+peter,graf,volatil,father,tenni,great,die,NUM#peter graf,graf volatil,volatil father,father tenni,tenni great,great die,die NUM
+center,can,not,hold#center can,can not,not hold
+pakistan,us,shut,cargo,rout,afghanistan,drone,protest,NON-US-LOCATION#pakistan us,us shut,shut cargo,cargo rout,rout afghanistan,afghanistan drone,drone protest
+court,block,labor,board,lawsuit#court block,block labor,labor board,board lawsuit
+nonprofit,with,sought,build,take,advantag,hot,market#nonprofit with,with sought,sought build,build take,take advantag,advantag hot,hot market
+un,measur,would,send,forc,aid,central,african,republ#un measur,measur would,would send,send forc,forc aid,aid central,central african,african republ
+judi,rodger,chef,refin,simplic,die,NUM#judi rodger,rodger chef,chef refin,refin simplic,simplic die,die NUM
+ellsburi,and,yanke,NUM,year,deal#ellsburi and,and yanke,yanke NUM,NUM year,year deal
+recent,commerci,real,estat#recent commerci,commerci real,real estat
+richard,l,podo#richard l,l podo
+sock,month,club,rise,onlin,bring,subscript,feet#sock month,month club,club rise,rise onlin,onlin bring,bring subscript,subscript feet
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+sustain,resili,sea#sustain resili,resili sea
+quotat,day,wednesday,decemb,NUM,2013#quotat day,day wednesday,wednesday decemb,decemb NUM,NUM 2013
+lesson,unlearn,rail,safeti#lesson unlearn,unlearn rail,rail safeti
+keep,sharehold,dark#keep sharehold,sharehold dark
+vike,new,stadium,meet,linger,doubt#vike new,new stadium,stadium meet,meet linger,linger doubt
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+consid,which,head,or,head,may,roll,troubl,websit,rollout#consid which,which head,head or,or head,head may,may roll,roll troubl,troubl websit,websit rollout
+us,senat,say,south,korea,should,not,hire,china,firm,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#us senat,senat say,say south,south korea,korea should,should not,not hire,hire china,china firm
+mother,lead,famili,test,schizophrenia#mother lead,lead famili,famili test,test schizophrenia
+hand,bavarian,count,presid,pencil,make,empir#hand bavarian,bavarian count,count presid,presid pencil,pencil make,make empir
+more,colleg,adjunct,see,strength,union,number#more colleg,colleg adjunct,adjunct see,see strength,strength union,union number
+bibi,and,barack,sequel#bibi and,and barack,barack sequel
+wall,street,grudg#wall street,street grudg
+pick,sarkisian,usc,make,gut,decis,not,sentiment,NUM#pick sarkisian,sarkisian usc,usc make,make gut,gut decis,decis not,not sentiment,sentiment NUM
+dietari,advic,gluttoni,season#dietari advic,advic gluttoni,gluttoni season
+pension,rule,detroit,echo,west,california,NON-US-LOCATION,US-LOCATION#pension rule,rule detroit,detroit echo,echo west,west california
+suspect,ice,rink,shoot,write,apolog,victim#suspect ice,ice rink,rink shoot,shoot write,write apolog,apolog victim
+vonn,set,test,knee#vonn set,set test,test knee
+case,gun,safeti,ad,foster,unlik,allianc#case gun,gun safeti,safeti ad,ad foster,foster unlik,unlik allianc
+new,lead,explor,teenager8217,kill#new lead,lead explor,explor teenager8217,teenager8217 kill
+NUM,former,nfl,player,sue,chief,head,injuri#NUM former,former nfl,nfl player,player sue,sue chief,chief head,head injuri
+rare,cancer,treatment,clear,fda,but,not,subject,scrutini#rare cancer,cancer treatment,treatment clear,clear fda,fda but,but not,not subject,subject scrutini
+NUM,man,lost,and,impair,other,fear,and,arm#NUM man,man lost,lost and,and impair,impair other,other fear,fear and,and arm
+NUM,NUM,is,pledg,fight,aid,tb,and,malaria#NUM NUM,NUM is,is pledg,pledg fight,fight aid,aid tb,tb and,and malaria
+newsweek,plan,return,print#newsweek plan,plan return,return print
+poor,need,cheap,fossil,fuel#poor need,need cheap,cheap fossil,fossil fuel
+secret,us#secret us
+parent,push,quiet,roar,train,queen,school#parent push,push quiet,quiet roar,roar train,train queen,queen school
+more,late,night,time,boston,transit,user#more late,late night,night time,time boston,boston transit,transit user
+hopi,tribe,sue,pari,auction,hous#hopi tribe,tribe sue,sue pari,pari auction,auction hous
+contractor,jail,cuba,appeals,obama,press,releas,NON-US-LOCATION,NON-US-LOCATION#contractor jail,jail cuba,cuba appeals,appeals obama,obama press,press releas
+israel,send,humanitarian,aid,syria,NON-US-LOCATION,NON-US-LOCATION#israel send,send humanitarian,humanitarian aid,aid syria
+immigr,activist,end,fast,nation,mall#immigr activist,activist end,end fast,fast nation,nation mall
+test,arafat,find,proof,radiat,poison#test arafat,arafat find,find proof,proof radiat,radiat poison
+minimum,wage,increas,advanc#minimum wage,wage increas,increas advanc
+georgetown,event,help,liz,cheney8217,campaign#georgetown event,event help,help liz,liz cheney8217,cheney8217 campaign
+andro,linklat,who,re,examin,american,frontier,die,NUM#andro linklat,linklat who,who re,re examin,examin american,american frontier,frontier die,die NUM
+maine,shrimp,season,is,call,off,US-LOCATION#maine shrimp,shrimp season,season is,is call,call off
+vermont,burlington,will,get,fighter,jet#vermont burlington,burlington will,will get,get fighter,fighter jet
+handwritten,apolog#handwritten apolog
+presid,karzai,and,afghan,secur,agreement#presid karzai,karzai and,and afghan,afghan secur,secur agreement
+keep,old,style,phone#keep old,old style,style phone
+quest,mean,millenni,edit#quest mean,mean millenni,millenni edit
+optim,vietnam,properti,caveat#optim vietnam,vietnam properti,properti caveat
+real,estat,rumbl,ho,chi,minh,city,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#real estat,estat rumbl,rumbl ho,ho chi,chi minh,minh city
+bryant,and,messi,tri,repeat,hit,airlin,ad#bryant and,and messi,messi tri,tri repeat,repeat hit,hit airlin,airlin ad
+illinoi,legislatur,approv,retire,benefit,cut,troubl,pension,system#illinoi legislatur,legislatur approv,approv retire,retire benefit,benefit cut,cut troubl,troubl pension,pension system
+polic,offic,charg,queen,extort,racket#polic offic,offic charg,charg queen,queen extort,extort racket
+home,school,where,lesson,are,subtl#home school,school where,where lesson,lesson are,are subtl
+prove,ailey,never,stand,still#prove ailey,ailey never,never stand,stand still
+fratern,tie,gut,and,sinew#fratern tie,tie gut,gut and,and sinew
+instrument,may,look,standard,but,sound,they,creat,are,not#instrument may,may look,look standard,standard but,but sound,sound they,they creat,creat are,are not
+piano,and,stay,attun,audienc#piano and,and stay,stay attun,attun audienc
+bach,mensch,and,imperfect,human,be#bach mensch,mensch and,and imperfect,imperfect human,human be
+expans,and,teas,and,still,superstar#expans and,and teas,teas and,and still,still superstar
+citi,angel,and,crime,and,serious,stylish,hat#citi angel,angel and,and crime,crime and,and serious,serious stylish,stylish hat
+oyster,bar,franchis,open,brooklyn,NON-US-LOCATION#oyster bar,bar franchis,franchis open,open brooklyn
+she,make,that,much,broadway#she make,make that,that much,much broadway
+suprem,court,consid,frequent,flier,contract#suprem court,court consid,consid frequent,frequent flier,flier contract
+american,labor,polici,is,spread,europe,NON-US-LOCATION#american labor,labor polici,polici is,is spread,spread europe
+ceram,canva#ceram canva
+beauti,plate#beauti plate
+relax,air,but,attent,must,be,paid#relax air,air but,but attent,attent must,must be,be paid
+charli,bird#charli bird
+surpris,new,face,arab,music#surpris new,new face,face arab,arab music
+cook,and,eater,alik#cook and,and eater,eater alik
+editor,describ,pressur,leak,snowden#editor describ,describ pressur,pressur leak,leak snowden
+NUM,model,ford,make,cross,countri,voyag,second,tri#NUM model,model ford,ford make,make cross,cross countri,countri voyag,voyag second,second tri
+doldrum,automak,post,strong,us,sale#doldrum automak,automak post,post strong,strong us,us sale
+world,cup,draw,NUM,divid,NUM#world cup,cup draw,draw NUM,NUM divid,divid NUM
+loui,ck,sign,product,deal,fx#loui ck,ck sign,sign product,product deal,deal fx
+authent,lambrusco,posol#authent lambrusco,lambrusco posol
+train,engin,was,daze,crash,lawyer,say#train engin,engin was,was daze,daze crash,crash lawyer,lawyer say
+invit,dialogu,overcom,media,bias#invit dialogu,dialogu overcom,overcom media,media bias
+hope,tame,snow,sochi,NON-US-LOCATION#hope tame,tame snow,snow sochi
+keep,avalanch,out,game#keep avalanch,avalanch out,out game
+fantasi,footbal,player,pick,playoff#fantasi footbal,footbal player,player pick,pick playoff
+record,view,offens,keep,fli#record view,view offens,offens keep,keep fli
+share,slide,suggest,yearlong,ralli,is,crest#share slide,slide suggest,suggest yearlong,yearlong ralli,ralli is,is crest
+qatar,judg,postpon,case,us,coupl,NON-US-LOCATION#qatar judg,judg postpon,postpon case,case us,us coupl
+how,eu,push,ukrain,east,NON-US-LOCATION#how eu,eu push,push ukrain,ukrain east
+more,open,myanmar,NON-US-LOCATION#more open,open myanmar
+kerri,and,alli,step,up,pressur,afghan,pact#kerri and,and alli,alli step,step up,up pressur,pressur afghan,afghan pact
+bolshoi,dancer,get,NUM,year,acid,attack,director#bolshoi dancer,dancer get,get NUM,NUM year,year acid,acid attack,attack director
+detroit,rule,bankruptci,lift,pension,protect#detroit rule,rule bankruptci,bankruptci lift,lift pension,pension protect
+econom,realign,fuel,region,polit,divis,thailand,NON-US-LOCATION#econom realign,realign fuel,fuel region,region polit,polit divis,divis thailand
+biden,back,alli,japan,but,avoid,roil,china,NON-US-LOCATION#biden back,back alli,alli japan,japan but,but avoid,avoid roil,roil china
+NUM,wine,book,worth,note#NUM wine,wine book,book worth,worth note
+oven,steam,cod,or,mahi,mahi,green,tomatillo,salsa#oven steam,steam cod,cod or,or mahi,mahi mahi,mahi green,green tomatillo,tomatillo salsa
+posol,offer,decemb,warm,up#posol offer,offer decemb,decemb warm,warm up
+treat,their,kitchen,your#treat their,their kitchen,kitchen your
+martha
+jam,session,kitchen#jam session,session kitchen
+paid,notic,death,schiffrin,andr#paid notic,notic death,death schiffrin,schiffrin andr
+paid,notic,death,sabl,jack#paid notic,notic death,death sabl,sabl jack
+paid,notic,death,rosenberg,alan#paid notic,notic death,death rosenberg,rosenberg alan
+paid,notic,death,rosenberg,alan,h#paid notic,notic death,death rosenberg,rosenberg alan,alan h
+paid,notic,death,pell,christin,benson#paid notic,notic death,death pell,pell christin,christin benson
+paid,notic,death,parson,patricia#paid notic,notic death,death parson,parson patricia
+paid,notic,death,notia,iren,rena,age,NUM#paid notic,notic death,death notia,notia iren,iren rena,rena age,age NUM
+paid,notic,death,mehran,masud#paid notic,notic death,death mehran,mehran masud
+paid,notic,death,maloney,john,h#paid notic,notic death,death maloney,maloney john,john h
+paid,notic,death,leed,rhoda,blackman#paid notic,notic death,death leed,leed rhoda,rhoda blackman
+paid,notic,death,kaufthal,edith#paid notic,notic death,death kaufthal,kaufthal edith
+paid,notic,death,kamen,barbara#paid notic,notic death,death kamen,kamen barbara
+paid,notic,death,ishikawa,wolf,ana#paid notic,notic death,death ishikawa,ishikawa wolf,wolf ana
+paid,notic,death,gottesman,beyl,schaechter#paid notic,notic death,death gottesman,gottesman beyl,beyl schaechter
+paid,notic,death,gottesman,bella,beyl#paid notic,notic death,death gottesman,gottesman bella,bella beyl
+paid,notic,death,ford,shirley,novemb,NUM#paid notic,notic death,death ford,ford shirley,shirley novemb,novemb NUM
+paid,notic,death,friedman,natali#paid notic,notic death,death friedman,friedman natali
+paid,notic,death,fitzgerald,sister,janet#paid notic,notic death,death fitzgerald,fitzgerald sister,sister janet
+paid,notic,death,braunstein,sumner#paid notic,notic death,death braunstein,braunstein sumner
+embrac,street,vend,los,angeles,NON-US-LOCATION,NON-US-LOCATION#embrac street,street vend,vend los,los angeles
+slide,show,gotham,award#slide show,show gotham,gotham award
+chickpea,stew,complex,and,color,meager,begin#chickpea stew,stew complex,complex and,and color,color meager,meager begin
+land,punk#land punk
+wheeli,NUM,NUM,resurrect,edit#wheeli NUM,NUM NUM,NUM resurrect,resurrect edit
+use,rough,surfac,stay,dri#use rough,rough surfac,surfac stay,stay dri
+seahawk,domin,saint,and,gain,playoff,spot#seahawk domin,domin saint,saint and,and gain,gain playoff,playoff spot
+consum,watchdog,monitor,student,loan,servic#consum watchdog,watchdog monitor,monitor student,student loan,loan servic
+googl,join,heavyweight,competit,cloud,comput#googl join,join heavyweight,heavyweight competit,competit cloud,cloud comput
+mls,award,winner,announc#mls award,award winner,winner announc
+uconn,win,buzzer#uconn win,win buzzer
+sarkisian,coach,usc#sarkisian coach,coach usc
+british,diver,come,out#british diver,diver come,come out
+met,take,peek,granderson,NON-US-LOCATION#met take,take peek,peek granderson
+klinsmann,know,well,strain,host,face#klinsmann know,know well,well strain,strain host,host face
+cool,prison,better,outcom#cool prison,prison better,better outcom
+success,goe,west#success goe,goe west
+fate,brook,and,coulson,tabloid,hack,case,are,diverg#fate brook,brook and,and coulson,coulson tabloid,tabloid hack,hack case,case are,are diverg
+eastern,confer,set,new,standard,poor,play#eastern confer,confer set,set new,new standard,standard poor,poor play
+farm,poor,countri#farm poor,poor countri
+dead,derail,how,make,our,train,safer#dead derail,derail how,how make,make our,our train,train safer
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+name,have,chang,but,quarterback,mess,remain#name have,have chang,chang but,but quarterback,quarterback mess,mess remain
+quotat,day,tuesday,decemb,NUM,2013#quotat day,day tuesday,tuesday decemb,decemb NUM,NUM 2013
+bank,payday,lender#bank payday,payday lender
+offici,er,mix,near,end,giant,game#offici er,er mix,mix near,near end,end giant,giant game
+moment,peril,kiev,NON-US-LOCATION#moment peril,peril kiev
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+fast,recoveri,health,care,websit#fast recoveri,recoveri health,health care,care websit
+see,toll,school,revis,NUM,toler#see toll,toll school,school revis,revis NUM,NUM toler
+8216the,process8217,can82,alway,beat,break#8216the process8217,process8217 can82,can82 alway,alway beat,beat break
+blasio,tweak,bloomberg,absenc,crash,site#blasio tweak,tweak bloomberg,bloomberg absenc,absenc crash,crash site
+stem,and,flower#stem and,and flower
+amazon,deliv,pie,sky#amazon deliv,deliv pie,pie sky
+auburn,announc,has,call,lifetim,twice,NUM,month#auburn announc,announc has,has call,call lifetim,lifetim twice,twice NUM,NUM month
+factori,worldwid,are,show,momentum#factori worldwid,worldwid are,are show,show momentum
+us,pledg,new,fund,fight,aid#us pledg,pledg new,new fund,fund fight,fight aid
+prosecutor,see,danger,budget,cut#prosecutor see,see danger,danger budget,budget cut
+appl,buy,topsi,social,media,analyt,firm#appl buy,buy topsi,topsi social,social media,media analyt,analyt firm
+insur,are,offer,assist,loss#insur are,are offer,offer assist,assist loss
+britain,envoy,aim,mend,iran,tie,NON-US-LOCATION#britain envoy,envoy aim,aim mend,mend iran,iran tie
+illinoi,panel,forward,pension,deal#illinoi panel,panel forward,forward pension,pension deal
+california,court,uphold,ban,polit,ad,public,broadcast#california court,court uphold,uphold ban,ban polit,polit ad,ad public,public broadcast
+new,job,shot,are,fire,help,student,feel,safe#new job,job shot,shot are,are fire,fire help,help student,student feel,feel safe
+washington,mayor,will,seek,re,elect,US-LOCATION#washington mayor,mayor will,will seek,seek re,re elect
+mexico,us,indict,former,governor,NON-US-LOCATION,NON-US-LOCATION#mexico us,us indict,indict former,former governor
+old,washington,build,rule,meet,push,chang,US-LOCATION#old washington,washington build,build rule,rule meet,meet push,push chang
+promot,NUM,editor,is,announc,time#promot NUM,NUM editor,editor is,is announc,announc time
+japan,post,growth,age,NON-US-LOCATION#japan post,post growth,growth age
+hospit,price,soar,stitch,top,NUM#hospit price,price soar,soar stitch,stitch top,top NUM
+chines,dissid,ai,weiwei,take,his,art,alcatraz,NON-US-LOCATION#chines dissid,dissid ai,ai weiwei,weiwei take,take his,his art,art alcatraz
+famili,we,invent#famili we,we invent
+mix,reaction,media,critic,NUM,cuomo,interview#mix reaction,reaction media,media critic,critic NUM,NUM cuomo,cuomo interview
+croatian,govern,pursu,law,allow,civil,union,gay,coupl#croatian govern,govern pursu,pursu law,law allow,allow civil,civil union,union gay,gay coupl
+underachiev,congress,appear,hurri,chang,thing,now#underachiev congress,congress appear,appear hurri,hurri chang,chang thing,thing now
+travel,site,hopscotch#travel site,site hopscotch
+onc,promis,brooklyn,art,center,creativ,hope,are,dash#onc promis,promis brooklyn,brooklyn art,art center,center creativ,creativ hope,hope are,are dash
+heinrich,boer,NUM,die,member,nazi,hit,unit,netherlands,NON-US-LOCATION#heinrich boer,boer NUM,NUM die,die member,member nazi,nazi hit,hit unit,unit netherlands
+cost,health,care,law,is,seen,decreas#cost health,health care,care law,law is,is seen,seen decreas
+flier,precheck,add,much,confus,conveni#flier precheck,precheck add,add much,much confus,confus conveni
+pick,your,brazil,xi,world,cup,NON-US-LOCATION#pick your,your brazil,brazil xi,xi world,world cup
+sound,so,differ,but,common,ground#sound so,so differ,differ but,but common,common ground
+avoid,differ,kind,turbul#avoid differ,differ kind,kind turbul
+take,job,women,take,saudi,taboo#take job,job women,women take,take saudi,saudi taboo
+ad,new,note,music,menageri#ad new,new note,note music,music menageri
+expans,stage,compani,spread,it,wing#expans stage,stage compani,compani spread,spread it,it wing
+jazz,funk,persuas,rule,night#jazz funk,funk persuas,persuas rule,rule night
+rockwel,biographi,anger,his,famili#rockwel biographi,biographi anger,anger his,his famili
+reel,year,sour,reflect#reel year,year sour,sour reflect
+big,bug,too,love,squish#big bug,bug too,too love,love squish
+new,fcc,chief,promis,he,will,protect,competit#new fcc,fcc chief,chief promis,promis he,he will,will protect,protect competit
+men,can,be,such,worm,and,vice,versa#men can,can be,be such,such worm,worm and,and vice,vice versa
+famili,mani,shape,and,size,NUM,comment#famili mani,mani shape,shape and,and size,size NUM,NUM comment
+new,orleans,restaur,scene,rise,reflect,richer,citi,NON-US-LOCATION,NON-US-LOCATION#new orleans,orleans restaur,restaur scene,scene rise,rise reflect,reflect richer,richer citi
+new,orleans,more,restaur,merrier,NON-US-LOCATION,NON-US-LOCATION#new orleans,orleans more,more restaur,restaur merrier
+older,buddha,and,diseas,number,good,and,bad#older buddha,buddha and,and diseas,diseas number,number good,good and,and bad
+circumcis,help,prevent,aid,are,rise#circumcis help,help prevent,prevent aid,aid are,are rise
+build,cheaper,catalyst#build cheaper,cheaper catalyst
+oxytocin,found,stimul,social,brain,region,children,autism#oxytocin found,found stimul,stimul social,social brain,brain region,region children,children autism
+learn,defus,aorta#learn defus,defus aorta
+emot,has,it,place,financi,plan#emot has,has it,it place,place financi,financi plan
+head,hunt#head hunt
+justic,pass,tax,case,onlin,merchant#justic pass,pass tax,tax case,case onlin,onlin merchant
+search,answer,fatal,train,accid#search answer,answer fatal,fatal train,train accid
+lundqvist,sit,again,hot,hand,turn,cool#lundqvist sit,sit again,again hot,hot hand,hand turn,turn cool
+brussels,investig,deal,british,nuclear,plant,NON-US-LOCATION#brussels investig,investig deal,deal british,british nuclear,nuclear plant
+surpris,win,laur,prouvost,take,turner,prize#surpris win,win laur,laur prouvost,prouvost take,take turner,turner prize
+french,court,order,crimin,trial,ead,sharehold#french court,court order,order crimin,crimin trial,trial ead,ead sharehold
+great,los,angeles,auto,show,fire,NUM,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#great los,los angeles,angeles auto,auto show,show fire,fire NUM
+net,and,knick,share,woe,and,week,floor#net and,and knick,knick share,share woe,woe and,and week,week floor
+rent,out,terrac,he,receiv,evict,notic#rent out,out terrac,terrac he,he receiv,receiv evict,evict notic
+parliament,somalia,vote,remov,prime,minist,NON-US-LOCATION#parliament somalia,somalia vote,vote remov,remov prime,prime minist
+biden,face,delic,NUM,step,asia,NON-US-LOCATION#biden face,face delic,delic NUM,NUM step,step asia
+imag,mysteri,and,flatiron,glow,stick#imag mysteri,mysteri and,and flatiron,flatiron glow,glow stick
+yank,trade,catcher,pirat#yank trade,trade catcher,catcher pirat
+monday,motorsport,toyota,final,win,world,endur,championship,race#monday motorsport,motorsport toyota,toyota final,final win,win world,world endur,endur championship,championship race
+hand,fractur,keep,pierc,NUM,NUM,week#hand fractur,fractur keep,keep pierc,pierc NUM,NUM NUM,NUM week
+cod,fillet,blender,cilantro,and,yogurt,sauc#cod fillet,fillet blender,blender cilantro,cilantro and,and yogurt,yogurt sauc
+attack,aid,worker,rise,afghanistan,un,say,NON-US-LOCATION#attack aid,aid worker,worker rise,rise afghanistan,afghanistan un,un say
+fatal,crash,metro,north,commut,reflect,daili,routin#fatal crash,crash metro,metro north,north commut,commut reflect,reflect daili,daili routin
+insurg,strike,major,nigerian,citi#insurg strike,strike major,major nigerian,nigerian citi
+wall,street,slight,down,posit,data#wall street,street slight,slight down,down posit,posit data
+deflat,german,excus#deflat german,german excus
+metro,north,train,sped,NUM,mph,ahead,curv,fatal,crash#metro north,north train,train sped,sped NUM,NUM mph,mph ahead,ahead curv,curv fatal,fatal crash
+speed,is,cite,possibl,caus,dead,train,crash,bronx,NON-US-LOCATION#speed is,is cite,cite possibl,possibl caus,caus dead,dead train,train crash,crash bronx
+grow,market,limit,talent,pool#grow market,market limit,limit talent,talent pool
+unrest,ukrainian,presid,defend,choic,accord#unrest ukrainian,ukrainian presid,presid defend,defend choic,choic accord
+french,secular,trial#french secular,secular trial
+hijack,chines,patriot#hijack chines,chines patriot
+gaza,need,not,be,sewer#gaza need,need not,not be,be sewer
+new,tactic,thai,polic,lower,shield,and,open,build,protest#new tactic,tactic thai,thai polic,polic lower,lower shield,shield and,and open,open build,build protest
+market,dip,china,lift,ban,new,stock,list,NON-US-LOCATION#market dip,dip china,china lift,lift ban,ban new,new stock,stock list
+thai,polic,put,down,their,shield,and,let,demonstr,enter,compound#thai polic,polic put,put down,down their,their shield,shield and,and let,let demonstr,demonstr enter,enter compound
+death,toll,NUM,scottish,copter,crash#death toll,toll NUM,NUM scottish,scottish copter,copter crash
+willi,ware,NUM,engin,dawn,comput,age,die#willi ware,ware NUM,NUM engin,engin dawn,dawn comput,comput age,age die
+william,stevenson,NUM,die,author,tie,spi#william stevenson,stevenson NUM,NUM die,die author,author tie,tie spi
+night,watchman,wheel#night watchman,watchman wheel
+paid,notic,death,beech,kenneth,leo#paid notic,notic death,death beech,beech kenneth,kenneth leo
+paid,notic,death,witcov,walt,die,novemb,NUM,age,NUM#paid notic,notic death,death witcov,witcov walt,walt die,die novemb,novemb NUM,NUM age,age NUM
+paid,notic,death,wechsler,robert#paid notic,notic death,death wechsler,wechsler robert
+paid,notic,death,stern,ralph,warner#paid notic,notic death,death stern,stern ralph,ralph warner
+paid,notic,death,sabl,jack#paid notic,notic death,death sabl,sabl jack
+paid,notic,death,patiki,annabell#paid notic,notic death,death patiki,patiki annabell
+paid,notic,death,sabl,dr#paid notic,notic death,death sabl,sabl dr
+paid,notic,death,mehran,masud#paid notic,notic death,death mehran,mehran masud
+paid,notic,death,lubman,marilyn#paid notic,notic death,death lubman,lubman marilyn
+paid,notic,death,lubar,regina,jean,nee,gipfel#paid notic,notic death,death lubar,lubar regina,regina jean,jean nee,nee gipfel
+paid,notic,death,lookstein,joann,crevel#paid notic,notic death,death lookstein,lookstein joann,joann crevel
+paid,notic,death,litt,dori,s#paid notic,notic death,death litt,litt dori,dori s
+paid,notic,death,leed,rhoda#paid notic,notic death,death leed,leed rhoda
+paid,notic,death,kaufthal,edith#paid notic,notic death,death kaufthal,kaufthal edith
+paid,notic,death,ferrigno#paid notic,notic death,death ferrigno
+paid,notic,death,dorn,dr#paid notic,notic death,death dorn,dorn dr
+paid,notic,death,byron,charl#paid notic,notic death,death byron,byron charl
+paid,notic,death,bossing,julia,iren,bass,NUM,monro,twp#paid notic,notic death,death bossing,bossing julia,julia iren,iren bass,bass NUM,NUM monro,monro twp
+paid,notic,death,benenson,mark,k#paid notic,notic death,death benenson,benenson mark,mark k
+paid,notic,death,benenson,letizia,pitigliani#paid notic,notic death,death benenson,benenson letizia,letizia pitigliani
+british,fashion,award#british fashion,fashion award
+make,new,amsterdam,your,town,ad,proclaim#make new,new amsterdam,amsterdam your,your town,town ad,ad proclaim
+account,and,peopl,note,advertis,industri#account and,and peopl,peopl note,note advertis,advertis industri
+q,and,stuart,elliott#q and,and stuart,stuart elliott
+alaskan,cod,sweet,and,sour,pepper,sauc#alaskan cod,cod sweet,sweet and,and sour,sour pepper,pepper sauc
+popular,demand#popular demand
+take,question,how,negoti,famili,conflict#take question,question how,how negoti,negoti famili,famili conflict
+nfl,week,NUM,quick,hit,pick,on,peyton,man#nfl week,week NUM,NUM quick,quick hit,hit pick,pick on,on peyton,peyton man
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+merchandis,use,olymp,principl,russian,anti,gay,law#merchandis use,use olymp,olymp principl,principl russian,russian anti,anti gay,gay law
+young,kentucki,team,show,progress,brooklyn,NON-US-LOCATION#young kentucki,kentucki team,team show,show progress,progress brooklyn
+long,cut,edg,print,new,york,magazin,cut,back#long cut,cut edg,edg print,print new,new york,york magazin,magazin cut,cut back
+photo,replay,nov,NUM,NUM#photo replay,replay nov,nov NUM,NUM NUM
+natalya,gorbanevskaya,soviet,dissid,and,poet,die,NUM#natalya gorbanevskaya,gorbanevskaya soviet,soviet dissid,dissid and,and poet,poet die,die NUM
+man,help,bronco,take,charg,afc,west#man help,help bronco,bronco take,take charg,charg afc,afc west
+oiler,win,shootout#oiler win,win shootout
+birdi,NUM,lift,mcilroy,australian,open#birdi NUM,NUM lift,lift mcilroy,mcilroy australian,australian open
+terri,lead,chelsea,ralli#terri lead,lead chelsea,chelsea ralli
+sputter,offens,doom,knick,their,ninth,consecut,loss#sputter offens,offens doom,doom knick,knick their,their ninth,ninth consecut,consecut loss
+pacer,top,clipper,heat,ralli,win,10th,row#pacer top,top clipper,clipper heat,heat ralli,ralli win,win 10th,10th row
+chang,commut#chang commut
+12th,rank,wichita,state,improv,NUM,NUM#12th rank,rank wichita,wichita state,state improv,improv NUM,NUM NUM
+win,lotteri,number,dec,NUM,NUM#win lotteri,lotteri number,number dec,dec NUM,NUM NUM
+calipari,town,coach,and,topic,NON-US-LOCATION#calipari town,town coach,coach and,and topic
+back,new,york,same,passion,but,less,fire,and,smoke,NON-US-LOCATION,NON-US-LOCATION#back new,new york,york same,same passion,passion but,but less,less fire,fire and,and smoke
+new,month,and,new,hope,flail,net#new month,month and,and new,new hope,hope flail,flail net
+NUM,general,manag,true,NUM,school#NUM general,general manag,manag true,true NUM,NUM school
+new,mayor,and,teacher#new mayor,mayor and,and teacher
+new,jersey,pine,troubl,arriv,NUM,leg#new jersey,jersey pine,pine troubl,troubl arriv,arriv NUM,NUM leg
+east,china,sea,far,bigger,test,power,loom,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#east china,china sea,sea far,far bigger,bigger test,test power,power loom
+shiffrin,miss,giant,slalom,win,sliver#shiffrin miss,miss giant,giant slalom,slalom win,win sliver
+debt,and,tax#debt and,and tax
+swedish,retail,promis,live,wage#swedish retail,retail promis,promis live,live wage
+insur,claim,health,websit,is,still,flaw#insur claim,claim health,health websit,websit is,is still,still flaw
+sex,and,singl,priest#sex and,and singl,singl priest
+transit,year,general,manag,is,fragil,one,coach#transit year,year general,general manag,manag is,is fragil,fragil one,one coach
+egypt,charter,new,right,but,great,chang,NON-US-LOCATION#egypt charter,charter new,new right,right but,but great,great chang
+better,pay,now#better pay,pay now
+close,fear,gap,so,children,can,achiev#close fear,fear gap,gap so,so children,children can,can achiev
+out,print,mayb,but,not,out,mind#out print,print mayb,mayb but,but not,not out,out mind
+scan,econom,landscap,and,still,see,littl,horizon#scan econom,econom landscap,landscap and,and still,still see,see littl,littl horizon
+turn,public,back,investig,journal#turn public,public back,back investig,investig journal
+urban,school,aim,environment,revolut#urban school,school aim,aim environment,environment revolut
+bad,eat,habit,start,womb#bad eat,eat habit,habit start,start womb
+take,aim,her,latest,test,colleg#take aim,aim her,her latest,latest test,test colleg
+ontario,man,accus,plot,sell,secret,NON-US-LOCATION#ontario man,man accus,accus plot,plot sell,sell secret
+high,stake,high,wire#high stake,stake high,high wire
+africa,crumbl,center#africa crumbl,crumbl center
+we,are,silvio#we are,are silvio
+expans,plan,heathrow,airport,are,ground,now,NON-US-LOCATION,NON-US-LOCATION#expans plan,plan heathrow,heathrow airport,airport are,are ground,ground now
+more,NUM,vote,cast,nation,zoo,name,it,giant,panda,cub#more NUM,NUM vote,vote cast,cast nation,nation zoo,zoo name,name it,it giant,giant panda,panda cub
+longtim,tv,consult,and,recruit,is,step,asid,not,down#longtim tv,tv consult,consult and,and recruit,recruit is,is step,step asid,asid not,not down
+scottish,author,seek,clue,copter,crash#scottish author,author seek,seek clue,clue copter,copter crash
+fight,child,obes#fight child,child obes
+browni,factor#browni factor
+treati,disabl,right#treati disabl,disabl right
+us,polici,food,aid,NON-US-LOCATION#us polici,polici food,food aid
+they,left,their,heart,san,francisco,NON-US-LOCATION,NON-US-LOCATION#they left,left their,their heart,heart san,san francisco
+derail,bronx,NON-US-LOCATION#derail bronx
+fall,north,american,championship,winner#fall north,north american,american championship,championship winner
+news,advertis,industri#news advertis,advertis industri
+updat,presley,exhibit,featur,graceland,item#updat presley,presley exhibit,exhibit featur,featur graceland,graceland item
+NUM,symphoni,demand,mozart#NUM symphoni,symphoni demand,demand mozart
+light,mirror,instagram,artsens#light mirror,mirror instagram,instagram artsens
+econom,report,week,dec,NUM#econom report,report week,week dec,dec NUM
+art,dean,redefin,her,mission#art dean,dean redefin,redefin her,her mission
+high,time,and,hard,one,gritti,music,outlaw#high time,time and,and hard,hard one,one gritti,gritti music,music outlaw
+treasuri,auction,set,week,dec,NUM#treasuri auction,auction set,set week,week dec,dec NUM
+covent,garden,alumna,shine,new,flower,patch#covent garden,garden alumna,alumna shine,shine new,new flower,flower patch
+arcelormitt,deal,plant,signal,faith,recoveri#arcelormitt deal,deal plant,plant signal,signal faith,faith recoveri
+jet,flop,their,third,straight,loss#jet flop,flop their,their third,third straight,straight loss
+fantasi,that,teach,children,be,grown,up#fantasi that,that teach,teach children,children be,be grown,grown up
+warm,and,fuzzi,grandpa,well,not,exact#warm and,and fuzzi,fuzzi grandpa,grandpa well,well not,not exact
+ebenez,sharpen,sarcasm,today#ebenez sharpen,sharpen sarcasm,sarcasm today
+wage,strike,plan,fast,food,outlet#wage strike,strike plan,plan fast,fast food,food outlet
+fli,bodi,broken,bone,and,scream,car,leav,track#fli bodi,bodi broken,broken bone,bone and,and scream,scream car,car leav,leav track
+scorses,film,get,in,oscar,wire#scorses film,film get,get in,in oscar,oscar wire
+band,histori,bring,heft,new,place,brooklyn,NON-US-LOCATION#band histori,histori bring,bring heft,heft new,new place,place brooklyn
+spur,tie,unit,and,perhap,spare,their,manag#spur tie,tie unit,unit and,and perhap,perhap spare,spare their,their manag
+spur,give,villa,boa,save#spur give,give villa,villa boa,boa save
+tax,plan,pleas,side#tax plan,plan pleas,pleas side
+anthropolog,student,dont,have,go,far,afield#anthropolog student,student dont,dont have,have go,go far,far afield
+human,studi,strain,globe#human studi,studi strain,strain globe
+measur,wealth,effect,educ#measur wealth,wealth effect,effect educ
+worst,year,yank,hugh,is,said,reach,deal,twin#worst year,year yank,yank hugh,hugh is,is said,said reach,reach deal,deal twin
+china,launch,moon,rover,mission#china launch,launch moon,moon rover,rover mission
+obama,administr,say,health,care,websit,is,vast,improv#obama administr,administr say,say health,health care,care websit,websit is,is vast,vast improv
+focus,turn,investig,fatal,bronx,train,crash#focus turn,turn investig,investig fatal,fatal bronx,bronx train,train crash
+paul,f,crouch,who,built,evangel,tv,network,die,NUM#paul f,f crouch,crouch who,who built,built evangel,evangel tv,tv network,network die,die NUM
+paid,notic,memori,terdiman,andrea#paid notic,notic memori,memori terdiman,terdiman andrea
+paid,notic,memori,smith,rubin#paid notic,notic memori,memori smith,smith rubin
+paid,notic,memori,mahoney,michael,j#paid notic,notic memori,memori mahoney,mahoney michael,michael j
+paid,notic,memori,hillesum,etti#paid notic,notic memori,memori hillesum,hillesum etti
+paid,notic,memori,campbel,william,isaac#paid notic,notic memori,memori campbel,campbel william,william isaac
+paid,notic,memori,boxer,david,h#paid notic,notic memori,memori boxer,boxer david,david h
+paid,notic,death,witcov,walt,die,novemb,NUM,age,NUM#paid notic,notic death,death witcov,witcov walt,walt die,die novemb,novemb NUM,NUM age,age NUM
+paid,notic,death,weiss,phili,babbit#paid notic,notic death,death weiss,weiss phili,phili babbit
+paid,notic,death,wiener,salli,ann,dixon#paid notic,notic death,death wiener,wiener salli,salli ann,ann dixon
+paid,notic,death,weinberg,sue#paid notic,notic death,death weinberg,weinberg sue
+paid,notic,death,waterston,nat#paid notic,notic death,death waterston,waterston nat
+paid,notic,death,sutherland,glynda#paid notic,notic death,death sutherland,sutherland glynda
+paid,notic,death,stern,ralph,warner#paid notic,notic death,death stern,stern ralph,ralph warner
+paid,notic,death,steiner,marilyn#paid notic,notic death,death steiner,steiner marilyn
+paid,notic,death,starfield,richard,livingston#paid notic,notic death,death starfield,starfield richard,richard livingston
+paid,notic,death,silverman,gloria,tobia#paid notic,notic death,death silverman,silverman gloria,gloria tobia
+paid,notic,death,shultz,cecil#paid notic,notic death,death shultz,shultz cecil
+paid,notic,death,seixa,donald,h#paid notic,notic death,death seixa,seixa donald,donald h
+paid,notic,death,salvatorelli,loui#paid notic,notic death,death salvatorelli,salvatorelli loui
+paid,notic,death,sabl,dr#paid notic,notic death,death sabl,sabl dr
+paid,notic,death,rosenberg,allan,dougla#paid notic,notic death,death rosenberg,rosenberg allan,allan dougla
+paid,notic,death,resnick,seymour#paid notic,notic death,death resnick,resnick seymour
+paid,notic,death,raff,ruth#paid notic,notic death,death raff,raff ruth
+paid,notic,death,pohl,elinor#paid notic,notic death,death pohl,pohl elinor
+paid,notic,death,oconnor,elisabeth,hopkinson#paid notic,notic death,death oconnor,oconnor elisabeth,elisabeth hopkinson
+paid,notic,death,nelson,otto,e#paid notic,notic death,death nelson,nelson otto,otto e
+paid,notic,death,musant,toni#paid notic,notic death,death musant,musant toni
+paid,notic,death,mehran,masud#paid notic,notic death,death mehran,mehran masud
+paid,notic,death,marx,nanci#paid notic,notic death,death marx,marx nanci
+paid,notic,death,manus,janet,wilken#paid notic,notic death,death manus,manus janet,janet wilken
+paid,notic,death,manson,florenc,sando#paid notic,notic death,death manson,manson florenc,florenc sando
+paid,notic,death,lubman,marilyn#paid notic,notic death,death lubman,lubman marilyn
+paid,notic,death,lookstein,joann,crevel#paid notic,notic death,death lookstein,lookstein joann,joann crevel
+paid,notic,death,longley,marjori,watter#paid notic,notic death,death longley,longley marjori,marjori watter
+paid,notic,death,lifshey,dr#paid notic,notic death,death lifshey,lifshey dr
+paid,notic,death,lewi,peter,b#paid notic,notic death,death lewi,lewi peter,peter b
+paid,notic,death,kaplan,peter,wennik#paid notic,notic death,death kaplan,kaplan peter,peter wennik
+paid,notic,death,kamen,barbara#paid notic,notic death,death kamen,kamen barbara
+paid,notic,death,greenberg,sema,ann,tanzer#paid notic,notic death,death greenberg,greenberg sema,sema ann,ann tanzer
+paid,notic,death,gray,gareld,rex#paid notic,notic death,death gray,gray gareld,gareld rex
+paid,notic,death,friedman,sue#paid notic,notic death,death friedman,friedman sue
+paid,notic,death,french,carolyn,s#paid notic,notic death,death french,french carolyn,carolyn s
+paid,notic,death,frank,robert,bloch#paid notic,notic death,death frank,frank robert,robert bloch
+paid,notic,death,duncan,dorothi#paid notic,notic death,death duncan,duncan dorothi
+paid,notic,death,dougla,spencer#paid notic,notic death,death dougla,dougla spencer
+paid,notic,death,diamond,raphael#paid notic,notic death,death diamond,diamond raphael
+paid,notic,death,collier,loi,miller#paid notic,notic death,death collier,collier loi,loi miller
+paid,notic,death,childress,luci,elizabeth#paid notic,notic death,death childress,childress luci,luci elizabeth
+paid,notic,death,cassidi,nanci,teresa#paid notic,notic death,death cassidi,cassidi nanci,nanci teresa
+paid,notic,death,braunstein,sumner#paid notic,notic death,death braunstein,braunstein sumner
+paid,notic,death,canfield,cass,jr#paid notic,notic death,death canfield,canfield cass,cass jr
+paid,notic,death,blumenfeld,beatric#paid notic,notic death,death blumenfeld,blumenfeld beatric
+paid,notic,death,bissel,elliston,perot,iii#paid notic,notic death,death bissel,bissel elliston,elliston perot,perot iii
+paid,notic,death,bickley,ervin,felton,jr#paid notic,notic death,death bickley,bickley ervin,ervin felton,felton jr
+paid,notic,death,berti,albert,j#paid notic,notic death,death berti,berti albert,albert j
+paid,notic,death,berg,ceil,gloria,tappan#paid notic,notic death,death berg,berg ceil,ceil gloria,gloria tappan
+paid,notic,death,benenson,mark,k#paid notic,notic death,death benenson,benenson mark,mark k
+paid,notic,death,benenson,letizia,pitigliani#paid notic,notic death,death benenson,benenson letizia,letizia pitigliani
+paid,notic,death,athanassiad,thoma#paid notic,notic death,death athanassiad,athanassiad thoma
+paid,notic,death,anthoni,mari,kathryn#paid notic,notic death,death anthoni,anthoni mari,mari kathryn
+paid,notic,death,anderson,cari,m#paid notic,notic death,death anderson,anderson cari,cari m
+paid,notic,death,abelson,mildr,jigga,nee,sheinberg#paid notic,notic death,death abelson,abelson mildr,mildr jigga,jigga nee,nee sheinberg
+aw,children#aw children
+jet,replay,week,NUM#jet replay,replay week,week NUM
+derail,metro,north,train,exceed,speed,guidelin#derail metro,metro north,north train,train exceed,exceed speed,speed guidelin
+correct,decemb,NUM,2013#correct decemb,decemb NUM,NUM 2013
+carri,nolan,benjamin,singerman#carri nolan,nolan benjamin,benjamin singerman
+soul,mate,polic,car#soul mate,mate polic,polic car
+david,dean,steve,lowing#david dean,dean steve,steve lowing
+jenni,tricomi,mark,difior#jenni tricomi,tricomi mark,mark difior
+laura,sole,and,benjamin,baccash#laura sole,sole and,and benjamin,benjamin baccash
+carri,lee,and,ian,cohen#carri lee,lee and,and ian,ian cohen
+thoma,reefer,john,morgan#thoma reefer,reefer john,john morgan
+kay,walkingstick,and,dirk,bach#kay walkingstick,walkingstick and,and dirk,dirk bach
+milena,marshal,nikhil,suri#milena marshal,marshal nikhil,nikhil suri
+marissa,martini,and,jonathan,cypri#marissa martini,martini and,and jonathan,jonathan cypri
+famili,intervent#famili intervent
+holli,pippitt,alexand,fleiss#holli pippitt,pippitt alexand,alexand fleiss
+christin,curcio,jess,freeman#christin curcio,curcio jess,jess freeman
+robert,ostergaard,and,paul,feinman#robert ostergaard,ostergaard and,and paul,paul feinman
+shira,blumenth,elliot,schrag#shira blumenth,blumenth elliot,elliot schrag
+juli,perilstein,and,daniel,moze#juli perilstein,perilstein and,and daniel,daniel moze
+farrah,ferenzo,jeffrey,edelstein#farrah ferenzo,ferenzo jeffrey,jeffrey edelstein
+swiss,skier,win,super,g#swiss skier,skier win,win super,super g
+schwartzel,lead,dunhil#schwartzel lead,lead dunhil
+kansa,never,trail,but,has,work,win#kansa never,never trail,trail but,but has,has work,work win
+colleg,footbal,countri#colleg footbal,footbal countri
+touchdown,final,second,make,syracus,bowl,elig#touchdown final,final second,second make,make syracus,syracus bowl,bowl elig
+lopez,help,net,defeat,deplet,grizzli#lopez help,help net,net defeat,defeat deplet,deplet grizzli
+flat,out,win,NUM,mile#flat out,out win,win NUM,NUM mile
+martin,off,dolphin,roster#martin off,off dolphin,dolphin roster
+win,lotteri,number,nov,NUM,NUM#win lotteri,lotteri number,number nov,nov NUM,NUM NUM
+NUM,second,doom,NUM,alabama#NUM second,second doom,doom NUM,NUM alabama
+knick,find,solac,qualiti,loss#knick find,find solac,solac qualiti,qualiti loss
+thanksgiv,open,take,sale,black,friday#thanksgiv open,open take,take sale,sale black,black friday
+rustic,paradis,open,develop#rustic paradis,paradis open,open develop
+fordham,special,season,live,on#fordham special,special season,season live,live on
+first,gay,novel,poor,latino,boyhood,and,confluenc#first gay,gay novel,novel poor,poor latino,latino boyhood,boyhood and,and confluenc
+supermajor,pose,dilemma,parti#supermajor pose,pose dilemma,dilemma parti
+attorney,general,contest,conserv,crowd,field#attorney general,general contest,contest conserv,conserv crowd,crowd field
+troubl,build,where,fault,collid#troubl build,build where,where fault,fault collid
+team,azerbaijan,and,miami,seiz,titl,NON-US-LOCATION,NON-US-LOCATION#team azerbaijan,azerbaijan and,and miami,miami seiz,seiz titl
+machin,age#machin age
+machin,age#machin age
+sunday,dialogu,use,power,pardon#sunday dialogu,dialogu use,use power,power pardon
+ohio,state,surviv,michigan,and,receiv,help,auburn#ohio state,state surviv,surviv michigan,michigan and,and receiv,receiv help,help auburn
+missouri,earn,berth,sec,titl,game#missouri earn,earn berth,berth sec,sec titl,titl game
+gift,reflect,spirit,season#gift reflect,reflect spirit,spirit season
+die,your,time#die your,your time
+other,arab,awaken#other arab,arab awaken
+pope,and,right#pope and,and right
+congress,take,abus,patent,suit#congress take,take abus,abus patent,patent suit
+put,militari,pay,tabl#put militari,militari pay,pay tabl
+voter,id,get,day,court#voter id,id get,get day,day court
+shock,sex,secret,insect#shock sex,sex secret,secret insect
+machin,age#machin age
+honduras,elect,result,challeng,NON-US-LOCATION#honduras elect,elect result,result challeng
+unregul,sperm,industri#unregul sperm,sperm industri
+who,is,watch,watch,list#who is,is watch,watch watch,watch list
+govern,funnel#govern funnel
+joshua,sapan#joshua sapan
+millenni,searcher#millenni searcher
+eye,NUM,clinton,rebuild,bond,black#eye NUM,NUM clinton,clinton rebuild,rebuild bond,bond black
+week,NUM,matchup,giant,NUM,NUM,redskin,NUM,NUM#week NUM,NUM matchup,matchup giant,giant NUM,NUM NUM,NUM redskin,redskin NUM,NUM NUM
+where,factori,apprenticeship,is,latest,model,germany,NON-US-LOCATION#where factori,factori apprenticeship,apprenticeship is,is latest,latest model,model germany
+week,NUM,matchup,dolphin,NUM,NUM,jet,NUM,NUM#week NUM,NUM matchup,matchup dolphin,dolphin NUM,NUM NUM,NUM jet,jet NUM,NUM NUM
+rise,and,fall,minimum,wage#rise and,and fall,fall minimum,minimum wage
+will,p,k,go,sochi,canada,want,know#will p,p k,k go,go sochi,sochi canada,canada want,want know
+first,year,player,deserv,second,look#first year,year player,player deserv,deserv second,second look
+trust,coupl,now,thrown,NUM,loop#trust coupl,coupl now,now thrown,thrown NUM,NUM loop
+turn,wheel,justic,and,make,room,springsteen#turn wheel,wheel justic,justic and,and make,make room,room springsteen
+us,NUM,man,bobsl,team,win,world,cup#us NUM,NUM man,man bobsl,bobsl team,team win,win world,world cup
+yanke,tap,surpris,starter,their,ticket,campaign#yanke tap,tap surpris,surpris starter,starter their,their ticket,ticket campaign
+chatter,sunday,dec,NUM#chatter sunday,sunday dec,dec NUM
+how,gaug,price,danger#how gaug,gaug price,price danger
+arsenal,shut,out,cardiff,bolster,lead#arsenal shut,shut out,out cardiff,cardiff bolster,bolster lead
+jennif,dulski,changeorg,problem,solv,NON-US-LOCATION#jennif dulski,dulski changeorg,changeorg problem,problem solv
+when,algorithm,grow,accustom,your,face#when algorithm,algorithm grow,grow accustom,accustom your,your face
+japan,take,airspac,issu,un,agenc,NON-US-LOCATION#japan take,take airspac,airspac issu,issu un,un agenc
+arkansa,follow,fashion,and,money,out,it,home,away,home#arkansa follow,follow fashion,fashion and,and money,money out,out it,it home,home away,away home
+race,rescu,health,care,site,and,obama#race rescu,rescu health,health care,care site,site and,and obama
+heal,his,hand#heal his,his hand
+halfpip,david,wise,undud#halfpip david,david wise,wise undud
+romanc,upsw,patrick,look,race,follow#romanc upsw,upsw patrick,patrick look,look race,race follow
+letter,editor,columbia,and,failur,footbal,NON-US-LOCATION#letter editor,editor columbia,columbia and,and failur,failur footbal
+ukrainian,back,street,support,eu,accord#ukrainian back,back street,street support,support eu,eu accord
+polic,helicopt,crash,crowd,glasgow,pub#polic helicopt,helicopt crash,crash crowd,crowd glasgow,glasgow pub
+peter,kaplan,editor,new,york,observ,die,NUM,NON-US-LOCATION,NON-US-LOCATION#peter kaplan,kaplan editor,editor new,new york,york observ,observ die,die NUM
+who,kill,catchphras#who kill,kill catchphras
+daughter,famous,politician,creat,media,brand#daughter famous,famous politician,politician creat,creat media,media brand
+it,take,lot,money,look,good#it take,take lot,lot money,money look,look good
+canva
+bill,cunningham,reason,gratitud#bill cunningham,cunningham reason,reason gratitud
+roseann,barr,and,mindi,kale,funni,women,serious,talk#roseann barr,barr and,and mindi,mindi kale,kale funni,funni women,women serious,serious talk
+art,basel,miami,beach,squeez,art,out,pictur#art basel,basel miami,miami beach,beach squeez,squeez art,art out,out pictur
+way,lust#way lust
+cardin,pitcher,join,new,team#cardin pitcher,pitcher join,join new,new team
+marriag,test,advic,columnist#marriag test,test advic,advic columnist
+is,las,vegas,NON-US-LOCATION,NON-US-LOCATION#is las,las vegas
+diamond,pave,deal,obsess#diamond pave,pave deal,deal obsess
+shore,snow,and,sky,upper,peninsula,NON-US-LOCATION,NON-US-LOCATION#shore snow,snow and,and sky,sky upper,upper peninsula
+my,upper,peninsula,NON-US-LOCATION,NON-US-LOCATION#my upper,upper peninsula
+diamond,pave,deal,obsess#diamond pave,pave deal,deal obsess
+come,out,modern,famili#come out,out modern,modern famili
+help,shi,guy,build,up,his,nerv#help shi,shi guy,guy build,build up,up his,his nerv
+offer,nashville,kitchen,and,side,twist,NON-US-LOCATION#offer nashville,nashville kitchen,kitchen and,and side,side twist
+chevi,so,exclus,you,can,onli,borrow,not,buy#chevi so,so exclus,exclus you,you can,can onli,onli borrow,borrow not,not buy
+bring,back,driver,ralli,add,brain,teaser#bring back,back driver,driver ralli,ralli add,add brain,brain teaser
+perform,avail,privat,parti#perform avail,avail privat,privat parti
+thaw,frosti,toe#thaw frosti,frosti toe
+paperback,row#paperback row
+class,it,class,again#class it,it class,class again
+cold,comfort#cold comfort
+murder,vicarag#murder vicarag
+materfamilia
+kind,regard#kind regard
+help,and,help#help and,and help
+imperi,rhyme#imperi rhyme
+twist,spinster#twist spinster
+time,was,their,side#time was,was their,their side
+call,arm#call arm
+art,celebr#art celebr
+my,man,berti#my man,man berti
+did,i,fenc,sign#did i,i fenc,fenc sign
+who,made,spork#who made,made spork
+danica,patrick,race,car,and,build,brand#danica patrick,patrick race,race car,car and,and build,build brand
+NUM,issu#NUM issu
+hungri,hungri,voter#hungri hungri,hungri voter
+antholog
+oscar,hope,reviv,sear,memoir#oscar hope,hope reviv,reviv sear,sear memoir
+defend,queen#defend queen
+colleg,hous#colleg hous
+miami,project,off,arti,start,NON-US-LOCATION#miami project,project off,off arti,arti start
+stair,master#stair master
+choos,mortgag,broker,and,bank#choos mortgag,mortgag broker,broker and,and bank
+dr,ruth,westheim,her,bedroom,are,limit#dr ruth,ruth westheim,westheim her,her bedroom,bedroom are,are limit
+market,new,york,city,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#market new,new york,york city
+market,region#market region
+dare,audienc,not,laugh#dare audienc,audienc not,not laugh
+life,NUM,hour#life NUM,NUM hour
+holden,caulfield,redux#holden caulfield,caulfield redux
+readi,footbal,lot,it#readi footbal,footbal lot,lot it
+reclaim,label,progress,citi#reclaim label,label progress,progress citi
+world,toothpick#world toothpick
+cyprus,new,spirit,anim,capit,NON-US-LOCATION#cyprus new,new spirit,spirit anim,anim capit
+NUM,hour,shanghai,NON-US-LOCATION#NUM hour,hour shanghai
+french,flavor,east,river,NON-US-LOCATION,NON-US-LOCATION#french flavor,flavor east,east river
+local,bakeri,draw,afar#local bakeri,bakeri draw,draw afar
+masculin,mystiqu#masculin mystiqu
+event,new,jersey,NON-US-LOCATION,NON-US-LOCATION#event new,new jersey
+event,westchester,NON-US-LOCATION#event westchester
+event,long,island,NON-US-LOCATION,NON-US-LOCATION#event long,long island
+event,connecticut,US-LOCATION#event connecticut
+wine,NUM,or,just,fun#wine NUM,NUM or,or just,just fun
+in,search,perfect,holiday,drink#in search,search perfect,perfect holiday,holiday drink
+residenti,sale,region#residenti sale,sale region
+thai,classic,spot,known,them#thai classic,classic spot,spot known,known them
+NUM,year,they,know,their,fish#NUM year,year they,they know,know their,their fish
+dim,sum,and,much,more,no,frill,set#dim sum,sum and,and much,much more,more no,no frill,frill set
+alway,england,NON-US-LOCATION#alway england
+tom,perrotta,book#tom perrotta,perrotta book
+music,season,take,center,stage#music season,season take,take center,center stage
+letter,presid,and,press#letter presid,presid and,and press
+what,becom,diva,most#what becom,becom diva,diva most
+father,nation,and,famili#father nation,nation and,and famili
+unlik,throne,danc,royalti#unlik throne,throne danc,danc royalti
+so,mani,sound,but,jazz,is,core#so mani,mani sound,sound but,but jazz,jazz is,is core
+violin,prodigi,now,grown#violin prodigi,prodigi now,now grown
+see,stanwyck,month,long#see stanwyck,stanwyck month,month long
+west,coast,style,number#west coast,coast style,style number
+braid,bodi,up,onstag#braid bodi,bodi up,up onstag
+whitish,gray,also,quit,green#whitish gray,gray also,also quit,quit green
+music,underground#music underground
+inspir,far,home#inspir far,far home
+tourist,site,inspir#tourist site,site inspir
+familiar,face,broad,humor#familiar face,face broad,broad humor
+my,favorit,way,kick,bucket#my favorit,favorit way,way kick,kick bucket
+hotel,review,great,northern,hotel,london,NON-US-LOCATION#hotel review,review great,great northern,northern hotel,hotel london
+look,edg,holiday,travel#look edg,edg holiday,holiday travel
+how,choos,carri,bag#how choos,choos carri,carri bag
+engin,his,own,vermeer#engin his,his own,own vermeer
+hill,are,prop,show,is,live#hill are,are prop,prop show,show is,is live
+giant,men#giant men
+hill,are,aliv,long,island,NON-US-LOCATION,NON-US-LOCATION#hill are,are aliv,aliv long,long island
+wed,q,and#wed q,q and
+navig,art,fair,NUM,and#navig art,art fair,fair NUM,NUM and
+law,graviti,made,be,broken#law graviti,graviti made,made be,be broken
+better,meat,lollipop#better meat,meat lollipop
+want,drive,or,smell,ron,burgundi#want drive,drive or,or smell,smell ron,ron burgundi
+better,meat,lollipop#better meat,meat lollipop
+westchester,square,bronx,stay,awhil,NON-US-LOCATION,NON-US-LOCATION#westchester square,square bronx,bronx stay,stay awhil
+new,draw,diner,sonoma,county,town,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#new draw,draw diner,diner sonoma,sonoma county,county town
+NUM,weekend,santiago,chile,NON-US-LOCATION,NON-US-LOCATION#NUM weekend,weekend santiago,santiago chile
+mind,gap#mind gap
+scene,scene#scene scene
+NUM,screenwrit,write#NUM screenwrit,screenwrit write
+light,camera,and,first,time,dialogu#light camera,camera and,and first,first time,time dialogu
+big,pictur,strike,back#big pictur,pictur strike,strike back
+did,movi,have,be,movi#did movi,movi have,have be,be movi
+unforgett
+insid,list#insid list
