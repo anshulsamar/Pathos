@@ -11,13 +11,13 @@ addpath('../Parse/');
 addpath('../NB/');
 addpath('../Lib/liblinear-1.93');
 
-global angryHeadlinesParsedPath numAngryHeadlines nonAngryHeadlinesParsedPath numNonAngryHeadlines angryHeadlinesAPISumPath nonAngryHeadlinesAPISumPath
+global angryHeadlinesParsedPath numAngryHeadlines nonAngryHeadlinesParsedPath numNonAngryHeadlines angryHeadlinesAPISumPath nonAngryHeadlinesAPISumPath totalAngryHeadlines totalNonAngryHeadlines
 
 disp('Gathering All Data');
 
 %Randomly shuffle angry headlines
 
-angryHeadlines = extractHeadlinesFromParsedTextFile(angryHeadlinesParsedPath, 4527);
+angryHeadlines = extractHeadlinesFromParsedTextFile(angryHeadlinesParsedPath, totalAngryHeadlines);
 x = randperm(size(angryHeadlines, 1));
 angryHeadlines = angryHeadlines(x);
 
@@ -30,9 +30,8 @@ angryLabels = ones(numAngryHeadlines,1);
 
 %Randomly shuffle nonAngry headlines
 
-nonAngryHeadlines = extractHeadlinesFromParsedTextFile(nonAngryHeadlinesParsedPath, 4668);
+nonAngryHeadlines = extractHeadlinesFromParsedTextFile(nonAngryHeadlinesParsedPath, totalNonAngryHeadlines);
 x = randperm(size(nonAngryHeadlines, 1));
-nonAngryHeadlines = nonAngryHeadlines(x);
 
 %Take select group of these
 
@@ -85,31 +84,43 @@ for(i=0:9)
   else
       trainHeadlines = [totalHeadlines(1:startIndex, :);  totalHeadlines((endIndex + 1):numHeadlines,:)];
       trainLabels = [totalLabels(1:startIndex, :);  totalLabels((endIndex + 1):numHeadlines,:)];
-   %   trainAPISum = [totalAPISum(1:startIndex, :);  totalAPISum((endIndex + 1):numHeadlines,:)];
+    %  trainAPISum = [totalAPISum(1:startIndex, :);  totalAPISum((endIndex + 1):numHeadlines,:)];
   end
 
   [map, lexicon] = createLexicon(trainHeadlines);
   [trainMatrix,trainErrorMatrix] = createFeatureMatrix(trainHeadlines, lexicon);
   [testMatrix,testErrorMatrix] = createFeatureMatrix(testHeadlines, lexicon);
 
-  disp('Adding API Sums');
+%  disp('Adding API Sums');
 
-  %trainMatrix = [trainMatrix, trainAPISum];
-  %testMatrix = [testMatrix, testAPISum];
+ % trainMatrix = [trainMatrix, trainAPISum];
+ % testMatrix = [testMatrix, testAPISum];
   
   disp('SVM:');
 
-  [model] = svm_train(trainMatrix, trainLabels);
-  [predicted_label, accuracy, decision] = svm_test(testLabels(:,1), testMatrix, model);
-  [precision, recall, accuracy] = stats(testLabels,predicted_label)
-  statsMatrixSVM((i+1),1) = precision;
-  statsMatrixSVM((i+1),2) = recall;
-  statsMatrixSVM((i+1),3) = accuracy;
+%  [model] = svm_train(trainMatrix, trainLabels);
+%  [predicted_label, accuracy, decision] = svm_test(testLabels, testMatrix, model);
+%  [precision, recall, accuracy] = stats(testLabels,predicted_label)
+%  statsMatrixSVM((i+1),1) = precision;
+%  statsMatrixSVM((i+1),2) = recall;
+%  statsMatrixSVM((i+1),3) = accuracy;
 
 
   disp('NB')
 
-  predicted_label = nb_run(trainMatrix, trainLabels, testMatrix, testLabels(:,1));
+  for (j = 1:size(trainLabels,1))
+      if (trainLabels(j) == -1)
+	 trainLabels(j) = 0;
+      end
+  end
+     
+  for (j = 1:size(testLabels,1))
+      if (testLabels(j,1) == -1)
+	 trainLabels(j,1) = 0;
+      end
+  end
+ 
+  predicted_label = nb_run(trainMatrix, trainLabels, testMatrix, testLabels);
   [precision, recall, accuracy] = stats(testLabels, predicted_label);
   statsMatrixNB((i+1),1) = precision;
   statsMatrixNB((i+1),2) = recall;
@@ -119,16 +130,16 @@ for(i=0:9)
 
 end
 
-disp(statsMatrixSVM);
+%disp(statsMatrixSVM);
 disp(statsMatrixNB);
 
-disp('Average SVM Results');
-disp('Precision');
-disp(sum(statsMatrixSVM(:,1)) ./ 10);
-disp('Recall');
-disp(sum(statsMatrixSVM(:,2)) ./ 10);
-disp('Accuracy');
-disp(sum(statsMatrixSVM(:,3)) ./ 10);
+%disp('Average SVM Results');
+%disp('Precision');
+%disp(sum(statsMatrixSVM(:,1)) ./ 10);
+%disp('Recall');
+%disp(sum(statsMatrixSVM(:,2)) ./ 10);
+%disp('Accuracy');
+%disp(sum(statsMatrixSVM(:,3)) ./ 10);
 
 disp('Average NB Results');
 disp('Precision');

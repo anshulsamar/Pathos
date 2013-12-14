@@ -1,0 +1,200 @@
+mortar,assault,leav,least,NUM,dead#mortar assault,assault leav,leav least,least NUM,NUM dead
+bomber,kill,shopper#bomber kill,kill shopper
+we,were,arrog,and,stupid,iraq,say,us,diplomat,NON-US-LOCATION,NON-US-LOCATION#we were,were arrog,arrog and,and stupid,stupid iraq,iraq say,say us,us diplomat
+kidnap,ap,photograph,freed,gaza,NON-US-LOCATION#kidnap ap,ap photograph,photograph freed,freed gaza
+bush,insist,troop,stay,iraq,predict,midterm,victori,NON-US-LOCATION#bush insist,insist troop,troop stay,stay iraq,iraq predict,predict midterm,midterm victori
+uk,announc,immigr,restrict,NON-US-LOCATION#uk announc,announc immigr,immigr restrict
+hacker,unlock,appl,music,download,protect#hacker unlock,unlock appl,appl music,music download,download protect
+spanish,journalist,seiz,gaza,NON-US-LOCATION#spanish journalist,journalist seiz,seiz gaza
+diplomat,acknowledg,us,arrog,iraq,NON-US-LOCATION,NON-US-LOCATION#diplomat acknowledg,acknowledg us,us arrog,arrog iraq
+more,human,remain,found,ground,NUM#more human,human remain,remain found,found ground,ground NUM
+how,prevent,iraq,get,even,wors,NON-US-LOCATION#how prevent,prevent iraq,iraq get,get even,even wors
+tension,hungary,mark,upris,NON-US-LOCATION#tension hungary,hungary mark,mark upris
+us,troop,kill,octob,iraq,NON-US-LOCATION,NON-US-LOCATION#us troop,troop kill,kill octob,octob iraq
+death,link,flu,vaccin#death link,link flu,flu vaccin
+israel,insist,lebanon,overflight,NON-US-LOCATION,NON-US-LOCATION#israel insist,insist lebanon,lebanon overflight
+marin,kill,fight,west,baghdad,NON-US-LOCATION#marin kill,kill fight,fight west,west baghdad
+death,link,flu,vaccin#death link,link flu,flu vaccin
+israel,admit,use,phosphor,shell,lebanon,NON-US-LOCATION,NON-US-LOCATION#israel admit,admit use,use phosphor,phosphor shell,shell lebanon
+4th,person,die,receiv,flu,shot#4th person,person die,die receiv,receiv flu,flu shot
+polic,and,shopper,target,grow,iraq,violenc,NON-US-LOCATION#polic and,and shopper,shopper target,target grow,grow iraq,iraq violenc
+abba,condemn,israeli,massacr,northern,gaza,strip,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#abba condemn,condemn israeli,israeli massacr,massacr northern,northern gaza,gaza strip
+bangladesh,ferri,sink,NUM,dead,NON-US-LOCATION#bangladesh ferri,ferri sink,sink NUM,NUM dead
+polic,warn,child,exploit,onlin#polic warn,warn child,child exploit,exploit onlin
+celebr,protest,malibu,gas,facil#celebr protest,protest malibu,malibu gas,gas facil
+lie,damn,lie,and,divorc#lie damn,damn lie,lie and,and divorc
+riot,warn,france,suburb,NON-US-LOCATION#riot warn,warn france,france suburb
+budapest,calm,night,violent,protest,NON-US-LOCATION#budapest calm,calm night,night violent,violent protest
+report,criticis,us,press,freedom,NON-US-LOCATION#report criticis,criticis us,us press,press freedom
+photograph,kidnap,condemn#photograph kidnap,kidnap condemn
+photograph,kidnap,gaza,NON-US-LOCATION#photograph kidnap,kidnap gaza
+top,general,optimist,iraq,NON-US-LOCATION#top general,general optimist,optimist iraq
+offici,laugh,borat#offici laugh,laugh borat
+ukraine,gas,deal,mar,fear,NON-US-LOCATION#ukraine gas,gas deal,deal mar,mar fear
+colleg,tuition,continu,climb#colleg tuition,tuition continu,continu climb
+german,paper,show,soldier,desecr,skull#german paper,paper show,show soldier,soldier desecr,desecr skull
+war,is,close,ethiopia,tell,somali,rebel,NON-US-LOCATION#war is,is close,close ethiopia,ethiopia tell,tell somali,somali rebel
+soni,hate,european,will,prevent,import,NUM#soni hate,hate european,european will,will prevent,prevent import,import NUM
+isra,bomblet,plagu,lebanon#isra bomblet,bomblet plagu,plagu lebanon
+new,indonesia,calam,mud,bath,is,man,made,NON-US-LOCATION,NON-US-LOCATION#new indonesia,indonesia calam,calam mud,mud bath,bath is,is man,man made
+us,weigh,sanction,north,korea#us weigh,weigh sanction,sanction north,north korea
+rice,baghdad,insist,iraqi,are,NON-US-LOCATION#rice baghdad,baghdad insist,insist iraqi,iraqi are
+turkish,writer,say,effort,stifl,speech,may,backfir#turkish writer,writer say,say effort,effort stifl,stifl speech,speech may,may backfir
+kurdish,lawmak,kill,attack,baghdad,NON-US-LOCATION#kurdish lawmak,lawmak kill,kill attack,attack baghdad
+anti,us,attack,video,spread,internet,NON-US-LOCATION#anti us,us attack,attack video,video spread,spread internet
+women,face,greatest,threat,violenc,home,studi,find#women face,face greatest,greatest threat,threat violenc,violenc home,home studi,studi find
+mix,oil,and,environment#mix oil,oil and,and environment
+us,warn,north,korean,nuclear,test,NON-US-LOCATION#us warn,warn north,north korean,korean nuclear,nuclear test
+equip,plane,brazil,collis,may,have,been,faulti,NON-US-LOCATION#equip plane,plane brazil,brazil collis,collis may,may have,have been,been faulti
+new,indonesia,calam,mud,bath,is,man,made,NON-US-LOCATION#new indonesia,indonesia calam,calam mud,mud bath,bath is,is man,man made
+cleric,said,lose,rein,part,iraqi,militia#cleric said,said lose,lose rein,rein part,part iraqi,iraqi militia
+militari,offici,add,us,critic,iraq,govern#militari offici,offici add,add us,us critic,critic iraq,iraq govern
+combat,bush,releas,part,terror,studi#combat bush,bush releas,releas part,part terror,terror studi
+grow,unarm,battalion,qaeda,armi,is,use,internet,get,messag,out#grow unarm,unarm battalion,battalion qaeda,qaeda armi,armi is,is use,use internet,internet get,get messag,messag out
+iraqi,link,sunni,bloc,is,held,plot,militari,say#iraqi link,link sunni,sunni bloc,bloc is,is held,held plot,plot militari,militari say
+seduc,snack,no,not,you#seduc snack,snack no,no not,not you
+alzheim,drug,offer,help,studi,find#alzheim drug,drug offer,offer help,help studi,studi find
+new,iraq,terror,tape,call,abduct,foreign,NON-US-LOCATION,NON-US-LOCATION#new iraq,iraq terror,terror tape,tape call,call abduct,abduct foreign
+squirrel,jump,boy,park,rabi,suspect#squirrel jump,jump boy,boy park,park rabi,rabi suspect
+girl,left,comatos,dental,visit,die#girl left,left comatos,comatos dental,dental visit,visit die
+porn,star,candid,campaign,campus#porn star,star candid,candid campaign,campaign campus
+toddler,die,taint,spinach#toddler die,die taint,taint spinach
+NUM,die,NUM,hour,kashmir,standoff,NON-US-LOCATION#NUM die,die NUM,NUM hour,hour kashmir,kashmir standoff
+slain,amish,girl,laid,rest#slain amish,amish girl,girl laid,laid rest
+5000,flee,plant,fire#5000 flee,flee plant,plant fire
+amish,schoolhous,torn,down#amish schoolhous,schoolhous torn,torn down
+briton,admit,us,bomb,plot,role,NON-US-LOCATION#briton admit,admit us,us bomb,bomb plot,plot role
+gunmen,kill,NUM,iraqi,tv,station,NON-US-LOCATION#gunmen kill,kill NUM,NUM iraqi,iraqi tv,tv station
+wast,plant,fire,forc,5000,evacu#wast plant,plant fire,fire forc,forc 5000,5000 evacu
+toddler,die,e,coli,taint,spinach#toddler die,die e,e coli,coli taint,taint spinach
+disturb,find,child,sex,raid#disturb find,find child,child sex,sex raid
+magazin,list,women,who,had,abort#magazin list,list women,women who,who had,had abort
+costner,appeal,casino,wrangl#costner appeal,appeal casino,casino wrangl
+sri,lanka,clash,kill,NUM,troop,NON-US-LOCATION,NON-US-LOCATION#sri lanka,lanka clash,clash kill,kill NUM,NUM troop
+gunmen,kill,NUM,iraq,tv,raid,NON-US-LOCATION#gunmen kill,kill NUM,NUM iraq,iraq tv,tv raid
+amish,kill,school,demolish#amish kill,kill school,school demolish
+man,admit,uk,us,terror,bomb,plot,NON-US-LOCATION,NON-US-LOCATION#man admit,admit uk,uk us,us terror,terror bomb,bomb plot
+NUM,hussein,alli,are,hang,iraqi,offici,say,NON-US-LOCATION#NUM hussein,hussein alli,alli are,are hang,hang iraqi,iraqi offici,offici say
+diabet,wait,month,eyeglass#diabet wait,wait month,month eyeglass
+cisco,sue,appl,iphon,name#cisco sue,sue appl,appl iphon,iphon name
+global,nation,major,child,porn,ring,bust#global nation,nation major,major child,child porn,porn ring,ring bust
+tbs,pay,2m,fine,ad,campaign,bomb,scare#tbs pay,pay 2m,2m fine,fine ad,ad campaign,campaign bomb,bomb scare
+NUM,muslim,group,sue,french,newspap,intern#NUM muslim,muslim group,group sue,sue french,french newspap,newspap intern
+protest,end,strike,nepal,pm,conced,demand,NON-US-LOCATION#protest end,end strike,strike nepal,nepal pm,pm conced,conced demand
+sarkozi,head,clash,cartoon,row#sarkozi head,head clash,clash cartoon,cartoon row
+global,web,suspect,child,rape,download#global web,web suspect,suspect child,child rape,rape download
+cheney,congress,cant,run,iraq,war,committe,NON-US-LOCATION#cheney congress,congress cant,cant run,run iraq,iraq war,war committe
+iraq,car,bomb,kill,NUM,peopl,wound,more,NUM,NON-US-LOCATION#iraq car,car bomb,bomb kill,kill NUM,NUM peopl,peopl wound,wound more,more NUM
+filipino,woman,kidnap,nigeria,NON-US-LOCATION#filipino woman,woman kidnap,kidnap nigeria
+teacher,charg,sex,assault#teacher charg,charg sex,sex assault
+sharehold,sue,appl#sharehold sue,sue appl
+isra,retali,attack,lebanes,armi#isra retali,retali attack,attack lebanes,lebanes armi
+walter,trump,poor,pathet,man#walter trump,trump poor,poor pathet,pathet man
+iran,say,it,will,strike,us,interest,attack,NON-US-LOCATION,NON-US-LOCATION#iran say,say it,it will,will strike,strike us,us interest,interest attack
+outcri,n,korea,nuclear,test,NON-US-LOCATION,NON-US-LOCATION#outcri n,n korea,korea nuclear,nuclear test
+russia,plan,major,militari,build,up,NON-US-LOCATION#russia plan,plan major,major militari,militari build,build up
+iran,warn,will,hit,back,us,attack,NON-US-LOCATION,NON-US-LOCATION#iran warn,warn will,will hit,hit back,back us,us attack
+iraqi,death,toll,exceed,NUM,NUM,unit,nation,say#iraqi death,death toll,toll exceed,exceed NUM,NUM NUM,NUM unit,unit nation,nation say
+israel,intensifi,militari,flight,lebanon,NON-US-LOCATION,NON-US-LOCATION#israel intensifi,intensifi militari,militari flight,flight lebanon
+us,urg,nato,afghan,spring,offens,NON-US-LOCATION#us urg,urg nato,nato afghan,afghan spring,spring offens
+uk,letter,bomb,may,be,extremist,driver,NON-US-LOCATION#uk letter,letter bomb,bomb may,may be,be extremist,extremist driver
+rowdi,fan,eject,open#rowdi fan,fan eject,eject open
+terai,protest,hail,histor,victori,govern,NON-US-LOCATION#terai protest,protest hail,hail histor,histor victori,victori govern
+anger,releas,NUM,held,behead,plot#anger releas,releas NUM,NUM held,held behead,behead plot
+bush,adam,troop,iraq,NON-US-LOCATION#bush adam,adam troop,troop iraq
+abba,reject,temporari,state#abba reject,reject temporari,temporari state
+investig,child,porn,site,hit,NUM,nation#investig child,child porn,porn site,site hit,hit NUM,NUM nation
+ice,storm,crippl,central,us,NON-US-LOCATION#ice storm,storm crippl,crippl central,central us
+shiit,fighter,arrest,crackdown,iraq,say,NON-US-LOCATION#shiit fighter,fighter arrest,arrest crackdown,crackdown iraq,iraq say
+test,cricket,jail,kill#test cricket,cricket jail,jail kill
+bush,author,iranian,arrest,iraq,rice,say,NON-US-LOCATION,NON-US-LOCATION#bush author,author iranian,iranian arrest,arrest iraq,iraq rice,rice say
+porn,ring,scandal,reach,australia,NON-US-LOCATION#porn ring,ring scandal,scandal reach,reach australia
+sharehold,sue,appl#sharehold sue,sue appl
+iran,step,up,product,weapon,grade,uranium,NON-US-LOCATION#iran step,step up,up product,product weapon,weapon grade,grade uranium
+palestinian,say,clash,hurt,their,caus#palestinian say,say clash,clash hurt,hurt their,their caus
+peron,held,70s,right,abus#peron held,held 70s,70s right,right abus
+republican,plan,block,iraq,debat,NON-US-LOCATION#republican plan,plan block,block iraq,iraq debat
+right,group,halt,violent,nepal,strike,NON-US-LOCATION#right group,group halt,halt violent,violent nepal,nepal strike
+gunmen,abduct,filipino,woman,nigeria,NON-US-LOCATION#gunmen abduct,abduct filipino,filipino woman,woman nigeria
+now,it,offici,iraq,mess,NON-US-LOCATION#now it,it offici,offici iraq,iraq mess
+new,orleans,violenc,spark,tourism,fear,NON-US-LOCATION,NON-US-LOCATION#new orleans,orleans violenc,violenc spark,spark tourism,tourism fear
+congoles,soldier,riot,loot,pay,issu#congoles soldier,soldier riot,riot loot,loot pay,pay issu
+troop,mass,somali,town#troop mass,mass somali,somali town
+peretz,order,idf,respond,forc,north,border,attack#peretz order,order idf,idf respond,respond forc,forc north,north border,border attack
+israeli,woman,tirad,spur,pm,outrag,NON-US-LOCATION#israeli woman,woman tirad,tirad spur,spur pm,pm outrag
+italy,tri,us,soldier,agent,iraq,death,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#italy tri,tri us,us soldier,soldier agent,agent iraq,iraq death
+even,it,releas,world,climat,report,is,critic,too,optimist#even it,it releas,releas world,world climat,climat report,report is,is critic,critic too,too optimist
+hacker,strike,key,internet,server#hacker strike,strike key,key internet,internet server
+memo,frankfurt,germany,reliv,NUM,terror,NUM,seek,releas,jail,NON-US-LOCATION,NON-US-LOCATION#memo frankfurt,frankfurt germany,germany reliv,reliv NUM,NUM terror,terror NUM,NUM seek,seek releas,releas jail
+hacker,attack,root,server#hacker attack,attack root,root server
+NUM,year,damilola,killer#NUM year,year damilola,damilola killer
+investig,child,porn,site,hit,NUM,nation,usa,today,US-LOCATION#investig child,child porn,porn site,site hit,hit NUM,NUM nation,nation usa,usa today
+minist,slam,airlin,carbon#minist slam,slam airlin,airlin carbon
+iraqi,forc,detain,offici,suspect,shia,conspiraci#iraqi forc,forc detain,detain offici,offici suspect,suspect shia,shia conspiraci
+pledg,i,was,abus,frat,haze#pledg i,i was,was abus,abus frat,frat haze
+bill,would,strip,convict,legisl,pension#bill would,would strip,strip convict,convict legisl,legisl pension
+mistrial,offic,who,refus,go,iraq,NON-US-LOCATION#mistrial offic,offic who,who refus,refus go,go iraq
+rebel,join,nepal,parliament,NON-US-LOCATION#rebel join,join nepal,nepal parliament
+iran,hit,us,interest,attack,NON-US-LOCATION,NON-US-LOCATION#iran hit,hit us,us interest,interest attack
+cisco,sue,appl,iphon,name#cisco sue,sue appl,appl iphon,iphon name
+carter,was,disast,said,ford#carter was,was disast,disast said,said ford
+israel,peretz,urg,halt,contenti,jerusalem,construct,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#israel peretz,peretz urg,urg halt,halt contenti,contenti jerusalem,jerusalem construct
+peter,jackson,will,never,work,me,again#peter jackson,jackson will,will never,never work,work me,me again
+freed,kidnap,suspect,my,terror,polic,raid#freed kidnap,kidnap suspect,suspect my,my terror,terror polic,polic raid
+mistrial,declar,teacher,student,rape,case#mistrial declar,declar teacher,teacher student,student rape,rape case
+attorney,point,finger,fight,ryan,oneal,and,son#attorney point,point finger,finger fight,fight ryan,ryan oneal,oneal and,and son
+iraqi,fault,delay,us,plan,attack,NON-US-LOCATION#iraqi fault,fault delay,delay us,us plan,plan attack
+boy,scout,blame,start,wildfir#boy scout,scout blame,blame start,start wildfir
+china,urg,un,action,n,korea,NON-US-LOCATION,NON-US-LOCATION#china urg,urg un,un action,action n,n korea
+isra,lebanes,clash,border#isra lebanes,lebanes clash,clash border
+north,korea,claim,nuclear,test,NON-US-LOCATION,NON-US-LOCATION#north korea,korea claim,claim nuclear,nuclear test
+ballerina,spark,anti,fascist,row#ballerina spark,spark anti,anti fascist,fascist row
+did,nasa,accident,kill,life,mar#did nasa,nasa accident,accident kill,kill life,life mar
+kidnapp,seiz,NUM,nigeria,NON-US-LOCATION#kidnapp seiz,seiz NUM,NUM nigeria
+iraqi,health,minist,seiz,raid#iraqi health,health minist,minist seiz,seiz raid
+congressman,rebuk,us,alli,lack,support,afghanistan,NON-US-LOCATION,NON-US-LOCATION#congressman rebuk,rebuk us,us alli,alli lack,lack support,support afghanistan
+us,and,iraqi,are,wrangl,war,plan,NON-US-LOCATION#us and,and iraqi,iraqi are,are wrangl,wrangl war,war plan
+iran,hit,us,interest,attack,NON-US-LOCATION,NON-US-LOCATION#iran hit,hit us,us interest,interest attack
+blair,terror,battl,will,be,long#blair terror,terror battl,battl will,will be,be long
+iran,strike,us,interest,attack,NON-US-LOCATION,NON-US-LOCATION#iran strike,strike us,us interest,interest attack
+thatll,cost,ya#thatll cost,cost ya
+botch,hang,iraq,speed,sectarian,NON-US-LOCATION#botch hang,hang iraq,iraq speed,speed sectarian
+italy,disput,us,iraq,shoot,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#italy disput,disput us,us iraq,iraq shoot
+friend,fire,pilot,experienc#friend fire,fire pilot,pilot experienc
+ex,suspect,slam,anti,terror,law#ex suspect,suspect slam,slam anti,anti terror,terror law
+venezuela,iran,fight,us,domin,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#venezuela iran,iran fight,fight us,us domin
+greek,polic,hunt,embassi,attack#greek polic,polic hunt,hunt embassi,embassi attack
+least,NUM,die,blast,level,baghdad,market,NON-US-LOCATION#least NUM,NUM die,die blast,blast level,level baghdad,baghdad market
+offic,had,rapport,alleg,abductor#offic had,had rapport,rapport alleg,alleg abductor
+italy,hold,show,trial,bronx,gi,iraq,slay,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#italy hold,hold show,show trial,trial bronx,bronx gi,gi iraq,iraq slay
+canadian,track,child,porn,ring#canadian track,track child,child porn,porn ring
+teen,hack,venezuelan,govern,web,site#teen hack,hack venezuelan,venezuelan govern,govern web,web site
+mass,venezuela,opposit,ralli,NON-US-LOCATION#mass venezuela,venezuela opposit,opposit ralli
+princess,and,heir,franz,ferdinand,fight,repeal,law,and,gain,castl#princess and,and heir,heir franz,franz ferdinand,ferdinand fight,fight repeal,repeal law,law and,and gain,gain castl
+milit,attack,us,base,iraq,NON-US-LOCATION,NON-US-LOCATION#milit attack,attack us,us base,base iraq
+anglican,rebuk,us,branch,same,sex,union,NON-US-LOCATION#anglican rebuk,rebuk us,us branch,branch same,same sex,sex union
+homemad,bomb,kill,NUM,indian,train#homemad bomb,bomb kill,kill NUM,NUM indian,indian train
+chvez,threaten,jail,violat,price,control#chvez threaten,threaten jail,jail violat,violat price,price control
+bush,declar,iran,arm,role,iraq,is,certain,NON-US-LOCATION,NON-US-LOCATION#bush declar,declar iran,iran arm,arm role,role iraq,iraq is,is certain
+disput,iraqi,cleric,said,have,gone,iran,NON-US-LOCATION,NON-US-LOCATION#disput iraqi,iraqi cleric,cleric said,said have,have gone,gone iran
+plan,seen,iraqi,attack,us,copter,NON-US-LOCATION#plan seen,seen iraqi,iraqi attack,attack us,us copter
+india,decri,act,sabotag,NON-US-LOCATION#india decri,decri act,act sabotag
+russia,warn,us,missil,base,east,europ,NON-US-LOCATION,NON-US-LOCATION#russia warn,warn us,us missil,missil base,base east,east europ
+iraq,insurg,attack,us,base,NON-US-LOCATION,NON-US-LOCATION#iraq insurg,insurg attack,attack us,us base
+us,soldier,die,day,violenc,NON-US-LOCATION#us soldier,soldier die,die day,day violenc
+iraqi,suicid,attack,kill,NUM,us,troop,as,milit,fight,purg,NON-US-LOCATION#iraqi suicid,suicid attack,attack kill,kill NUM,NUM us,us troop,troop as,as milit,milit fight,fight purg
+iran,reneg,nuclear,payment,russia,NON-US-LOCATION,NON-US-LOCATION#iran reneg,reneg nuclear,nuclear payment,payment russia
+victim,air,india,still,wait,justic#victim air,air india,india still,still wait,wait justic
+kanishka,bomb,case,inquiri,judg,threaten,quit,NON-US-LOCATION#kanishka bomb,bomb case,case inquiri,inquiri judg,judg threaten,threaten quit
+judg,threaten,shut,down,air,india,inquiri#judg threaten,threaten shut,shut down,down air,air india,india inquiri
+australia,tell,bush,speed,up,guantanamo,trial,NON-US-LOCATION,NON-US-LOCATION#australia tell,tell bush,bush speed,speed up,up guantanamo,guantanamo trial
+taliban,seiz,rural,district,southwest,polic,flee#taliban seiz,seiz rural,rural district,district southwest,southwest polic,polic flee
+iran,vs,north,korea,not,enemi,are,equal,NON-US-LOCATION,NON-US-LOCATION,NON-US-LOCATION#iran vs,vs north,north korea,korea not,not enemi,enemi are,are equal
+thailand,attack,kill,NUM,injur,NUM,NON-US-LOCATION#thailand attack,attack kill,kill NUM,NUM injur,injur NUM
+bomb,say,muslim,rebel,wont,negoti#bomb say,say muslim,muslim rebel,rebel wont,wont negoti
+reopen,bird,flu,hitfactori,ignor,risk,poultryman#reopen bird,bird flu,flu hitfactori,hitfactori ignor,ignor risk,risk poultryman
+media,cite,show,girl,sex,object#media cite,cite show,show girl,girl sex,sex object
+sexualis,harm,young,girl#sexualis harm,harm young,young girl
+lawyer,deceas,nazi,era,collabor,papon,vow,buri,him#lawyer deceas,deceas nazi,nazi era,era collabor,collabor papon,papon vow,vow buri,buri him
+hungarian,opposit,call,vote,violenc,escal#hungarian opposit,opposit call,call vote,vote violenc,violenc escal
+punter,charg,stab,ask,live,outsid,state#punter charg,charg stab,stab ask,ask live,live outsid,outsid state

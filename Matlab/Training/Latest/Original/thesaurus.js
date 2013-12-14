@@ -1,7 +1,7 @@
 var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 var fs = require('fs');
 
-var url = 'http://words.bighugelabs.com/api/2/496e83e0e0d68046f138a6ca533ec979/';
+var url = 'http://words.bighugelabs.com/api/2/be791b9b2adb9f43e79cd86008d7d291/';
 
 function callAPI(outputFile, word, headline, all){
     

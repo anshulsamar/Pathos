@@ -8,11 +8,11 @@ var request = require('request');
 var fs = require('fs');
 
 
-function callAPI(page, count, outputFile, word, headline, all){
+function callAPI(page, count, outputFile, word, headline, all, lengthHeadline){
     
      if (headline.length == 0 && word == null){
-     console.log(count);
-         fs.appendFile(outputFile, count);
+     console.log(Math.floor(10 * (count/lengthHeadline)));
+         fs.appendFile(outputFile, Math.floor(10 * (count/lengthHeadline))  + '\n');
         if (all.length){
             var nextHeadline = all.shift();
             
@@ -29,11 +29,10 @@ function callAPI(page, count, outputFile, word, headline, all){
        
             
             nextHeadline = nextHeadline.split(' ');
+	    var nextHeadlineLength = nextHeadline.length;
             var nextWord = nextHeadline.shift();
             
-            fs.appendFile(outputFile,'\n');
-            
-            callAPI(0, 0, outputFile,nextWord,nextHeadline,all);
+            callAPI(0, 0, outputFile,nextWord,nextHeadline,all,nextHeadlineLength);
             return;
         } else        
             return;
@@ -41,21 +40,26 @@ function callAPI(page, count, outputFile, word, headline, all){
 
     console.log('API call for: ' + word);
     
-    var url = 'http://api.nytimes.com/svc/search/v2/articlesearch.json?fq=headline:(\"anger\"AND\"' + word + '\")&begin_date=20130101&end_date=20131210&page=' + encodeURIComponent(page) + '&fl=headline,lead_paragraph&api-key=fe1412f1ee8ed3c6f6e3f7a2d90c066c:8:67781992';
+    var url = 'http://api.nytimes.com/svc/search/v2/articlesearch.json?fq=headline:(\"anger\"AND\"' + word + '\")&page=' + encodeURIComponent(page) + '&begin_date=20030101&end_date=20131210&fl=headline&api-key=fe1412f1ee8ed3c6f6e3f7a2d90c066c:8:67781992';
 
     request(url, function (error, response, body) {
+
+	        if (error){
+                   console.log(error);
+
+		}
                          
                 if (!error && response.statusCode == 200) {
                     obj = JSON.parse(body);
-                    if (obj.response.docs.length > 0 && page < 2){
+                    if (obj.response.docs.length > 0 && page < 4){
                         count += obj.response.docs.length;
                         setTimeout(function(){
-                            callAPI(page+1, count, outputFile, word, headline, all);
+                            callAPI(page+1, count, outputFile, word, headline, all,lengthHeadline);
                         },200);
                     } else {
                         setTimeout(function(){
                             newWord = headline.shift();
-                            callAPI(0, count, outputFile, newWord, headline, all);
+                            callAPI(0, count, outputFile, newWord, headline, all,lengthHeadline);
                         },200);
                         
                     }
@@ -105,9 +109,10 @@ fs.readFile(inputFile, 'utf8', function(error, data){
        
      
        headline = headline.split(' ');
+       var lengthHeadline = headline.length;
        var word = headline.shift();
        
-       callAPI(0, 0, outputFile, word, headline, all);
+       callAPI(0, 0, outputFile, word, headline, all, lengthHeadline);
    }
 });
 
