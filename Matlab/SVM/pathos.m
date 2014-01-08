@@ -1,9 +1,5 @@
-% Anshul Samar
-% File: headlines.m
-% -----------------
-% Requires user to run loadconstants.m first. SVM on 'anger' emotion.
-% Assumes all headlines in training and testing have been parsed and that 
-% training testing data sets have already been collected.
+%Currently runs NB. To run SVM comment out NB code, uncomment SVM code
+%and change the labelings of nonAngry from zeros to -1. Also change stats code
 
 function[predicted_label,trainErrorMatrix,testErrorMatrix,lexicon,testlexicon] = pathos()
 
@@ -26,7 +22,7 @@ angryHeadlines = angryHeadlines(x);
 angryHeadlines = angryHeadlines(1:numAngryHeadlines,:);
 angryLabels = ones(numAngryHeadlines,1);
 
-%angryAPISum = extractFeaturesFromTextFile(angryHeadlinesAPISumPath, numAngryHeadlines);
+angryAPISum = extractFeaturesFromTextFile(angryHeadlinesAPISumPath, numAngryHeadlines);
 
 %Randomly shuffle nonAngry headlines
 
@@ -38,7 +34,7 @@ x = randperm(size(nonAngryHeadlines, 1));
 nonAngryHeadlines = nonAngryHeadlines(1:numAngryHeadlines,:);
 nonAngryLabels = zeros(numNonAngryHeadlines,1);
 
-%nonAngryAPISum = extractFeaturesFromTextFile(nonAngryHeadlinesAPISumPath, numNonAngryHeadlines);
+nonAngryAPISum = extractFeaturesFromTextFile(nonAngryHeadlinesAPISumPath, numNonAngryHeadlines);
 
 disp('Randomly permuting headlines for cross validation');
 
@@ -48,7 +44,7 @@ x = randperm(size(totalHeadlines,1));
 totalHeadlines = totalHeadlines(x);
 totalLabels = totalLabels(x);
 
-%totalAPISum = [angryAPISum; nonAngryAPISum];
+totalAPISum = [angryAPISum; nonAngryAPISum];
 
 disp('Beginning cross validation');
 
@@ -71,55 +67,48 @@ for(i=0:9)
 
   testHeadlines = totalHeadlines((startIndex + 1):endIndex,:);
   testLabels = totalLabels((startIndex + 1):endIndex,:);
- % testAPISum = totalAPISum((startIndex + 1):endIndex,:);
+ testAPISum = totalAPISum((startIndex + 1):endIndex,:);
 
   if i == 0
      trainHeadlines = totalHeadlines(endIndex+1:numHeadlines);
      trainLabels = totalLabels(endIndex+1:numHeadlines);
-  %   trainAPISum = totalAPISum(endIndex+1:numHeadlines);
+    trainAPISum = totalAPISum(endIndex+1:numHeadlines);
   elseif i == 9
      trainHeadlines = totalHeadlines(1:startIndex);
      trainLabels = totalLabels(1:startIndex);
-   %  trainAPISum = totalAPISum(1:startIndex);
+   trainAPISum = totalAPISum(1:startIndex);
   else
       trainHeadlines = [totalHeadlines(1:startIndex, :);  totalHeadlines((endIndex + 1):numHeadlines,:)];
       trainLabels = [totalLabels(1:startIndex, :);  totalLabels((endIndex + 1):numHeadlines,:)];
-    %  trainAPISum = [totalAPISum(1:startIndex, :);  totalAPISum((endIndex + 1):numHeadlines,:)];
+     trainAPISum = [totalAPISum(1:startIndex, :);  totalAPISum((endIndex + 1):numHeadlines,:)];
   end
 
   [map, lexicon] = createLexicon(trainHeadlines);
   [trainMatrix,trainErrorMatrix] = createFeatureMatrix(trainHeadlines, lexicon);
   [testMatrix,testErrorMatrix] = createFeatureMatrix(testHeadlines, lexicon);
 
-%  disp('Adding API Sums');
+  disp('Adding API Sums');
 
- % trainMatrix = [trainMatrix, trainAPISum];
- % testMatrix = [testMatrix, testAPISum];
+  trainMatrix = [trainMatrix, trainAPISum];
+  testMatrix = [testMatrix, testAPISum];
   
   disp('SVM:');
 
+
+%  disp('Running PCA');
+ % [trainMatrix, testMatrix] = pcaMatrices(trainMatrix, testMatrix);
+
 %  [model] = svm_train(trainMatrix, trainLabels);
 %  [predicted_label, accuracy, decision] = svm_test(testLabels, testMatrix, model);
+%  a = [testLabels, predicted_label]
 %  [precision, recall, accuracy] = stats(testLabels,predicted_label)
 %  statsMatrixSVM((i+1),1) = precision;
 %  statsMatrixSVM((i+1),2) = recall;
 %  statsMatrixSVM((i+1),3) = accuracy;
 
 
-  disp('NB')
+%  disp('NB')
 
-  for (j = 1:size(trainLabels,1))
-      if (trainLabels(j) == -1)
-	 trainLabels(j) = 0;
-      end
-  end
-     
-  for (j = 1:size(testLabels,1))
-      if (testLabels(j,1) == -1)
-	 trainLabels(j,1) = 0;
-      end
-  end
- 
   predicted_label = nb_run(trainMatrix, trainLabels, testMatrix, testLabels);
   [precision, recall, accuracy] = stats(testLabels, predicted_label);
   statsMatrixNB((i+1),1) = precision;
