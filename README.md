@@ -1,19 +1,26 @@
-Determining emotion in a piece of text is a difficult subset of "sentiment
-analysis" which has largely focused on a binary classification of text as 
+Let's say I give you a news headline to read. Can I predict whether or not
+you will be angry after reading it?
+
+Determining the emotion sparked by a piece of text is a difficult subset sentiment  a
+field which has largely focused on binary classification of text as
 positive or negative. Classifying sentences in one of six major emotion
-categories (anger, disgust, fear, joy, sadness, and surprise) can
-significantly contribute to fields including political polling, marketing, 
-and economics. In Project Pathos, we create a model to classify 'angry' news
-headlines from the SemEval 2007 Affective Text Task.
+categories (anger, disgust, fear, joy, sadness, and surprise) can make
+significant contributions to political polling, marketing, and stock
+market predictions. In this study, we focus on the first of these six
+emotions, anger, and develop a model to predict whether or not a reader
+will feel anger after reading a headline. Our model involves NLP tools -
+stemming, named entity recognition, and part of speech tagging - and a bag
+of words model run on a SVM with a linear kernel and a Naive Bayes
+Classifier with Laplace smoothing. We developed experimental models to
+test on smaller subsets of data including: PCA, to reduce dimensionality
+of data, a synonym algorithm, to expand each headline allowing our model
+to classify with respect to more words, and a co-occurrence model, to
+score each headline based on co-occurrences of words with the word `anger'
+in the New York Times archives. We attained accuracy between 70 - 75% across multiple data set sizes and
+up to 86% on experimental models with a smaller set. 
 
-Project Pathos has 2 basic parts:
+With these models, we hope to gain greater insight into
+methods that one can use to detect emotion within text.
 
-First, data collection and parsing. Pathos uses the NYTimes API to gather
-headlines from two lexicons, angryLexicon.txt and nonangryLexicon.txt. It
-runs these headlines as well as headlines from our evaluation set through
-a parser. Run the script collectAndParse.sh to collect training data and parse
-training and testing data. 
-
-Second, we classify. To do this we create a bag of words model from our
-training data and run it through an SVM and use it to classify our
-evaluation headlines.
+All the code is above and the code for our parser will be uploaded soon. 
+See our paper to learn more. 
