@@ -24,3 +24,5 @@ methods that one can use to detect emotion within text.
 
 All the code is above and the code for our parser will be uploaded soon. 
 See our paper to learn more. 
+
+This project was built by Anshul Samar and Bharad Raghavan for CS229 (Machine Learning) at Stanford University.
